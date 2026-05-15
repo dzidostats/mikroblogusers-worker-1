@@ -1,0 +1,122 @@
+[
+  {
+    "timestamp": 1778886148,
+    "id": 9143,
+    "name": "Adamant bolts",
+    "profit": null,
+    "avgHighPrice": 167,
+    "avgLowPrice": 154
+  },
+  {
+    "timestamp": 1778886148,
+    "id": 12510,
+    "name": "Armadyl chaps",
+    "profit": null,
+    "avgHighPrice": 234328,
+    "avgLowPrice": 208202
+  },
+  {
+    "timestamp": 1778886148,
+    "id": 24598,
+    "name": "Blighted super restore(4)",
+    "profit": null,
+    "avgHighPrice": 2188,
+    "avgLowPrice": 2096
+  },
+  {
+    "timestamp": 1778886148,
+    "id": 562,
+    "name": "Chaos rune",
+    "profit": null,
+    "avgHighPrice": 106,
+    "avgLowPrice": 102
+  },
+  {
+    "timestamp": 1778886148,
+    "id": 11232,
+    "name": "Dragon dart tip",
+    "profit": null,
+    "avgHighPrice": 1689,
+    "avgLowPrice": 1617
+  },
+  {
+    "timestamp": 1778886148,
+    "id": 11920,
+    "name": "Dragon pickaxe",
+    "profit": null,
+    "avgHighPrice": 566357,
+    "avgLowPrice": 542560
+  },
+  {
+    "timestamp": 1778886148,
+    "id": 29824,
+    "name": "Extended anti-venom+(4)",
+    "profit": null,
+    "avgHighPrice": 19333,
+    "avgLowPrice": 18378
+  },
+  {
+    "timestamp": 1778886148,
+    "id": 2357,
+    "name": "Gold bar",
+    "profit": null,
+    "avgHighPrice": 137,
+    "avgLowPrice": 121
+  },
+  {
+    "timestamp": 1778886148,
+    "id": 10828,
+    "name": "Helm of neitiznot",
+    "profit": null,
+    "avgHighPrice": 48789,
+    "avgLowPrice": 45833
+  },
+  {
+    "timestamp": 1778886148,
+    "id": 11902,
+    "name": "Leaf-bladed sword",
+    "profit": null,
+    "avgHighPrice": 81736,
+    "avgLowPrice": 62937
+  },
+  {
+    "timestamp": 1778886148,
+    "id": 25975,
+    "name": "Lightbearer",
+    "profit": null,
+    "avgHighPrice": 5105352,
+    "avgLowPrice": 4929981
+  },
+  {
+    "timestamp": 1778886148,
+    "id": 24229,
+    "name": "Ornate maul handle",
+    "profit": null,
+    "avgHighPrice": 682449,
+    "avgLowPrice": 656814
+  },
+  {
+    "timestamp": 1778886148,
+    "id": 9191,
+    "name": "Ruby bolt tips",
+    "profit": null,
+    "avgHighPrice": 107,
+    "avgLowPrice": 97
+  },
+  {
+    "timestamp": 1778886148,
+    "id": 1163,
+    "name": "Rune full helm",
+    "profit": null,
+    "avgHighPrice": 21406,
+    "avgLowPrice": 20617
+  },
+  {
+    "timestamp": 1778886148,
+    "id": 1941,
+    "name": "Swamp paste",
+    "profit": null,
+    "avgHighPrice": 25,
+    "avgLowPrice": 23
+  }
+]
