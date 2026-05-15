@@ -1,0 +1,210 @@
+[
+  {
+    "timestamp": 1778882299,
+    "id": 810,
+    "name": "Adamant dart",
+    "profit": null,
+    "avgHighPrice": 34,
+    "avgLowPrice": 32
+  },
+  {
+    "timestamp": 1778882299,
+    "id": 30843,
+    "name": "Aether rune",
+    "profit": null,
+    "avgHighPrice": 794,
+    "avgLowPrice": 758
+  },
+  {
+    "timestamp": 1778882299,
+    "id": 25404,
+    "name": "Bloodbark body",
+    "profit": null,
+    "avgHighPrice": 185662,
+    "avgLowPrice": 175854
+  },
+  {
+    "timestamp": 1778882299,
+    "id": 25416,
+    "name": "Bloodbark legs",
+    "profit": null,
+    "avgHighPrice": 189654,
+    "avgLowPrice": 180349
+  },
+  {
+    "timestamp": 1778882299,
+    "id": 12,
+    "name": "Cannon furnace",
+    "profit": null,
+    "avgHighPrice": 229750,
+    "avgLowPrice": 196475
+  },
+  {
+    "timestamp": 1778882299,
+    "id": 4722,
+    "name": "Dharok's platelegs",
+    "profit": null,
+    "avgHighPrice": 876668,
+    "avgLowPrice": 824592
+  },
+  {
+    "timestamp": 1778882299,
+    "id": 28942,
+    "name": "Echo crystal",
+    "profit": null,
+    "avgHighPrice": 4025989,
+    "avgLowPrice": 3891123
+  },
+  {
+    "timestamp": 1778882299,
+    "id": 20595,
+    "name": "Elder chaos hood",
+    "profit": null,
+    "avgHighPrice": 314808,
+    "avgLowPrice": 265000
+  },
+  {
+    "timestamp": 1778882299,
+    "id": 29895,
+    "name": "Frozen tear",
+    "profit": null,
+    "avgHighPrice": 328,
+    "avgLowPrice": 308
+  },
+  {
+    "timestamp": 1778882299,
+    "id": 2357,
+    "name": "Gold bar",
+    "profit": null,
+    "avgHighPrice": 133,
+    "avgLowPrice": 125
+  },
+  {
+    "timestamp": 1778882299,
+    "id": 21742,
+    "name": "Granite hammer",
+    "profit": null,
+    "avgHighPrice": 3642691,
+    "avgLowPrice": 3515836
+  },
+  {
+    "timestamp": 1778882299,
+    "id": 211,
+    "name": "Grimy avantoe",
+    "profit": null,
+    "avgHighPrice": 1825,
+    "avgLowPrice": 1750
+  },
+  {
+    "timestamp": 1778882299,
+    "id": 19481,
+    "name": "Heavy ballista",
+    "profit": null,
+    "avgHighPrice": 1050533,
+    "avgLowPrice": 1000000
+  },
+  {
+    "timestamp": 1778882299,
+    "id": 11902,
+    "name": "Leaf-bladed sword",
+    "profit": null,
+    "avgHighPrice": 65000,
+    "avgLowPrice": 44101
+  },
+  {
+    "timestamp": 1778882299,
+    "id": 12000,
+    "name": "Mystic smoke staff",
+    "profit": null,
+    "avgHighPrice": 2293479,
+    "avgLowPrice": 2219078
+  },
+  {
+    "timestamp": 1778882299,
+    "id": 12402,
+    "name": "Nardah teleport",
+    "profit": null,
+    "avgHighPrice": 20596,
+    "avgLowPrice": 19222
+  },
+  {
+    "timestamp": 1778882299,
+    "id": 5289,
+    "name": "Palm tree seed",
+    "profit": null,
+    "avgHighPrice": 22597,
+    "avgLowPrice": 21554
+  },
+  {
+    "timestamp": 1778882299,
+    "id": 2434,
+    "name": "Prayer potion(4)",
+    "profit": null,
+    "avgHighPrice": 8340,
+    "avgLowPrice": 8075
+  },
+  {
+    "timestamp": 1778882299,
+    "id": 10034,
+    "name": "Red chinchompa",
+    "profit": null,
+    "avgHighPrice": 1317,
+    "avgLowPrice": 1274
+  },
+  {
+    "timestamp": 1778882299,
+    "id": 6685,
+    "name": "Saradomin brew(4)",
+    "profit": null,
+    "avgHighPrice": 7952,
+    "avgLowPrice": 7598
+  },
+  {
+    "timestamp": 1778882299,
+    "id": 2,
+    "name": "Steel cannonball",
+    "profit": null,
+    "avgHighPrice": 276,
+    "avgLowPrice": 261
+  },
+  {
+    "timestamp": 1778882299,
+    "id": 28834,
+    "name": "Tecu salamander",
+    "profit": null,
+    "avgHighPrice": 273998,
+    "avgLowPrice": 242457
+  },
+  {
+    "timestamp": 1778882299,
+    "id": 20716,
+    "name": "Tome of fire (empty)",
+    "profit": null,
+    "avgHighPrice": 738034,
+    "avgLowPrice": 712290
+  },
+  {
+    "timestamp": 1778882299,
+    "id": 5321,
+    "name": "Watermelon seed",
+    "profit": null,
+    "avgHighPrice": 145,
+    "avgLowPrice": 43
+  },
+  {
+    "timestamp": 1778882299,
+    "id": 10370,
+    "name": "Zamorak d'hide body",
+    "profit": null,
+    "avgHighPrice": 134753,
+    "avgLowPrice": 116312
+  },
+  {
+    "timestamp": 1778882299,
+    "id": 30321,
+    "name": "Zombie helmet",
+    "profit": null,
+    "avgHighPrice": 248147,
+    "avgLowPrice": 224530
+  }
+]
