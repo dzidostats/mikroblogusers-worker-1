@@ -1,0 +1,77 @@
+name: OSRS Undervalued Items Filter latest
+
+on:
+  workflow_dispatch:
+
+jobs:
+  filter:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download data
+        run: |
+          curl -s -o prices.json https://prices.runescape.wiki/api/v1/osrs/latest
+          curl -s -o mapping.json https://prices.runescape.wiki/api/v1/osrs/mapping
+
+      - name: Filter undervalued items latest
+        run: |
+          jq -n \
+            --slurpfile prices prices.json \
+            --slurpfile mapping mapping.json '
+
+            ($prices[0].data) as $p |
+
+            # zamiana mapping na lookup (szybsze niż map lookup)
+            ($mapping[0] | map({key: (.id|tostring), value: .}) | from_entries) as $m |
+
+            $p
+            | to_entries
+            | map(
+                . as $entry
+                | ($m[.key]) as $item
+                | select($item != null)
+
+                | (.value.high) as $high
+                | (.value.low) as $low
+
+                | select($high != null and $low != null)
+                | select($high > 0 and $low > 0)
+
+                | ($item.value * 0.1) as $minPrice
+
+                # filtr undervalued
+                | select($high < $minPrice)
+                | select($low < $minPrice)
+
+                | {
+                    id: .key,
+                    name: $item.name,
+                    limit: $item.limit,
+                    value: $item.value,
+
+                    high,
+                    low,
+                    minimalPrice: $minPrice,
+
+                    spread: ($high - $low)
+                  }
+              )
+          ' > result.json
+
+      - name: Save result
+        run: |
+          mkdir -p output
+          mv result.json output/latestresult.json
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add output/
+          git diff --cached --quiet || (
+            git commit -m "OSRS undervalued items update latest"
+            git push
+          )
