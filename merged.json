@@ -1,92 +1,74 @@
 [
   {
-    "id": 534,
+    "id": 21326,
+    "limit": 11000,
+    "name": "Amethyst arrow",
+    "avgHighPrice": 199,
+    "highPriceVolume": 7400,
+    "avgLowPrice": 191,
+    "lowPriceVolume": 7172
+  },
+  {
+    "id": 532,
     "limit": 3000,
-    "name": "Babydragon bones",
-    "avgHighPrice": 758,
-    "highPriceVolume": 1100,
-    "avgLowPrice": 713,
-    "lowPriceVolume": 1677
+    "name": "Big bones",
+    "avgHighPrice": 268,
+    "highPriceVolume": 2269,
+    "avgLowPrice": 246,
+    "lowPriceVolume": 1293
   },
   {
-    "id": 9243,
-    "limit": 11000,
-    "name": "Diamond bolts (e)",
-    "avgHighPrice": 134,
-    "highPriceVolume": 1432,
-    "avgLowPrice": 124,
-    "lowPriceVolume": 9570
+    "id": 24607,
+    "limit": 15000,
+    "name": "Blighted ancient ice sack",
+    "avgHighPrice": 295,
+    "highPriceVolume": 9509,
+    "avgLowPrice": 281,
+    "lowPriceVolume": 98772
   },
   {
-    "id": 23733,
+    "id": 24598,
     "limit": 2000,
-    "name": "Divine ranging potion(4)",
-    "avgHighPrice": 6269,
-    "highPriceVolume": 303,
-    "avgLowPrice": 6040,
-    "lowPriceVolume": 297
+    "name": "Blighted super restore(4)",
+    "avgHighPrice": 2170,
+    "highPriceVolume": 1211,
+    "avgLowPrice": 2077,
+    "lowPriceVolume": 3403
   },
   {
-    "id": 5350,
-    "limit": 10000,
-    "name": "Empty plant pot",
-    "avgHighPrice": 15,
-    "highPriceVolume": 150,
-    "avgLowPrice": 7,
-    "lowPriceVolume": 306
+    "id": 560,
+    "limit": 25000,
+    "name": "Death rune",
+    "avgHighPrice": 196,
+    "highPriceVolume": 124384,
+    "avgLowPrice": 190,
+    "lowPriceVolume": 139059
   },
   {
-    "id": 32307,
-    "limit": 8000,
-    "name": "Fine fish offcuts",
-    "avgHighPrice": 724,
-    "highPriceVolume": 2000,
-    "avgLowPrice": 690,
-    "lowPriceVolume": 328
+    "id": 563,
+    "limit": 18000,
+    "name": "Law rune",
+    "avgHighPrice": 122,
+    "highPriceVolume": 37269,
+    "avgLowPrice": 118,
+    "lowPriceVolume": 39727
   },
   {
-    "id": 9242,
+    "id": 892,
     "limit": 11000,
-    "name": "Ruby bolts (e)",
-    "avgHighPrice": 183,
-    "highPriceVolume": 2448,
-    "avgLowPrice": 171,
-    "lowPriceVolume": 1270
+    "name": "Rune arrow",
+    "avgHighPrice": 79,
+    "highPriceVolume": 31256,
+    "avgLowPrice": 76,
+    "lowPriceVolume": 18205
   },
   {
-    "id": 19580,
-    "limit": 10000,
-    "name": "Rune javelin tips",
-    "avgHighPrice": 546,
-    "highPriceVolume": 318,
-    "avgLowPrice": 524,
-    "lowPriceVolume": 559
-  },
-  {
-    "id": 9337,
-    "limit": 11000,
-    "name": "Sapphire bolts",
-    "avgHighPrice": 43,
-    "highPriceVolume": 2555,
-    "avgLowPrice": 36,
-    "lowPriceVolume": 700
-  },
-  {
-    "id": 22593,
-    "limit": 10000,
-    "name": "Te salt",
-    "avgHighPrice": 95,
-    "highPriceVolume": 2300,
-    "avgLowPrice": 86,
-    "lowPriceVolume": 2250
-  },
-  {
-    "id": 1621,
-    "limit": 10000,
-    "name": "Uncut emerald",
-    "avgHighPrice": 674,
-    "highPriceVolume": 19626,
-    "avgLowPrice": 640,
-    "lowPriceVolume": 136
+    "id": 22879,
+    "limit": 200,
+    "name": "Snape grass seed",
+    "avgHighPrice": 13123,
+    "highPriceVolume": 348,
+    "avgLowPrice": 12533,
+    "lowPriceVolume": 444
   }
 ]
