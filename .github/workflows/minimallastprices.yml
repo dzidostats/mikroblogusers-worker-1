@@ -69,12 +69,12 @@ jobs:
                     spread: ($high - $low)
                   }
               )
-          ' > resultlatest.json
+          ' > result.json
 
       - name: Save result
         run: |
           mkdir -p output
-          mv result.json output/resultlatest.json
+          mv result.json output/result.json
 
       - name: Commit results
         run: |
