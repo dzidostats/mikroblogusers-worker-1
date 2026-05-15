@@ -48,7 +48,7 @@ jobs:
                         ($price.avgHighPrice * 0.97)
                         - $price.avgLowPrice
                       ) * .limit
-                    ) > 100000
+                    ) > 50000
                   )
 
                 # wynik końcowy
