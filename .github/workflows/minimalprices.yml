@@ -1,0 +1,77 @@
+name: OSRS Filter Engine (Manual)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  filter:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download data
+        run: |
+          curl -s -o prices.json https://prices.runescape.wiki/api/v1/osrs/5m
+          curl -s -o mapping.json https://prices.runescape.wiki/api/v1/osrs/mapping
+
+      - name: Filter items
+        run: |
+          jq -n \
+            --slurpfile prices prices.json \
+            --slurpfile mapping mapping.json '
+
+            ($prices[0].data) as $p |
+
+            $mapping[0]
+            | map(
+                ($p[(.id|tostring)]) as $price
+                | select($price != null)
+
+                # wymagane dane
+                | select($price.avgHighPrice != null)
+                | select($price.avgLowPrice != null)
+
+                # aliasy
+                | ($price.avgHighPrice) as $avgHigh
+                | ($price.avgLowPrice) as $avgLow
+                | (.value / 10) as $minPrice
+
+                # warunki
+                | select(
+                    (
+                      ($avgHigh <= 100 and $avgHigh > $minPrice)
+                      or
+                      ($avgHigh > 100 and ($avgHigh * 0.97) > $minPrice)
+                    )
+                  )
+
+                # output
+                | {
+                    id,
+                    name,
+                    limit,
+                    value,
+                    avgHighPrice: $avgHigh,
+                    avgLowPrice: $avgLow,
+                    minimalPrice: $minPrice
+                  }
+              )
+          ' > result.json
+
+      - name: Save result
+        run: |
+          mkdir -p output
+          mv result.json output/result.json
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add output/
+
+          git diff --cached --quiet || (
+            git commit -m "Manual OSRS filter run"
+            git push
+          )
