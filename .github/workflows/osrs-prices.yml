@@ -49,7 +49,7 @@ jobs:
                   ) as $vol
 
                 # limit tylko na volume
-                | ($vol, .limit | min) as $realVol
+                | ([ $vol, .limit ] | min) as $realVol
 
                 # profit
                 | ($margin * $realVol) as $profit
