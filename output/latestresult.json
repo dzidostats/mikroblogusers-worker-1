@@ -1,0 +1,242 @@
+[
+  {
+    "id": "48",
+    "name": "Longbow (u)",
+    "limit": 10000,
+    "value": 60,
+    "high": null,
+    "low": null,
+    "minimalPrice": 6,
+    "spread": -1
+  },
+  {
+    "id": "1131",
+    "name": "Hardleather body",
+    "limit": 125,
+    "value": 170,
+    "high": null,
+    "low": null,
+    "minimalPrice": 17,
+    "spread": 1
+  },
+  {
+    "id": "1175",
+    "name": "Iron sq shield",
+    "limit": 125,
+    "value": 168,
+    "high": null,
+    "low": null,
+    "minimalPrice": 16.8,
+    "spread": 1
+  },
+  {
+    "id": "1225",
+    "name": "Mithril dagger(p)",
+    "limit": 125,
+    "value": 325,
+    "high": null,
+    "low": null,
+    "minimalPrice": 32.5,
+    "spread": 0
+  },
+  {
+    "id": "1233",
+    "name": "Black dagger(p)",
+    "limit": 125,
+    "value": 240,
+    "high": null,
+    "low": null,
+    "minimalPrice": 24,
+    "spread": -10
+  },
+  {
+    "id": "2038",
+    "name": "Premade sgg",
+    "limit": 2000,
+    "value": 30,
+    "high": null,
+    "low": null,
+    "minimalPrice": 3,
+    "spread": 0
+  },
+  {
+    "id": "3335",
+    "name": "Broken bark snelm",
+    "limit": 150,
+    "value": 300,
+    "high": null,
+    "low": null,
+    "minimalPrice": 30,
+    "spread": 16
+  },
+  {
+    "id": "3761",
+    "name": "Fremennik brown cloak",
+    "limit": 150,
+    "value": 250,
+    "high": null,
+    "low": null,
+    "minimalPrice": 25,
+    "spread": 8
+  },
+  {
+    "id": "4525",
+    "name": "Empty oil lamp",
+    "limit": 10000,
+    "value": 25,
+    "high": null,
+    "low": null,
+    "minimalPrice": 2.5,
+    "spread": 0
+  },
+  {
+    "id": "5529",
+    "name": "Mind tiara",
+    "limit": 40,
+    "value": 100,
+    "high": null,
+    "low": null,
+    "minimalPrice": 10,
+    "spread": 2
+  },
+  {
+    "id": "5533",
+    "name": "Body tiara",
+    "limit": 40,
+    "value": 100,
+    "high": null,
+    "low": null,
+    "minimalPrice": 10,
+    "spread": 1
+  },
+  {
+    "id": "5535",
+    "name": "Earth tiara",
+    "limit": 40,
+    "value": 100,
+    "high": null,
+    "low": null,
+    "minimalPrice": 10,
+    "spread": 0
+  },
+  {
+    "id": "5537",
+    "name": "Fire tiara",
+    "limit": 40,
+    "value": 100,
+    "high": null,
+    "low": null,
+    "minimalPrice": 10,
+    "spread": 0
+  },
+  {
+    "id": "5708",
+    "name": "Steel spear(p+)",
+    "limit": 125,
+    "value": 325,
+    "high": null,
+    "low": null,
+    "minimalPrice": 32.5,
+    "spread": 0
+  },
+  {
+    "id": "6472",
+    "name": "Compost potion(3)",
+    "limit": 50,
+    "value": 90,
+    "high": null,
+    "low": null,
+    "minimalPrice": 9,
+    "spread": 0
+  },
+  {
+    "id": "6476",
+    "name": "Compost potion(1)",
+    "limit": 50,
+    "value": 30,
+    "high": null,
+    "low": null,
+    "minimalPrice": 3,
+    "spread": -1
+  },
+  {
+    "id": "9440",
+    "name": "Wooden stock",
+    "limit": 10000,
+    "value": 20,
+    "high": null,
+    "low": null,
+    "minimalPrice": 2,
+    "spread": 0
+  },
+  {
+    "id": "10047",
+    "name": "Graahk legs",
+    "limit": 150,
+    "value": 150,
+    "high": null,
+    "low": null,
+    "minimalPrice": 15,
+    "spread": 0
+  },
+  {
+    "id": "21486",
+    "name": "Teak seed",
+    "limit": 200,
+    "value": 48,
+    "high": null,
+    "low": null,
+    "minimalPrice": 4.800000000000001,
+    "spread": -2
+  },
+  {
+    "id": "22873",
+    "name": "Potato cactus seed",
+    "limit": 200,
+    "value": 140,
+    "high": null,
+    "low": null,
+    "minimalPrice": 14,
+    "spread": 4
+  },
+  {
+    "id": "30406",
+    "name": "Raging echoes top (t1)",
+    "limit": null,
+    "value": 100000,
+    "high": null,
+    "low": null,
+    "minimalPrice": 10000,
+    "spread": 889
+  },
+  {
+    "id": "31205",
+    "name": "Grid master altar icon scroll",
+    "limit": null,
+    "value": 2500000,
+    "high": null,
+    "low": null,
+    "minimalPrice": 250000,
+    "spread": -14119
+  },
+  {
+    "id": "31208",
+    "name": "Grid master torch scroll",
+    "limit": null,
+    "value": 2500000,
+    "high": null,
+    "low": null,
+    "minimalPrice": 250000,
+    "spread": 123170
+  },
+  {
+    "id": "32041",
+    "name": "Wooden hull parts",
+    "limit": 100,
+    "value": 250,
+    "high": null,
+    "low": null,
+    "minimalPrice": 25,
+    "spread": 0
+  }
+]
