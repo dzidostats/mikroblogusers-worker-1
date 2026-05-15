@@ -15,8 +15,8 @@ jobs:
 
       - name: Download JSON files
         run: |
-          curl -o prices.json https://prices.runescape.wiki/api/v1/osrs/5m
-          curl -o mapping.json https://prices.runescape.wiki/api/v1/osrs/mapping
+          curl -s -o prices.json https://prices.runescape.wiki/api/v1/osrs/5m
+          curl -s -o mapping.json https://prices.runescape.wiki/api/v1/osrs/mapping
 
       - name: Merge and filter
         run: |
@@ -31,11 +31,12 @@ jobs:
                 ($p[(.id|tostring)]) as $price
                 | select($price != null)
 
-                # wymagane dane
+                # pełne zabezpieczenia NULL
                 | select($price.avgHighPrice != null)
                 | select($price.avgLowPrice != null)
-                | select($price.highPriceVolume > 0)
-                | select($price.lowPriceVolume > 0)
+                | select($price.highPriceVolume != null)
+                | select($price.lowPriceVolume != null)
+                | select(.limit != null)
 
                 # margin
                 | ($price.avgHighPrice * 0.97 - $price.avgLowPrice) as $margin
@@ -45,16 +46,16 @@ jobs:
                     if $price.highPriceVolume > $price.lowPriceVolume
                     then $price.lowPriceVolume
                     else $price.highPriceVolume
-                    end
-                  ) as $vol
+                  end
+                ) as $vol
 
-                # limit tylko na volume
+                # limit tylko na volume (SAFE)
                 | ([ $vol, .limit ] | min) as $realVol
 
                 # profit
                 | ($margin * $realVol) as $profit
 
-                # filtr
+                # filtr minimalny
                 | select($profit > 10000)
 
                 # wynik
