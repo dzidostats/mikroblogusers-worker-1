@@ -18,7 +18,7 @@ jobs:
           curl -o prices.json https://prices.runescape.wiki/api/v1/osrs/5m
           curl -o mapping.json https://prices.runescape.wiki/api/v1/osrs/mapping
 
-      - name: Merge and filter by conditions
+      - name: Merge and filter
         run: |
           jq -n \
             --slurpfile prices prices.json \
@@ -37,27 +37,27 @@ jobs:
                 | select($price.highPriceVolume > 0)
                 | select($price.lowPriceVolume > 0)
 
-                # baza
-                | (
-                    ($price.avgHighPrice * 0.97)
-                    - $price.avgLowPrice
-                  ) as $margin
+                # margin
+                ($price.avgHighPrice * 0.97 - $price.avgLowPrice) as $margin
 
-                # wybór wolumenu
-                | (
-                    if $price.highPriceVolume > $price.lowPriceVolume
-                    then $price.lowPriceVolume
-                    else $price.highPriceVolume
-                    end
-                  ) as $vol
+                # wybór mniejszego wolumenu (realny flow rynku)
+                (
+                  if $price.highPriceVolume > $price.lowPriceVolume
+                  then $price.lowPriceVolume
+                  else $price.highPriceVolume
+                  end
+                ) as $vol
 
-                # wyliczenie zysku
-                | ($margin * $vol) as $profit
+                # LIMIT DOTYCZY TYLKO VOLUME
+                ($vol, .limit | min) as $realVol
 
-                # warunek > 10000
+                # profit
+                ($margin * $realVol) as $profit
+
+                # filtr
                 | select($profit > 10000)
 
-                # clamp do limitu
+                # wynik
                 | {
                     id,
                     limit,
@@ -66,7 +66,7 @@ jobs:
                     avgLowPrice: $price.avgLowPrice,
                     highPriceVolume: $price.highPriceVolume,
                     lowPriceVolume: $price.lowPriceVolume,
-                    profit: (if $profit > .limit then .limit else $profit end)
+                    profit: $profit
                   }
               )
 
