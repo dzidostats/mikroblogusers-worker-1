@@ -29,10 +29,12 @@ jobs:
       - name: Generate charts
         run: |
           mkdir -p charts
-          DATE=$(date -u +%F)
+          DAY=$(TZ="Europe/Warsaw" date +%y%m%d)
 
           jq -c '.[]' dataset.json | while read item; do
             name=$(echo "$item" | jq -r '.name' | tr " /" "__")
+
+            mkdir -p "charts/$DAY"
 
             echo "$item" | jq '{
               chartType: "line",
@@ -47,7 +49,7 @@ jobs:
                 valueFormat: "integer"
               }],
               data: .data
-            }' > "charts/${DATE}_${name}.json"
+            }' > "charts/'"$DAY"'/${name}.json"
           done
 
       - name: Commit charts
