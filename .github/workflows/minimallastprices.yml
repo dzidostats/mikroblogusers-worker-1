@@ -15,7 +15,7 @@ jobs:
           curl -s -o prices.json https://prices.runescape.wiki/api/v1/osrs/latest
           curl -s -o mapping.json https://prices.runescape.wiki/api/v1/osrs/mapping
 
-      - name: Filter undervalued items latest
+      - name: Filter undervalued items
         run: |
           jq -n \
             --slurpfile prices prices.json \
@@ -23,8 +23,11 @@ jobs:
 
             ($prices[0].data) as $p |
 
-            # zamiana mapping na lookup (szybsze niż map lookup)
-            ($mapping[0] | map({key: (.id|tostring), value: .}) | from_entries) as $m |
+            # mapping -> lookup (szybkie wyszukiwanie po id)
+            ($mapping[0]
+              | map({key: (.id|tostring), value: .})
+              | from_entries
+            ) as $m |
 
             $p
             | to_entries
@@ -33,37 +36,45 @@ jobs:
                 | ($m[.key]) as $item
                 | select($item != null)
 
+                # wymagane pola price
+                | select($item.value != null)
+                | select($item.value > 0)
+
+                # dane rynkowe
                 | (.value.high) as $high
                 | (.value.low) as $low
 
+                # ❌ kluczowa poprawka: ignoruj null high/low
                 | select($high != null and $low != null)
                 | select($high > 0 and $low > 0)
 
-                | (($item.value // 0) * 0.1) as $minPrice
+                # minimalna wartość (10% NPC value)
+                | ($item.value * 0.1) as $minPrice
 
                 # filtr undervalued
                 | select($high < $minPrice)
                 | select($low < $minPrice)
 
+                # output
                 | {
                     id: .key,
                     name: $item.name,
                     limit: $item.limit,
                     value: $item.value,
 
-                    high,
-                    low,
-                    minimalPrice: $minPrice,
+                    high: $high,
+                    low: $low,
 
+                    minimalPrice: $minPrice,
                     spread: ($high - $low)
                   }
               )
-          ' > result.json
+          ' > resultlatest.json
 
       - name: Save result
         run: |
           mkdir -p output
-          mv result.json output/latestresult.json
+          mv result.json output/resultlatest.json
 
       - name: Commit results
         run: |
