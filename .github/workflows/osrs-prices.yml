@@ -31,14 +31,27 @@ jobs:
                 ($p[(.id|tostring)]) as $price
                 | select($price != null)
 
-                # warunki filtrowania
+                # wymagane dane
                 | select($price.avgHighPrice != null)
                 | select($price.avgLowPrice != null)
+                | select(.limit != null)
+
+                # podstawowe warunki
                 | select(($price.avgHighPrice * 0.97) > $price.avgLowPrice)
                 | select($price.highPriceVolume > 100)
                 | select($price.lowPriceVolume > 100)
 
-                # finalny wynik
+                # warunek zysku
+                | select(
+                    (
+                      (
+                        ($price.avgHighPrice * 0.97)
+                        - $price.avgLowPrice
+                      ) * .limit
+                    ) > 100000
+                  )
+
+                # wynik końcowy
                 | {
                     id,
                     limit,
