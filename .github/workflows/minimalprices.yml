@@ -41,7 +41,8 @@ jobs:
 
                 # FILTR: cena rynkowa poniżej 10% wartości itemu
                 | select($avgHigh < $minPrice)
-
+                | select($avgLow < $minPrice)
+                
                 # output
                 | {
                     id,
