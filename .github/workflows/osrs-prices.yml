@@ -18,7 +18,7 @@ jobs:
           curl -o prices.json https://prices.runescape.wiki/api/v1/osrs/5m
           curl -o mapping.json https://prices.runescape.wiki/api/v1/osrs/mapping
 
-      - name: Merge by ID
+      - name: Merge and filter by conditions
         run: |
           jq -n \
             --slurpfile prices prices.json \
@@ -28,12 +28,22 @@ jobs:
 
             $mapping[0]
             | map(
-                select(($p[(.id|tostring)]) != null)
+                ($p[(.id|tostring)]) as $price
+                | select($price != null)
+
+                # warunki filtrowania
+                | select($price.avgHighPrice != null)
+                | select($price.avgLowPrice != null)
+                | select(($price.avgHighPrice * 0.97) > $price.avgLowPrice)
+                | select($price.highPriceVolume > 100)
+                | select($price.lowPriceVolume > 100)
+
+                # finalny wynik
                 | {
                     id,
                     limit,
                     name
-                  } + $p[(.id|tostring)]
+                  } + $price
               )
 
           ' > merged.json
