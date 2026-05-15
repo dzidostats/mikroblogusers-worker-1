@@ -1,0 +1,63 @@
+name: OSRS Daily Charts
+
+on:
+  schedule:
+    - cron: "30 23 * * *"
+  workflow_dispatch:
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build dataset
+        run: |
+          jq -s '
+            flatten
+            | group_by(.name)
+            | map({
+                name: .[0].name,
+                data: map({
+                  time: .timestamp,
+                  profit: .profit
+                })
+              })
+          ' data/*/*.json > dataset.json
+
+      - name: Generate charts
+        run: |
+          mkdir -p charts
+          DATE=$(date -u +%F)
+
+          jq -c '.[]' dataset.json | while read item; do
+            name=$(echo "$item" | jq -r '.name' | tr " /" "__")
+
+            echo "$item" | jq '{
+              chartType: "line",
+              meta: {
+                title: .name,
+                description: "Daily profit trend"
+              },
+              xKey: "time",
+              series: [{
+                dataKey: "profit",
+                label: "Profit",
+                valueFormat: "integer"
+              }],
+              data: .data
+            }' > "charts/${DATE}_${name}.json"
+          done
+
+      - name: Commit charts
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add charts/
+
+          git diff --cached --quiet || (
+            git commit -m "Daily OSRS charts"
+            git push
+          )
