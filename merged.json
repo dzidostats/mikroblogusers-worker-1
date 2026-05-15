@@ -1,5 +1,86 @@
 [
   {
+    "id": 534,
+    "limit": 3000,
+    "name": "Babydragon bones",
+    "avgHighPrice": 758,
+    "highPriceVolume": 1100,
+    "avgLowPrice": 713,
+    "lowPriceVolume": 1677
+  },
+  {
+    "id": 9243,
+    "limit": 11000,
+    "name": "Diamond bolts (e)",
+    "avgHighPrice": 134,
+    "highPriceVolume": 1432,
+    "avgLowPrice": 124,
+    "lowPriceVolume": 9570
+  },
+  {
+    "id": 23733,
+    "limit": 2000,
+    "name": "Divine ranging potion(4)",
+    "avgHighPrice": 6269,
+    "highPriceVolume": 303,
+    "avgLowPrice": 6040,
+    "lowPriceVolume": 297
+  },
+  {
+    "id": 5350,
+    "limit": 10000,
+    "name": "Empty plant pot",
+    "avgHighPrice": 15,
+    "highPriceVolume": 150,
+    "avgLowPrice": 7,
+    "lowPriceVolume": 306
+  },
+  {
+    "id": 32307,
+    "limit": 8000,
+    "name": "Fine fish offcuts",
+    "avgHighPrice": 724,
+    "highPriceVolume": 2000,
+    "avgLowPrice": 690,
+    "lowPriceVolume": 328
+  },
+  {
+    "id": 9242,
+    "limit": 11000,
+    "name": "Ruby bolts (e)",
+    "avgHighPrice": 183,
+    "highPriceVolume": 2448,
+    "avgLowPrice": 171,
+    "lowPriceVolume": 1270
+  },
+  {
+    "id": 19580,
+    "limit": 10000,
+    "name": "Rune javelin tips",
+    "avgHighPrice": 546,
+    "highPriceVolume": 318,
+    "avgLowPrice": 524,
+    "lowPriceVolume": 559
+  },
+  {
+    "id": 9337,
+    "limit": 11000,
+    "name": "Sapphire bolts",
+    "avgHighPrice": 43,
+    "highPriceVolume": 2555,
+    "avgLowPrice": 36,
+    "lowPriceVolume": 700
+  },
+  {
+    "id": 22593,
+    "limit": 10000,
+    "name": "Te salt",
+    "avgHighPrice": 95,
+    "highPriceVolume": 2300,
+    "avgLowPrice": 86,
+    "lowPriceVolume": 2250
+  },
+  {
     "id": 1621,
     "limit": 10000,
     "name": "Uncut emerald",
