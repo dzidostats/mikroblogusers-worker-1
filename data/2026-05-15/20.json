@@ -1,0 +1,122 @@
+[
+  {
+    "timestamp": 1778876119,
+    "id": 556,
+    "name": "Air rune",
+    "profit": null,
+    "avgHighPrice": 5,
+    "avgLowPrice": 4
+  },
+  {
+    "timestamp": 1778876119,
+    "id": 11826,
+    "name": "Armadyl helmet",
+    "profit": null,
+    "avgHighPrice": 9113134,
+    "avgLowPrice": 8622000
+  },
+  {
+    "timestamp": 1778876119,
+    "id": 11836,
+    "name": "Bandos boots",
+    "profit": null,
+    "avgHighPrice": 898111,
+    "avgLowPrice": 848000
+  },
+  {
+    "timestamp": 1778876119,
+    "id": 12502,
+    "name": "Bandos chaps",
+    "profit": null,
+    "avgHighPrice": 171093,
+    "avgLowPrice": 155205
+  },
+  {
+    "timestamp": 1778876119,
+    "id": 12524,
+    "name": "Black dragon mask",
+    "profit": null,
+    "avgHighPrice": 99000,
+    "avgLowPrice": 60978
+  },
+  {
+    "timestamp": 1778876119,
+    "id": 11037,
+    "name": "Brine sabre",
+    "profit": null,
+    "avgHighPrice": 318000,
+    "avgLowPrice": 297490
+  },
+  {
+    "timestamp": 1778876119,
+    "id": 4726,
+    "name": "Guthan's warspear",
+    "profit": null,
+    "avgHighPrice": 110455,
+    "avgLowPrice": 94341
+  },
+  {
+    "timestamp": 1778876119,
+    "id": 10380,
+    "name": "Guthix chaps",
+    "profit": null,
+    "avgHighPrice": 178069,
+    "avgLowPrice": 162272
+  },
+  {
+    "timestamp": 1778876119,
+    "id": 1523,
+    "name": "Lockpick",
+    "profit": null,
+    "avgHighPrice": 291,
+    "avgLowPrice": 238
+  },
+  {
+    "timestamp": 1778876119,
+    "id": 21387,
+    "name": "Master scroll book (empty)",
+    "profit": null,
+    "avgHighPrice": 72000,
+    "avgLowPrice": 56460
+  },
+  {
+    "timestamp": 1778876119,
+    "id": 809,
+    "name": "Mithril dart",
+    "profit": null,
+    "avgHighPrice": 12,
+    "avgLowPrice": 10
+  },
+  {
+    "timestamp": 1778876119,
+    "id": 7418,
+    "name": "Mole skin",
+    "profit": null,
+    "avgHighPrice": 4859,
+    "avgLowPrice": 4316
+  },
+  {
+    "timestamp": 1778876119,
+    "id": 22281,
+    "name": "Red d'hide shield",
+    "profit": null,
+    "avgHighPrice": 18398,
+    "avgLowPrice": 7000
+  },
+  {
+    "timestamp": 1778876119,
+    "id": 1607,
+    "name": "Sapphire",
+    "profit": null,
+    "avgHighPrice": 287,
+    "avgLowPrice": 266
+  },
+  {
+    "timestamp": 1778876119,
+    "id": 20716,
+    "name": "Tome of fire (empty)",
+    "profit": null,
+    "avgHighPrice": 750000,
+    "avgLowPrice": 707500
+  }
+]
