@@ -1,4 +1,3 @@
-```yaml
 name: Merge OSRS Prices
 
 on:
@@ -53,4 +52,3 @@ jobs:
             git commit -m "Update merged OSRS data"
             git push
           )
-```
