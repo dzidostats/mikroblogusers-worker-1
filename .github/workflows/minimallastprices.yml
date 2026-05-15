@@ -39,7 +39,7 @@ jobs:
                 | select($high != null and $low != null)
                 | select($high > 0 and $low > 0)
 
-                | ($item.value * 0.1) as $minPrice
+                | (($item.value // 0) * 0.1) as $minPrice
 
                 # filtr undervalued
                 | select($high < $minPrice)
