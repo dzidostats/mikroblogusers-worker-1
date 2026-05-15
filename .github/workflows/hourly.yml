@@ -30,13 +30,17 @@ jobs:
                 ($p[(.id|tostring)]) as $price
                 | select($price != null)
 
+                # SAFE CHECKS (fix crash)
                 | select($price.avgHighPrice != null)
                 | select($price.avgLowPrice != null)
-                | select($price.highPriceVolume > 0)
-                | select($price.lowPriceVolume > 0)
+                | select($price.highPriceVolume != null)
+                | select($price.lowPriceVolume != null)
+                | select(.limit != null)
 
-                | ($price.avgHighPrice * 0.97 - $price.avgLowPrice) as $margin
+                # margin
+                | (($price.avgHighPrice * 0.97) - $price.avgLowPrice) as $margin
 
+                # wybór mniejszego wolumenu
                 | (
                     if $price.highPriceVolume > $price.lowPriceVolume
                     then $price.lowPriceVolume
@@ -44,11 +48,16 @@ jobs:
                   end
                 ) as $vol
 
+                # limit tylko na volume
                 | ([ $vol, .limit ] | min) as $realVol
+
+                # profit
                 | ($margin * $realVol) as $profit
 
+                # filtr
                 | select($profit > 10000)
 
+                # output
                 | {
                     timestamp: (now|floor),
                     id,
@@ -58,6 +67,7 @@ jobs:
                     avgLowPrice: $price.avgLowPrice
                   }
               )
+
           ' > result.json
 
       - name: Save hourly file
@@ -68,7 +78,7 @@ jobs:
           mkdir -p data/$DATE
           mv result.json data/$DATE/$HOUR.json
 
-      - name: Commit
+      - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
