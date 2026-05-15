@@ -1,0 +1,54 @@
+name: Merge OSRS Prices
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *"
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Download files
+        run: |
+          curl -o prices.json https://prices.runescape.wiki/api/v1/osrs/5m
+          curl -o mapping.json https://prices.runescape.wiki/api/v1/osrs/mapping
+
+      - name: Merge by ID
+        run: |
+          jq -n \
+            --slurpfile prices prices.json \
+            --slurpfile mapping mapping.json '
+            
+            # dane cenowe
+            ($prices[0].data) as $p |
+
+            # iteracja po mapping
+            $mapping[0]
+            | map(
+                select(($p[(.id|tostring)]) != null)
+                | . + {
+                    priceData: $p[(.id|tostring)]
+                  }
+              )
+
+          ' > merged.json
+
+      - name: Show output
+        run: cat merged.json
+
+      - name: Commit merged file
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add merged.json
+
+          git diff --cached --quiet || (
+            git commit -m "Update merged OSRS data"
+            git push
+          )
