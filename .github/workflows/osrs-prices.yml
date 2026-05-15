@@ -38,21 +38,21 @@ jobs:
                 | select($price.lowPriceVolume > 0)
 
                 # margin
-                ($price.avgHighPrice * 0.97 - $price.avgLowPrice) as $margin
+                | ($price.avgHighPrice * 0.97 - $price.avgLowPrice) as $margin
 
-                # wybór mniejszego wolumenu (realny flow rynku)
-                (
-                  if $price.highPriceVolume > $price.lowPriceVolume
-                  then $price.lowPriceVolume
-                  else $price.highPriceVolume
-                  end
-                ) as $vol
+                # wybór mniejszego wolumenu
+                | (
+                    if $price.highPriceVolume > $price.lowPriceVolume
+                    then $price.lowPriceVolume
+                    else $price.highPriceVolume
+                    end
+                  ) as $vol
 
-                # LIMIT DOTYCZY TYLKO VOLUME
-                ($vol, .limit | min) as $realVol
+                # limit tylko na volume
+                | ($vol, .limit | min) as $realVol
 
                 # profit
-                ($margin * $realVol) as $profit
+                | ($margin * $realVol) as $profit
 
                 # filtr
                 | select($profit > 10000)
