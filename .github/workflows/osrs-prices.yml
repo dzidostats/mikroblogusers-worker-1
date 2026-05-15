@@ -1,3 +1,4 @@
+```yaml
 name: Merge OSRS Prices
 
 on:
@@ -13,7 +14,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Download files
+      - name: Download JSON files
         run: |
           curl -o prices.json https://prices.runescape.wiki/api/v1/osrs/5m
           curl -o mapping.json https://prices.runescape.wiki/api/v1/osrs/mapping
@@ -23,22 +24,22 @@ jobs:
           jq -n \
             --slurpfile prices prices.json \
             --slurpfile mapping mapping.json '
-            
-            # dane cenowe
+
             ($prices[0].data) as $p |
 
-            # iteracja po mapping
             $mapping[0]
             | map(
                 select(($p[(.id|tostring)]) != null)
-                | . + {
-                    priceData: $p[(.id|tostring)]
-                  }
+                | {
+                    id,
+                    limit,
+                    name
+                  } + $p[(.id|tostring)]
               )
 
           ' > merged.json
 
-      - name: Show output
+      - name: Show merged file
         run: cat merged.json
 
       - name: Commit merged file
@@ -52,3 +53,4 @@ jobs:
             git commit -m "Update merged OSRS data"
             git push
           )
+```
