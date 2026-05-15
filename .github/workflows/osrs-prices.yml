@@ -34,21 +34,27 @@ jobs:
                 # wymagane dane
                 | select($price.avgHighPrice != null)
                 | select($price.avgLowPrice != null)
-                | select(.limit != null)
 
                 # podstawowe warunki
                 | select(($price.avgHighPrice * 0.97) > $price.avgLowPrice)
                 | select($price.highPriceVolume > 100)
                 | select($price.lowPriceVolume > 100)
 
-                # warunek zysku
+                # warunek zysku zależny od mniejszego volume
                 | select(
                     (
                       (
                         ($price.avgHighPrice * 0.97)
                         - $price.avgLowPrice
-                      ) * .limit
-                    ) > 50000
+                      )
+                      *
+                      (
+                        if $price.highPriceVolume > $price.lowPriceVolume
+                        then $price.lowPriceVolume
+                        else $price.highPriceVolume
+                        end
+                      )
+                    ) > 10000
                   )
 
                 # wynik końcowy
