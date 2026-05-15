@@ -1,74 +1,252 @@
 [
   {
-    "id": 21326,
-    "limit": 11000,
-    "name": "Amethyst arrow",
-    "avgHighPrice": 199,
-    "highPriceVolume": 7400,
-    "avgLowPrice": 191,
-    "lowPriceVolume": 7172
+    "id": 12492,
+    "limit": 8,
+    "name": "Ancient d'hide body",
+    "avgHighPrice": 125819,
+    "avgLowPrice": 106701,
+    "highPriceVolume": 2,
+    "lowPriceVolume": 1,
+    "profit": 8
   },
   {
-    "id": 532,
-    "limit": 3000,
-    "name": "Big bones",
-    "avgHighPrice": 268,
-    "highPriceVolume": 2269,
-    "avgLowPrice": 246,
-    "lowPriceVolume": 1293
+    "id": 22246,
+    "limit": 4,
+    "name": "Anguish ornament kit",
+    "avgHighPrice": 4450927,
+    "avgLowPrice": 4221102,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 2,
+    "profit": 4
   },
   {
     "id": 24607,
     "limit": 15000,
     "name": "Blighted ancient ice sack",
-    "avgHighPrice": 295,
-    "highPriceVolume": 9509,
-    "avgLowPrice": 281,
-    "lowPriceVolume": 98772
+    "avgHighPrice": 292,
+    "avgLowPrice": 282,
+    "highPriceVolume": 12266,
+    "lowPriceVolume": 9646,
+    "profit": 11961.040000000088
   },
   {
-    "id": 24598,
-    "limit": 2000,
-    "name": "Blighted super restore(4)",
-    "avgHighPrice": 2170,
-    "highPriceVolume": 1211,
-    "avgLowPrice": 2077,
-    "lowPriceVolume": 3403
+    "id": 28988,
+    "limit": 15,
+    "name": "Blue moon spear",
+    "avgHighPrice": 369759,
+    "avgLowPrice": 344003,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 3,
+    "profit": 15
   },
   {
-    "id": 560,
-    "limit": 25000,
-    "name": "Death rune",
-    "avgHighPrice": 196,
-    "highPriceVolume": 124384,
-    "avgLowPrice": 190,
-    "lowPriceVolume": 139059
+    "id": 12,
+    "limit": 70,
+    "name": "Cannon furnace",
+    "avgHighPrice": 248494,
+    "avgLowPrice": 227264,
+    "highPriceVolume": 2,
+    "lowPriceVolume": 1,
+    "profit": 70
   },
   {
-    "id": 563,
-    "limit": 18000,
-    "name": "Law rune",
-    "avgHighPrice": 122,
-    "highPriceVolume": 37269,
-    "avgLowPrice": 118,
-    "lowPriceVolume": 39727
+    "id": 1187,
+    "limit": 70,
+    "name": "Dragon sq shield",
+    "avgHighPrice": 314986,
+    "avgLowPrice": 299300,
+    "highPriceVolume": 2,
+    "lowPriceVolume": 3,
+    "profit": 70
   },
   {
-    "id": 892,
+    "id": 31142,
+    "limit": 2,
+    "name": "Eclipse moon armour set",
+    "avgHighPrice": 7035703,
+    "avgLowPrice": 6712782,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 2,
+    "profit": 2
+  },
+  {
+    "id": 554,
+    "limit": 50000,
+    "name": "Fire rune",
+    "avgHighPrice": 5,
+    "avgLowPrice": 4,
+    "highPriceVolume": 36390,
+    "lowPriceVolume": 20000,
+    "profit": 16999.999999999993
+  },
+  {
+    "id": 2357,
+    "limit": 10000,
+    "name": "Gold bar",
+    "avgHighPrice": 129,
+    "avgLowPrice": 123,
+    "highPriceVolume": 31317,
+    "lowPriceVolume": 26135,
+    "profit": 10000
+  },
+  {
+    "id": 6918,
+    "limit": 125,
+    "name": "Infinity hat",
+    "avgHighPrice": 2263365,
+    "avgLowPrice": 2133149,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 1,
+    "profit": 125
+  },
+  {
+    "id": 4738,
+    "limit": 15,
+    "name": "Karil's leatherskirt",
+    "avgHighPrice": 484999,
+    "avgLowPrice": 459293,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 1,
+    "profit": 15
+  },
+  {
+    "id": 12780,
+    "limit": 10000,
+    "name": "Lassar teleport (tablet)",
+    "avgHighPrice": 1597,
+    "avgLowPrice": 1074,
+    "highPriceVolume": 23,
+    "lowPriceVolume": 54,
+    "profit": 10000
+  },
+  {
+    "id": 6914,
+    "limit": 70,
+    "name": "Master wand",
+    "avgHighPrice": 2212441,
+    "avgLowPrice": 2124520,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 1,
+    "profit": 70
+  },
+  {
+    "id": 9731,
+    "limit": 70,
+    "name": "Mind shield",
+    "avgHighPrice": 90000,
+    "avgLowPrice": 72290,
+    "highPriceVolume": 2,
+    "lowPriceVolume": 1,
+    "profit": 70
+  },
+  {
+    "id": 12402,
+    "limit": 10000,
+    "name": "Nardah teleport",
+    "avgHighPrice": 20844,
+    "avgLowPrice": 19220,
+    "highPriceVolume": 28,
+    "lowPriceVolume": 17,
+    "profit": 10000
+  },
+  {
+    "id": 5502,
+    "limit": 200,
+    "name": "Palm sapling",
+    "avgHighPrice": 26000,
+    "avgLowPrice": 24824,
+    "highPriceVolume": 104,
+    "lowPriceVolume": 234,
+    "profit": 200
+  },
+  {
+    "id": 23249,
+    "limit": 8,
+    "name": "Rangers' tights",
+    "avgHighPrice": 341605,
+    "avgLowPrice": 320000,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 1,
+    "profit": 8
+  },
+  {
+    "id": 12596,
+    "limit": 4,
+    "name": "Rangers' tunic",
+    "avgHighPrice": 2482262,
+    "avgLowPrice": 2375729,
+    "highPriceVolume": 4,
+    "lowPriceVolume": 1,
+    "profit": 4
+  },
+  {
+    "id": 29116,
+    "limit": 13000,
+    "name": "Raw sunlight antelope",
+    "avgHighPrice": 2979,
+    "avgLowPrice": 2713,
+    "highPriceVolume": 92,
+    "lowPriceVolume": 72,
+    "profit": 12717.360000000008
+  },
+  {
+    "id": 9242,
     "limit": 11000,
-    "name": "Rune arrow",
-    "avgHighPrice": 79,
-    "highPriceVolume": 31256,
-    "avgLowPrice": 76,
-    "lowPriceVolume": 18205
+    "name": "Ruby bolts (e)",
+    "avgHighPrice": 185,
+    "avgLowPrice": 171,
+    "highPriceVolume": 6903,
+    "lowPriceVolume": 1744,
+    "profit": 11000
+  },
+  {
+    "id": 231,
+    "limit": 13000,
+    "name": "Snape grass",
+    "avgHighPrice": 560,
+    "avgLowPrice": 535,
+    "highPriceVolume": 2809,
+    "lowPriceVolume": 5073,
+    "profit": 13000
   },
   {
     "id": 22879,
     "limit": 200,
     "name": "Snape grass seed",
-    "avgHighPrice": 13123,
-    "highPriceVolume": 348,
-    "avgLowPrice": 12533,
-    "lowPriceVolume": 444
+    "avgHighPrice": 13296,
+    "avgLowPrice": 12656,
+    "highPriceVolume": 166,
+    "lowPriceVolume": 88,
+    "profit": 200
+  },
+  {
+    "id": 27785,
+    "limit": 8,
+    "name": "Thammaron's sceptre (au)",
+    "avgHighPrice": 3553644,
+    "avgLowPrice": 3346264,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 2,
+    "profit": 8
+  },
+  {
+    "id": 23908,
+    "limit": 50,
+    "name": "Zalcano shard",
+    "avgHighPrice": 115000,
+    "avgLowPrice": 87941,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 1,
+    "profit": 50
+  },
+  {
+    "id": 10372,
+    "limit": 8,
+    "name": "Zamorak chaps",
+    "avgHighPrice": 244853,
+    "avgLowPrice": 226812,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 2,
+    "profit": 8
   }
 ]
