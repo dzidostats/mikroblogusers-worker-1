@@ -31,12 +31,16 @@ jobs:
                 # wymagane dane
                 | select($price.avgHighPrice != null)
                 | select($price.avgLowPrice != null)
+                | select($price.highPriceVolume != null
+                | select($price.lowPriceVolume != null
                 | select($price.avgHighPrice > 0)
                 | select($price.avgLowPrice > 0)
 
                 # przypisania
                 | ($price.avgHighPrice) as $avgHigh
                 | ($price.avgLowPrice) as $avgLow
+                | ($price.highPriceVolume) as $highVolume
+                | ($price.lowPriceVolume) as $lowVolume
                 | (.value * 0.1) as $minPrice
 
                 # FILTR: cena rynkowa poniżej 10% wartości itemu
@@ -52,8 +56,10 @@ jobs:
                     avgHighPrice: $avgHigh,
                     avgLowPrice: $avgLow,
                     minimalPrice: $minPrice,
-                    highPriceVolume,
-                    lowPriceVolume
+                    highPriceVolume: $highVolume,
+                    lowPriceVolume: $lowVolume,
+                    
+                    
                   }
               )
           ' > result.json
