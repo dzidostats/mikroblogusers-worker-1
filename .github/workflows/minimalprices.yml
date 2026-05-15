@@ -51,7 +51,9 @@ jobs:
                     value,
                     avgHighPrice: $avgHigh,
                     avgLowPrice: $avgLow,
-                    minimalPrice: $minPrice
+                    minimalPrice: $minPrice,
+                    highPriceVolume: $highVolume,
+                    lowPriceVolume: $lowVolume
                   }
               )
           ' > result.json
