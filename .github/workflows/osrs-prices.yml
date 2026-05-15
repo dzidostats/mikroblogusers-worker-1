@@ -34,35 +34,40 @@ jobs:
                 # wymagane dane
                 | select($price.avgHighPrice != null)
                 | select($price.avgLowPrice != null)
+                | select($price.highPriceVolume > 0)
+                | select($price.lowPriceVolume > 0)
 
-                # podstawowe warunki
-                | select(($price.avgHighPrice * 0.97) > $price.avgLowPrice)
-                | select($price.highPriceVolume > 100)
-                | select($price.lowPriceVolume > 100)
+                # baza
+                | (
+                    ($price.avgHighPrice * 0.97)
+                    - $price.avgLowPrice
+                  ) as $margin
 
-                # warunek zysku zależny od mniejszego volume
-                | select(
-                    (
-                      (
-                        ($price.avgHighPrice * 0.97)
-                        - $price.avgLowPrice
-                      )
-                      *
-                      (
-                        if $price.highPriceVolume > $price.lowPriceVolume
-                        then $price.lowPriceVolume
-                        else $price.highPriceVolume
-                        end
-                      )
-                    ) > 10000
-                  )
+                # wybór wolumenu
+                | (
+                    if $price.highPriceVolume > $price.lowPriceVolume
+                    then $price.lowPriceVolume
+                    else $price.highPriceVolume
+                    end
+                  ) as $vol
 
-                # wynik końcowy
+                # wyliczenie zysku
+                | ($margin * $vol) as $profit
+
+                # warunek > 10000
+                | select($profit > 10000)
+
+                # clamp do limitu
                 | {
                     id,
                     limit,
-                    name
-                  } + $price
+                    name,
+                    avgHighPrice: $price.avgHighPrice,
+                    avgLowPrice: $price.avgLowPrice,
+                    highPriceVolume: $price.highPriceVolume,
+                    lowPriceVolume: $price.lowPriceVolume,
+                    profit: (if $profit > .limit then .limit else $profit end)
+                  }
               )
 
           ' > merged.json
