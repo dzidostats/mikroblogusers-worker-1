@@ -1,4 +1,4 @@
-name: OSRS Filter Engine (Manual)
+name: OSRS Undervalued Items Filter
 
 on:
   workflow_dispatch:
@@ -15,7 +15,7 @@ jobs:
           curl -s -o prices.json https://prices.runescape.wiki/api/v1/osrs/5m
           curl -s -o mapping.json https://prices.runescape.wiki/api/v1/osrs/mapping
 
-      - name: Filter items
+      - name: Filter undervalued items
         run: |
           jq -n \
             --slurpfile prices prices.json \
@@ -31,20 +31,16 @@ jobs:
                 # wymagane dane
                 | select($price.avgHighPrice != null)
                 | select($price.avgLowPrice != null)
+                | select($price.avgHighPrice > 0)
+                | select($price.avgLowPrice > 0)
 
-                # aliasy
+                # przypisania
                 | ($price.avgHighPrice) as $avgHigh
                 | ($price.avgLowPrice) as $avgLow
-                | (.value / 10) as $minPrice
+                | (.value * 0.1) as $minPrice
 
-                # warunki
-                | select(
-                    (
-                      ($avgHigh <= 100 and $avgHigh > $minPrice)
-                      or
-                      ($avgHigh > 100 and ($avgHigh * 0.97) > $minPrice)
-                    )
-                  )
+                # FILTR: cena rynkowa poniżej 10% wartości itemu
+                | select($avgHigh < $minPrice)
 
                 # output
                 | {
@@ -72,6 +68,6 @@ jobs:
           git add output/
 
           git diff --cached --quiet || (
-            git commit -m "Manual OSRS filter run"
+            git commit -m "OSRS undervalued items update"
             git push
           )
