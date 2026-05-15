@@ -1,24 +1,23 @@
-name: Merge OSRS Prices
+name: OSRS Hourly Snapshot
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "0 * * * *"
+  workflow_dispatch:
 
 jobs:
-  merge:
+  snapshot:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Download JSON files
+      - name: Download data
         run: |
           curl -s -o prices.json https://prices.runescape.wiki/api/v1/osrs/5m
           curl -s -o mapping.json https://prices.runescape.wiki/api/v1/osrs/mapping
 
-      - name: Merge and filter
+      - name: Merge data
         run: |
           jq -n \
             --slurpfile prices prices.json \
@@ -31,17 +30,13 @@ jobs:
                 ($p[(.id|tostring)]) as $price
                 | select($price != null)
 
-                # pełne zabezpieczenia NULL
                 | select($price.avgHighPrice != null)
                 | select($price.avgLowPrice != null)
-                | select($price.highPriceVolume != null)
-                | select($price.lowPriceVolume != null)
-                | select(.limit != null)
+                | select($price.highPriceVolume > 0)
+                | select($price.lowPriceVolume > 0)
 
-                # margin
                 | ($price.avgHighPrice * 0.97 - $price.avgLowPrice) as $margin
 
-                # wybór mniejszego wolumenu
                 | (
                     if $price.highPriceVolume > $price.lowPriceVolume
                     then $price.lowPriceVolume
@@ -49,41 +44,38 @@ jobs:
                   end
                 ) as $vol
 
-                # limit tylko na volume (SAFE)
                 | ([ $vol, .limit ] | min) as $realVol
-
-                # profit
                 | ($margin * $realVol) as $profit
 
-                # filtr minimalny
                 | select($profit > 10000)
 
-                # wynik
                 | {
+                    timestamp: (now|floor),
                     id,
-                    limit,
                     name,
+                    profit,
                     avgHighPrice: $price.avgHighPrice,
-                    avgLowPrice: $price.avgLowPrice,
-                    highPriceVolume: $price.highPriceVolume,
-                    lowPriceVolume: $price.lowPriceVolume,
-                    profit: $profit
+                    avgLowPrice: $price.avgLowPrice
                   }
               )
+          ' > result.json
 
-          ' > merged.json
+      - name: Save hourly file
+        run: |
+          DATE=$(date -u +%F)
+          HOUR=$(date -u +%H)
 
-      - name: Show merged file
-        run: cat merged.json
+          mkdir -p data/$DATE
+          mv result.json data/$DATE/$HOUR.json
 
-      - name: Commit merged file
+      - name: Commit
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add merged.json
+          git add data/
 
           git diff --cached --quiet || (
-            git commit -m "Update merged OSRS data"
+            git commit -m "Hourly OSRS snapshot"
             git push
           )
