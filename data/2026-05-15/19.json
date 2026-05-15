@@ -1,0 +1,194 @@
+[
+  {
+    "timestamp": 1778871764,
+    "id": 12490,
+    "name": "Ancient bracers",
+    "profit": null,
+    "avgHighPrice": 38000,
+    "avgLowPrice": 29519
+  },
+  {
+    "timestamp": 1778871764,
+    "id": 27616,
+    "name": "Ancient essence",
+    "profit": null,
+    "avgHighPrice": 17,
+    "avgLowPrice": 16
+  },
+  {
+    "timestamp": 1778871764,
+    "id": 12775,
+    "name": "Annakarl teleport (tablet)",
+    "profit": null,
+    "avgHighPrice": 2000,
+    "avgLowPrice": 1808
+  },
+  {
+    "timestamp": 1778871764,
+    "id": 28991,
+    "name": "Atlatl dart",
+    "profit": null,
+    "avgHighPrice": 220,
+    "avgLowPrice": 211
+  },
+  {
+    "timestamp": 1778871764,
+    "id": 30816,
+    "name": "Contract of bloodied blows",
+    "profit": null,
+    "avgHighPrice": 47426,
+    "avgLowPrice": 44816
+  },
+  {
+    "timestamp": 1778871764,
+    "id": 2357,
+    "name": "Gold bar",
+    "profit": null,
+    "avgHighPrice": 133,
+    "avgLowPrice": 127
+  },
+  {
+    "timestamp": 1778871764,
+    "id": 21643,
+    "name": "Granite boots",
+    "profit": null,
+    "avgHighPrice": 388931,
+    "avgLowPrice": 357755
+  },
+  {
+    "timestamp": 1778871764,
+    "id": 19481,
+    "name": "Heavy ballista",
+    "profit": null,
+    "avgHighPrice": 1015339,
+    "avgLowPrice": 976385
+  },
+  {
+    "timestamp": 1778871764,
+    "id": 10828,
+    "name": "Helm of neitiznot",
+    "profit": null,
+    "avgHighPrice": 48800,
+    "avgLowPrice": 46056
+  },
+  {
+    "timestamp": 1778871764,
+    "id": 22327,
+    "name": "Justiciar chestguard",
+    "profit": null,
+    "avgHighPrice": 11177595,
+    "avgLowPrice": 10831546
+  },
+  {
+    "timestamp": 1778871764,
+    "id": 4736,
+    "name": "Karil's leathertop",
+    "profit": null,
+    "avgHighPrice": 1336216,
+    "avgLowPrice": 1190849
+  },
+  {
+    "timestamp": 1778871764,
+    "id": 12779,
+    "name": "Kharyrll teleport (tablet)",
+    "profit": null,
+    "avgHighPrice": 9314,
+    "avgLowPrice": 6000
+  },
+  {
+    "timestamp": 1778871764,
+    "id": 6332,
+    "name": "Mahogany logs",
+    "profit": null,
+    "avgHighPrice": 255,
+    "avgLowPrice": 241
+  },
+  {
+    "timestamp": 1778871764,
+    "id": 7416,
+    "name": "Mole claw",
+    "profit": null,
+    "avgHighPrice": 5875,
+    "avgLowPrice": 5413
+  },
+  {
+    "timestamp": 1778871764,
+    "id": 7418,
+    "name": "Mole skin",
+    "profit": null,
+    "avgHighPrice": 5072,
+    "avgLowPrice": 4448
+  },
+  {
+    "timestamp": 1778871764,
+    "id": 21304,
+    "name": "Obsidian platelegs",
+    "profit": null,
+    "avgHighPrice": 995541,
+    "avgLowPrice": 946750
+  },
+  {
+    "timestamp": 1778871764,
+    "id": 12002,
+    "name": "Occult necklace",
+    "profit": null,
+    "avgHighPrice": 473400,
+    "avgLowPrice": 452870
+  },
+  {
+    "timestamp": 1778871764,
+    "id": 824,
+    "name": "Rune dart tip",
+    "profit": null,
+    "avgHighPrice": 1190,
+    "avgLowPrice": 1141
+  },
+  {
+    "timestamp": 1778871764,
+    "id": 1607,
+    "name": "Sapphire",
+    "profit": null,
+    "avgHighPrice": 274,
+    "avgLowPrice": 260
+  },
+  {
+    "timestamp": 1778871764,
+    "id": 21940,
+    "name": "Sapphire dragon bolts (e)",
+    "profit": null,
+    "avgHighPrice": 3080,
+    "avgLowPrice": 2841
+  },
+  {
+    "timestamp": 1778871764,
+    "id": 566,
+    "name": "Soul rune",
+    "profit": null,
+    "avgHighPrice": 374,
+    "avgLowPrice": 362
+  },
+  {
+    "timestamp": 1778871764,
+    "id": 28924,
+    "name": "Sunfire splinters",
+    "profit": null,
+    "avgHighPrice": 386,
+    "avgLowPrice": 374
+  },
+  {
+    "timestamp": 1778871764,
+    "id": 6523,
+    "name": "Toktz-xil-ak",
+    "profit": null,
+    "avgHighPrice": 426186,
+    "avgLowPrice": 408267
+  },
+  {
+    "timestamp": 1778871764,
+    "id": 30321,
+    "name": "Zombie helmet",
+    "profit": null,
+    "avgHighPrice": 252339,
+    "avgLowPrice": 231684
+  }
+]
