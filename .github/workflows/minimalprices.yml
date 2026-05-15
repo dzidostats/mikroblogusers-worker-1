@@ -57,7 +57,7 @@ jobs:
                     avgLowPrice: $avgLow,
                     minimalPrice: $minPrice,
                     highPriceVolume: $highVolume,
-                    lowPriceVolume: $lowVolume,
+                    lowPriceVolume: $lowVolume
                     
                     
                   }
