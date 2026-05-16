@@ -1,192 +1,68 @@
 [
   {
-    "id": "48",
-    "name": "Longbow (u)",
-    "limit": 10000,
-    "value": 60,
-    "high": 4,
-    "low": 4,
-    "minimalPrice": 6,
-    "spread": 0
-  },
-  {
-    "id": "802",
-    "name": "Steel thrownaxe",
-    "limit": 7000,
-    "value": 26,
-    "high": 1,
-    "low": 1,
-    "minimalPrice": 2.6,
-    "spread": 0
-  },
-  {
-    "id": "1175",
-    "name": "Iron sq shield",
-    "limit": 125,
-    "value": 168,
-    "high": 11,
-    "low": 11,
-    "minimalPrice": 16.8,
-    "spread": 0
-  },
-  {
-    "id": "1225",
-    "name": "Mithril dagger(p)",
-    "limit": 125,
-    "value": 325,
-    "high": 7,
-    "low": 7,
-    "minimalPrice": 32.5,
-    "spread": 0
-  },
-  {
-    "id": "3335",
-    "name": "Broken bark snelm",
-    "limit": 150,
-    "value": 300,
-    "high": 18,
-    "low": 2,
-    "minimalPrice": 30,
-    "spread": 16
-  },
-  {
-    "id": "3761",
-    "name": "Fremennik brown cloak",
-    "limit": 150,
-    "value": 250,
-    "high": 11,
-    "low": 3,
-    "minimalPrice": 25,
-    "spread": 8
-  },
-  {
-    "id": "5527",
+    "id": 5527,
     "name": "Air tiara",
     "limit": 40,
     "value": 100,
-    "high": 3,
-    "low": 3,
+    "avgHighPrice": 3,
+    "avgLowPrice": 3,
     "minimalPrice": 10,
-    "spread": 0
+    "highPriceVolume": 12,
+    "lowPriceVolume": 1
   },
   {
-    "id": "5529",
-    "name": "Mind tiara",
-    "limit": 40,
-    "value": 100,
-    "high": 1,
-    "low": 3,
-    "minimalPrice": 10,
-    "spread": -2
-  },
-  {
-    "id": "5533",
-    "name": "Body tiara",
-    "limit": 40,
-    "value": 100,
-    "high": 5,
-    "low": 4,
-    "minimalPrice": 10,
-    "spread": 1
-  },
-  {
-    "id": "5535",
+    "id": 5535,
     "name": "Earth tiara",
     "limit": 40,
     "value": 100,
-    "high": 6,
-    "low": 6,
+    "avgHighPrice": 6,
+    "avgLowPrice": 5,
     "minimalPrice": 10,
-    "spread": 0
+    "highPriceVolume": 7,
+    "lowPriceVolume": 4
   },
   {
-    "id": "5708",
-    "name": "Steel spear(p+)",
+    "id": 1175,
+    "name": "Iron sq shield",
     "limit": 125,
-    "value": 325,
-    "high": 1,
-    "low": 1,
-    "minimalPrice": 32.5,
-    "spread": 0
+    "value": 168,
+    "avgHighPrice": 11,
+    "avgLowPrice": 11,
+    "minimalPrice": 16.8,
+    "highPriceVolume": 3,
+    "lowPriceVolume": 1
   },
   {
-    "id": "6470",
-    "name": "Compost potion(4)",
-    "limit": 50,
-    "value": 120,
-    "high": 4,
-    "low": 11,
-    "minimalPrice": 12,
-    "spread": -7
-  },
-  {
-    "id": "6472",
-    "name": "Compost potion(3)",
-    "limit": 50,
-    "value": 90,
-    "high": 1,
-    "low": 1,
-    "minimalPrice": 9,
-    "spread": 0
-  },
-  {
-    "id": "9440",
-    "name": "Wooden stock",
+    "id": 48,
+    "name": "Longbow (u)",
     "limit": 10000,
-    "value": 20,
-    "high": 1,
-    "low": 1,
-    "minimalPrice": 2,
-    "spread": 0
+    "value": 60,
+    "avgHighPrice": 3,
+    "avgLowPrice": 4,
+    "minimalPrice": 6,
+    "highPriceVolume": 583,
+    "lowPriceVolume": 274
   },
   {
-    "id": "10031",
-    "name": "Rabbit snare",
-    "limit": 250,
-    "value": 15,
-    "high": 1,
-    "low": 1,
-    "minimalPrice": 1.5,
-    "spread": 0
+    "id": 5529,
+    "name": "Mind tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 2,
+    "avgLowPrice": 3,
+    "minimalPrice": 10,
+    "highPriceVolume": 7,
+    "lowPriceVolume": 116
   },
   {
-    "id": "22254",
-    "name": "Willow shield",
-    "limit": 18000,
-    "value": 160,
-    "high": 12,
-    "low": 10,
-    "minimalPrice": 16,
-    "spread": 2
-  },
-  {
-    "id": "31205",
-    "name": "Grid master altar icon scroll",
-    "limit": null,
-    "value": 2500000,
-    "high": 100000,
-    "low": 100000,
-    "minimalPrice": 250000,
-    "spread": 0
-  },
-  {
-    "id": "31208",
-    "name": "Grid master torch scroll",
-    "limit": null,
-    "value": 2500000,
-    "high": 114782,
-    "low": 127182,
-    "minimalPrice": 250000,
-    "spread": -12400
-  },
-  {
-    "id": "32041",
+    "id": 32041,
     "name": "Wooden hull parts",
     "limit": 100,
     "value": 250,
-    "high": 15,
-    "low": 10,
+    "avgHighPrice": 15,
+    "avgLowPrice": 10,
     "minimalPrice": 25,
-    "spread": 5
+    "highPriceVolume": 11,
+    "lowPriceVolume": 10
   }
 ]
