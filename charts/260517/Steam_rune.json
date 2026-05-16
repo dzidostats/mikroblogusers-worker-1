@@ -1,0 +1,33 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Steam rune",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778926400,
+      "profit": null
+    },
+    {
+      "time": 1778937492,
+      "profit": null
+    },
+    {
+      "time": 1778947020,
+      "profit": null
+    },
+    {
+      "time": 1778967999,
+      "profit": null
+    }
+  ]
+}
