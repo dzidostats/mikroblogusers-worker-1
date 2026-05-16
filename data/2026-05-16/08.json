@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": 1778918503,
+    "id": 4738,
+    "name": "Karil's leatherskirt",
+    "profit": null,
+    "avgHighPrice": 609774,
+    "avgLowPrice": 535523
+  },
+  {
+    "timestamp": 1778918503,
+    "id": 4099,
+    "name": "Mystic hat (dark)",
+    "profit": null,
+    "avgHighPrice": 93829,
+    "avgLowPrice": 77222
+  },
+  {
+    "timestamp": 1778918503,
+    "id": 21932,
+    "name": "Opal dragon bolts (e)",
+    "profit": null,
+    "avgHighPrice": 3227,
+    "avgLowPrice": 3024
+  },
+  {
+    "timestamp": 1778918503,
+    "id": 21820,
+    "name": "Revenant ether",
+    "profit": null,
+    "avgHighPrice": 179,
+    "avgLowPrice": 173
+  },
+  {
+    "timestamp": 1778918503,
+    "id": 2550,
+    "name": "Ring of recoil",
+    "profit": null,
+    "avgHighPrice": 821,
+    "avgLowPrice": 783
+  },
+  {
+    "timestamp": 1778918503,
+    "id": 566,
+    "name": "Soul rune",
+    "profit": null,
+    "avgHighPrice": 390,
+    "avgLowPrice": 374
+  },
+  {
+    "timestamp": 1778918503,
+    "id": 12821,
+    "name": "Spectral spirit shield",
+    "profit": null,
+    "avgHighPrice": 29444755,
+    "avgLowPrice": 28452090
+  },
+  {
+    "timestamp": 1778918503,
+    "id": 6735,
+    "name": "Warrior ring",
+    "profit": null,
+    "avgHighPrice": 65178,
+    "avgLowPrice": 56632
+  },
+  {
+    "timestamp": 1778918503,
+    "id": 855,
+    "name": "Yew longbow",
+    "profit": null,
+    "avgHighPrice": 576,
+    "avgLowPrice": 556
+  },
+  {
+    "timestamp": 1778918503,
+    "id": 19936,
+    "name": "Zamorak d'hide boots",
+    "profit": null,
+    "avgHighPrice": 262567,
+    "avgLowPrice": 235114
+  }
+]
