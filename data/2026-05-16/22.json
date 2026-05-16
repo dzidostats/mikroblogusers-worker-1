@@ -1,0 +1,2378 @@
+[
+  {
+    "timestamp": 1778971341,
+    "id": 10352,
+    "name": "3rd age kiteshield",
+    "profit": null,
+    "avgHighPrice": 88278170,
+    "avgLowPrice": 85252621
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 13267,
+    "name": "Abyssal dagger (p)",
+    "profit": null,
+    "avgHighPrice": 1833565,
+    "avgLowPrice": 1650000
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 5626,
+    "name": "Adamant arrow(p++)",
+    "profit": null,
+    "avgHighPrice": 46,
+    "avgLowPrice": 38
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 43,
+    "name": "Adamant arrowtips",
+    "profit": null,
+    "avgHighPrice": 98,
+    "avgLowPrice": 72
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 1371,
+    "name": "Adamant battleaxe",
+    "profit": null,
+    "avgHighPrice": 2309,
+    "avgLowPrice": 2090
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 9143,
+    "name": "Adamant bolts",
+    "profit": null,
+    "avgHighPrice": 154,
+    "avgLowPrice": 141
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 810,
+    "name": "Adamant dart",
+    "profit": null,
+    "avgHighPrice": 33,
+    "avgLowPrice": 31
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 13020,
+    "name": "Adamant gold-trimmed set (lg)",
+    "profit": null,
+    "avgHighPrice": 73419,
+    "avgLowPrice": 64293
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 2609,
+    "name": "Adamant platelegs (g)",
+    "profit": null,
+    "avgHighPrice": 24352,
+    "avgLowPrice": 12500
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 4823,
+    "name": "Adamantite nails",
+    "profit": null,
+    "avgHighPrice": 122,
+    "avgLowPrice": 114
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12881,
+    "name": "Ahrim's armour set",
+    "profit": null,
+    "avgHighPrice": 4613436,
+    "avgLowPrice": 4300000
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 4710,
+    "name": "Ahrim's staff",
+    "profit": null,
+    "avgHighPrice": 188901,
+    "avgLowPrice": 182123
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 556,
+    "name": "Air rune",
+    "profit": null,
+    "avgHighPrice": 6,
+    "avgLowPrice": 5
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 1438,
+    "name": "Air talisman",
+    "profit": null,
+    "avgHighPrice": 228,
+    "avgLowPrice": 171
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 20056,
+    "name": "Ale of the gods",
+    "profit": null,
+    "avgHighPrice": 263222,
+    "avgLowPrice": 217817
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 25849,
+    "name": "Amethyst dart",
+    "profit": null,
+    "avgHighPrice": 213,
+    "avgLowPrice": 203
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 25857,
+    "name": "Amethyst dart(p++)",
+    "profit": null,
+    "avgHighPrice": 1209,
+    "avgLowPrice": 1050
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 11964,
+    "name": "Amulet of glory (t6)",
+    "profit": null,
+    "avgHighPrice": 57136,
+    "avgLowPrice": 32050
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 23354,
+    "name": "Amulet of power (t)",
+    "profit": null,
+    "avgHighPrice": 417897,
+    "avgLowPrice": 397157
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12490,
+    "name": "Ancient bracers",
+    "profit": null,
+    "avgHighPrice": 35595,
+    "avgLowPrice": 30090
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 26227,
+    "name": "Ancient ceremonial gloves",
+    "profit": null,
+    "avgHighPrice": 53764,
+    "avgLowPrice": 23001
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12494,
+    "name": "Ancient chaps",
+    "profit": null,
+    "avgHighPrice": 184920,
+    "avgLowPrice": 169210
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 21804,
+    "name": "Ancient crystal",
+    "profit": null,
+    "avgHighPrice": 164189,
+    "avgLowPrice": 152559
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 19921,
+    "name": "Ancient d'hide boots",
+    "profit": null,
+    "avgHighPrice": 266754,
+    "avgLowPrice": 236734
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 4675,
+    "name": "Ancient staff",
+    "profit": null,
+    "avgHighPrice": 60671,
+    "avgLowPrice": 58359
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 22246,
+    "name": "Anguish ornament kit",
+    "profit": null,
+    "avgHighPrice": 4534708,
+    "avgLowPrice": 4383676
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 20101,
+    "name": "Ankou gloves",
+    "profit": null,
+    "avgHighPrice": 3067736,
+    "avgLowPrice": 2681090
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 20095,
+    "name": "Ankou mask",
+    "profit": null,
+    "avgHighPrice": 11274000,
+    "avgLowPrice": 10818701
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 20098,
+    "name": "Ankou top",
+    "profit": null,
+    "avgHighPrice": 19561206,
+    "avgLowPrice": 18883497
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 20104,
+    "name": "Ankou's leggings",
+    "profit": null,
+    "avgHighPrice": 8247996,
+    "avgLowPrice": 7888666
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 19631,
+    "name": "Ape atoll teleport (tablet)",
+    "profit": null,
+    "avgHighPrice": 16627,
+    "avgLowPrice": 8007
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 10810,
+    "name": "Arctic pine logs",
+    "profit": null,
+    "avgHighPrice": 846,
+    "avgLowPrice": 766
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 31650,
+    "name": "Armadyl brew(4)",
+    "profit": null,
+    "avgHighPrice": 1949,
+    "avgLowPrice": 1839
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12510,
+    "name": "Armadyl chaps",
+    "profit": null,
+    "avgHighPrice": 203047,
+    "avgLowPrice": 187558
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12512,
+    "name": "Armadyl coif",
+    "profit": null,
+    "avgHighPrice": 57775,
+    "avgLowPrice": 51267
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 19930,
+    "name": "Armadyl d'hide boots",
+    "profit": null,
+    "avgHighPrice": 360647,
+    "avgLowPrice": 343418
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 9075,
+    "name": "Astral rune",
+    "profit": null,
+    "avgHighPrice": 105,
+    "avgLowPrice": 101
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 8427,
+    "name": "Bagged yew tree",
+    "profit": null,
+    "avgHighPrice": 26644,
+    "avgLowPrice": 22536
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 11836,
+    "name": "Bandos boots",
+    "profit": null,
+    "avgHighPrice": 886358,
+    "avgLowPrice": 851499
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12498,
+    "name": "Bandos bracers",
+    "profit": null,
+    "avgHighPrice": 47286,
+    "avgLowPrice": 38475
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12504,
+    "name": "Bandos coif",
+    "profit": null,
+    "avgHighPrice": 65733,
+    "avgLowPrice": 51278
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12500,
+    "name": "Bandos d'hide body",
+    "profit": null,
+    "avgHighPrice": 110542,
+    "avgLowPrice": 98117
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 19924,
+    "name": "Bandos d'hide boots",
+    "profit": null,
+    "avgHighPrice": 191376,
+    "avgLowPrice": 182029
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 23203,
+    "name": "Bandos d'hide shield",
+    "profit": null,
+    "avgHighPrice": 307900,
+    "avgLowPrice": 269110
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12271,
+    "name": "Bandos mitre",
+    "profit": null,
+    "avgHighPrice": 15912,
+    "avgLowPrice": 8251
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 22603,
+    "name": "Basalt",
+    "profit": null,
+    "avgHighPrice": 844,
+    "avgLowPrice": 805
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 23291,
+    "name": "Bear feet",
+    "profit": null,
+    "avgHighPrice": 24962,
+    "avgLowPrice": 18799
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 3751,
+    "name": "Berserker helm",
+    "profit": null,
+    "avgHighPrice": 42221,
+    "avgLowPrice": 40322
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12383,
+    "name": "Black d'hide chaps (g)",
+    "profit": null,
+    "avgHighPrice": 145000,
+    "avgLowPrice": 108888
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 22284,
+    "name": "Black d'hide shield",
+    "profit": null,
+    "avgHighPrice": 21160,
+    "avgLowPrice": 19260
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12453,
+    "name": "Black wizard hat (g)",
+    "profit": null,
+    "avgHighPrice": 226098,
+    "avgLowPrice": 203414
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12831,
+    "name": "Blessed spirit shield",
+    "profit": null,
+    "avgHighPrice": 1171652,
+    "avgLowPrice": 1125251
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 24607,
+    "name": "Blighted ancient ice sack",
+    "profit": null,
+    "avgHighPrice": 324,
+    "avgLowPrice": 312
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 24592,
+    "name": "Blighted anglerfish",
+    "profit": null,
+    "avgHighPrice": 124,
+    "avgLowPrice": 119
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 24595,
+    "name": "Blighted karambwan",
+    "profit": null,
+    "avgHighPrice": 82,
+    "avgLowPrice": 76
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 24589,
+    "name": "Blighted manta ray",
+    "profit": null,
+    "avgHighPrice": 124,
+    "avgLowPrice": 119
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 29022,
+    "name": "Blood moon chestplate",
+    "profit": null,
+    "avgHighPrice": 4585725,
+    "avgLowPrice": 4437960
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 25404,
+    "name": "Bloodbark body",
+    "profit": null,
+    "avgHighPrice": 181250,
+    "avgLowPrice": 175330
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 7382,
+    "name": "Blue d'hide chaps (g)",
+    "profit": null,
+    "avgHighPrice": 11111,
+    "avgLowPrice": 3956
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 29013,
+    "name": "Blue moon chestplate",
+    "profit": null,
+    "avgHighPrice": 1685568,
+    "avgLowPrice": 1633695
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 29019,
+    "name": "Blue moon helm",
+    "profit": null,
+    "avgHighPrice": 747399,
+    "avgLowPrice": 721034
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 7394,
+    "name": "Blue wizard hat (g)",
+    "profit": null,
+    "avgHighPrice": 153133,
+    "avgLowPrice": 132886
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 31475,
+    "name": "Bolt of canvas",
+    "profit": null,
+    "avgHighPrice": 2532,
+    "avgLowPrice": 2363
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 8790,
+    "name": "Bolt of cloth",
+    "profit": null,
+    "avgHighPrice": 554,
+    "avgLowPrice": 483
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 31478,
+    "name": "Bolt of cotton",
+    "profit": null,
+    "avgHighPrice": 6491,
+    "avgLowPrice": 5805
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 30616,
+    "name": "Bounty supply crate (manta ray)",
+    "profit": null,
+    "avgHighPrice": 5495,
+    "avgLowPrice": 4847
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 21183,
+    "name": "Bracelet of slaughter",
+    "profit": null,
+    "avgHighPrice": 3489,
+    "avgLowPrice": 3342
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 11037,
+    "name": "Brine sabre",
+    "profit": null,
+    "avgHighPrice": 306726,
+    "avgLowPrice": 294919
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 825,
+    "name": "Bronze javelin",
+    "profit": null,
+    "avgHighPrice": 36,
+    "avgLowPrice": 10
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 1927,
+    "name": "Bucket of milk",
+    "profit": null,
+    "avgHighPrice": 63,
+    "avgLowPrice": 60
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 21166,
+    "name": "Burning amulet(5)",
+    "profit": null,
+    "avgHighPrice": 2867,
+    "avgLowPrice": 2698
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 29090,
+    "name": "Calcified moth",
+    "profit": null,
+    "avgHighPrice": 4520,
+    "avgLowPrice": 2958
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 32364,
+    "name": "Camphor crate",
+    "profit": null,
+    "avgHighPrice": 1268,
+    "avgLowPrice": 1000
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 8,
+    "name": "Cannon stand",
+    "profit": null,
+    "avgHighPrice": 188729,
+    "avgLowPrice": 178125
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 23351,
+    "name": "Cape of skulls",
+    "profit": null,
+    "avgHighPrice": 4312703,
+    "avgLowPrice": 4127756
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 19627,
+    "name": "Cemetery teleport (tablet)",
+    "profit": null,
+    "avgHighPrice": 3300,
+    "avgLowPrice": 2770
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 1975,
+    "name": "Chocolate dust",
+    "profit": null,
+    "avgHighPrice": 54,
+    "avgLowPrice": 46
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 28276,
+    "name": "Chromium ingot",
+    "profit": null,
+    "avgHighPrice": 61037,
+    "avgLowPrice": 55138
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 30813,
+    "name": "Contract of sensory clouding",
+    "profit": null,
+    "avgHighPrice": 334252,
+    "avgLowPrice": 319336
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 31469,
+    "name": "Cotton yarn",
+    "profit": null,
+    "avgHighPrice": 3500,
+    "avgLowPrice": 3265
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 22954,
+    "name": "Devout boots",
+    "profit": null,
+    "avgHighPrice": 906174,
+    "avgLowPrice": 877378
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 9340,
+    "name": "Diamond bolts",
+    "profit": null,
+    "avgHighPrice": 375,
+    "avgLowPrice": 361
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 21969,
+    "name": "Diamond dragon bolts",
+    "profit": null,
+    "avgHighPrice": 2839,
+    "avgLowPrice": 2703
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 23697,
+    "name": "Divine super attack potion(4)",
+    "profit": null,
+    "avgHighPrice": 4500,
+    "avgLowPrice": 4129
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 23688,
+    "name": "Divine super combat potion(3)",
+    "profit": null,
+    "avgHighPrice": 15743,
+    "avgLowPrice": 14137
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 23709,
+    "name": "Divine super strength potion(4)",
+    "profit": null,
+    "avgHighPrice": 6098,
+    "avgLowPrice": 5663
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 31916,
+    "name": "Dragon cannonball",
+    "profit": null,
+    "avgHighPrice": 1412,
+    "avgLowPrice": 1358
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 5698,
+    "name": "Dragon dagger(p++)",
+    "profit": null,
+    "avgHighPrice": 17738,
+    "avgLowPrice": 16821
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 11231,
+    "name": "Dragon dart(p)",
+    "profit": null,
+    "avgHighPrice": 1292,
+    "avgLowPrice": 1128
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 11234,
+    "name": "Dragon dart(p++)",
+    "profit": null,
+    "avgHighPrice": 2158,
+    "avgLowPrice": 2030
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 20143,
+    "name": "Dragon defender ornament kit",
+    "profit": null,
+    "avgHighPrice": 38938,
+    "avgLowPrice": 28182
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 22731,
+    "name": "Dragon hasta",
+    "profit": null,
+    "avgHighPrice": 58000,
+    "avgLowPrice": 47363
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 22810,
+    "name": "Dragon knife(p++)",
+    "profit": null,
+    "avgHighPrice": 7967,
+    "avgLowPrice": 7661
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 1434,
+    "name": "Dragon mace",
+    "profit": null,
+    "avgHighPrice": 32064,
+    "avgLowPrice": 29214
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 5730,
+    "name": "Dragon spear(p++)",
+    "profit": null,
+    "avgHighPrice": 46628,
+    "avgLowPrice": 38543
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 1187,
+    "name": "Dragon sq shield",
+    "profit": null,
+    "avgHighPrice": 314935,
+    "avgLowPrice": 299324
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 21009,
+    "name": "Dragon sword",
+    "profit": null,
+    "avgHighPrice": 148110,
+    "avgLowPrice": 137121
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 22111,
+    "name": "Dragonbone necklace",
+    "profit": null,
+    "avgHighPrice": 87867,
+    "avgLowPrice": 83646
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 5303,
+    "name": "Dwarf weed seed",
+    "profit": null,
+    "avgHighPrice": 1068,
+    "avgLowPrice": 914
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 557,
+    "name": "Earth rune",
+    "profit": null,
+    "avgHighPrice": 5,
+    "avgLowPrice": 4
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 20595,
+    "name": "Elder chaos hood",
+    "profit": null,
+    "avgHighPrice": 312964,
+    "avgLowPrice": 283509
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 20520,
+    "name": "Elder chaos robe",
+    "profit": null,
+    "avgHighPrice": 237526,
+    "avgLowPrice": 228318
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 20517,
+    "name": "Elder chaos top",
+    "profit": null,
+    "avgHighPrice": 187062,
+    "avgLowPrice": 171009
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 2890,
+    "name": "Elemental shield",
+    "profit": null,
+    "avgHighPrice": 8779,
+    "avgLowPrice": 1597
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 1605,
+    "name": "Emerald",
+    "profit": null,
+    "avgHighPrice": 496,
+    "avgLowPrice": 468
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 1696,
+    "name": "Emerald amulet",
+    "profit": null,
+    "avgHighPrice": 700,
+    "avgLowPrice": 649
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 1677,
+    "name": "Emerald amulet (u)",
+    "profit": null,
+    "avgHighPrice": 624,
+    "avgLowPrice": 595
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 7398,
+    "name": "Enchanted robe",
+    "profit": null,
+    "avgHighPrice": 54932,
+    "avgLowPrice": 48250
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 13508,
+    "name": "Ensouled abyssal head",
+    "profit": null,
+    "avgHighPrice": 2432,
+    "avgLowPrice": 2185
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 13502,
+    "name": "Ensouled demon head",
+    "profit": null,
+    "avgHighPrice": 2445,
+    "avgLowPrice": 2144
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 11951,
+    "name": "Extended antifire(4)",
+    "profit": null,
+    "avgHighPrice": 535,
+    "avgLowPrice": 485
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 22212,
+    "name": "Extended super antifire(3)",
+    "profit": null,
+    "avgHighPrice": 19200,
+    "avgLowPrice": 16616
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 554,
+    "name": "Fire rune",
+    "profit": null,
+    "avgHighPrice": 5,
+    "avgLowPrice": 4
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 27629,
+    "name": "Forgotten brew(4)",
+    "profit": null,
+    "avgHighPrice": 3581,
+    "avgLowPrice": 3420
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12526,
+    "name": "Fury ornament kit",
+    "profit": null,
+    "avgHighPrice": 179925,
+    "avgLowPrice": 170782
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 23267,
+    "name": "Gilded d'hide chaps",
+    "profit": null,
+    "avgHighPrice": 7283493,
+    "avgLowPrice": 7053058
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 9470,
+    "name": "Gnome scarf",
+    "profit": null,
+    "avgHighPrice": 1211556,
+    "avgLowPrice": 1137909
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 751,
+    "name": "Gnomeball",
+    "profit": null,
+    "avgHighPrice": 33881,
+    "avgLowPrice": 29621
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 20275,
+    "name": "Gnomish firelighter",
+    "profit": null,
+    "avgHighPrice": 50000,
+    "avgLowPrice": 20000
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 9736,
+    "name": "Goat horn dust",
+    "profit": null,
+    "avgHighPrice": 117,
+    "avgLowPrice": 90
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 10564,
+    "name": "Granite body",
+    "profit": null,
+    "avgHighPrice": 69799,
+    "avgLowPrice": 65000
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 21643,
+    "name": "Granite boots",
+    "profit": null,
+    "avgHighPrice": 390088,
+    "avgLowPrice": 360731
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 21736,
+    "name": "Granite gloves",
+    "profit": null,
+    "avgHighPrice": 60098,
+    "avgLowPrice": 49178
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 21742,
+    "name": "Granite hammer",
+    "profit": null,
+    "avgHighPrice": 3964014,
+    "avgLowPrice": 3799224
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 6809,
+    "name": "Granite legs",
+    "profit": null,
+    "avgHighPrice": 49615,
+    "avgLowPrice": 41139
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 21739,
+    "name": "Granite ring",
+    "profit": null,
+    "avgHighPrice": 20051,
+    "avgLowPrice": 9005
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 3122,
+    "name": "Granite shield",
+    "profit": null,
+    "avgHighPrice": 48074,
+    "avgLowPrice": 43867
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 20023,
+    "name": "Greater demon mask",
+    "profit": null,
+    "avgHighPrice": 39000,
+    "avgLowPrice": 8401
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 1065,
+    "name": "Green d'hide vambraces",
+    "profit": null,
+    "avgHighPrice": 1436,
+    "avgLowPrice": 1220
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 31034,
+    "name": "Greenman mask",
+    "profit": null,
+    "avgHighPrice": 137789,
+    "avgLowPrice": 13064
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 5793,
+    "name": "Greenmans ale(4)",
+    "profit": null,
+    "avgHighPrice": 22440,
+    "avgLowPrice": 11000
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 211,
+    "name": "Grimy avantoe",
+    "profit": null,
+    "avgHighPrice": 1756,
+    "avgLowPrice": 1699
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 91,
+    "name": "Guam potion (unf)",
+    "profit": null,
+    "avgHighPrice": 486,
+    "avgLowPrice": 455
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12873,
+    "name": "Guthan's armour set",
+    "profit": null,
+    "avgHighPrice": 758923,
+    "avgLowPrice": 732976
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 4724,
+    "name": "Guthan's helm",
+    "profit": null,
+    "avgHighPrice": 134572,
+    "avgLowPrice": 119726
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 4728,
+    "name": "Guthan's platebody",
+    "profit": null,
+    "avgHighPrice": 281000,
+    "avgLowPrice": 250548
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 13048,
+    "name": "Guthix armour set (lg)",
+    "profit": null,
+    "avgHighPrice": 176469,
+    "avgLowPrice": 159496
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 10380,
+    "name": "Guthix chaps",
+    "profit": null,
+    "avgHighPrice": 189686,
+    "avgLowPrice": 172624
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 10378,
+    "name": "Guthix d'hide body",
+    "profit": null,
+    "avgHighPrice": 95084,
+    "avgLowPrice": 90035
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 19927,
+    "name": "Guthix d'hide boots",
+    "profit": null,
+    "avgHighPrice": 188308,
+    "avgLowPrice": 172174
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 23188,
+    "name": "Guthix d'hide shield",
+    "profit": null,
+    "avgHighPrice": 323995,
+    "avgLowPrice": 276154
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 10454,
+    "name": "Guthix mitre",
+    "profit": null,
+    "avgHighPrice": 18750,
+    "avgLowPrice": 14042
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 3835,
+    "name": "Guthix page 1",
+    "profit": null,
+    "avgHighPrice": 28333,
+    "avgLowPrice": 2284
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 3836,
+    "name": "Guthix page 2",
+    "profit": null,
+    "avgHighPrice": 8529,
+    "avgLowPrice": 1844
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 10466,
+    "name": "Guthix robe legs",
+    "profit": null,
+    "avgHighPrice": 19165,
+    "avgLowPrice": 12000
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 10462,
+    "name": "Guthix robe top",
+    "profit": null,
+    "avgHighPrice": 19140,
+    "avgLowPrice": 5532
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 4310,
+    "name": "Ham boots",
+    "profit": null,
+    "avgHighPrice": 13808,
+    "avgLowPrice": 8626
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 97,
+    "name": "Harralander potion (unf)",
+    "profit": null,
+    "avgHighPrice": 683,
+    "avgLowPrice": 641
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12598,
+    "name": "Holy sandals",
+    "profit": null,
+    "avgHighPrice": 789313,
+    "avgLowPrice": 757941
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 19997,
+    "name": "Holy wraps",
+    "profit": null,
+    "avgHighPrice": 519295,
+    "avgLowPrice": 486664
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 28869,
+    "name": "Hunters' sunlight crossbow",
+    "profit": null,
+    "avgHighPrice": 7217,
+    "avgLowPrice": 5913
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 22988,
+    "name": "Hydra tail",
+    "profit": null,
+    "avgHighPrice": 120364,
+    "avgLowPrice": 101506
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 6922,
+    "name": "Infinity gloves",
+    "profit": null,
+    "avgHighPrice": 807548,
+    "avgLowPrice": 773123
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 5576,
+    "name": "Initiate cuisse",
+    "profit": null,
+    "avgHighPrice": 5414,
+    "avgLowPrice": 4445
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 32093,
+    "name": "Inky paint",
+    "profit": null,
+    "avgHighPrice": 695056,
+    "avgLowPrice": 618000
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 31908,
+    "name": "Iron cannonball",
+    "profit": null,
+    "avgHighPrice": 15,
+    "avgLowPrice": 13
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12243,
+    "name": "Iron kiteshield (g)",
+    "profit": null,
+    "avgHighPrice": 63000,
+    "avgLowPrice": 37989
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 863,
+    "name": "Iron knife",
+    "profit": null,
+    "avgHighPrice": 39,
+    "avgLowPrice": 29
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12004,
+    "name": "Kraken tentacle",
+    "profit": null,
+    "avgHighPrice": 266640,
+    "avgLowPrice": 256636
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 5299,
+    "name": "Kwuarm seed",
+    "profit": null,
+    "avgHighPrice": 2047,
+    "avgLowPrice": 1859
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 32032,
+    "name": "Large adamant keel parts",
+    "profit": null,
+    "avgHighPrice": 54583,
+    "avgLowPrice": 50158
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 32071,
+    "name": "Large mahogany hull parts",
+    "profit": null,
+    "avgHighPrice": 29515,
+    "avgLowPrice": 23603
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 32080,
+    "name": "Large rosewood hull parts",
+    "profit": null,
+    "avgHighPrice": 73950,
+    "avgLowPrice": 63904
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 32026,
+    "name": "Large steel keel parts",
+    "profit": null,
+    "avgHighPrice": 21046,
+    "avgLowPrice": 18735
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 23490,
+    "name": "Larran's key",
+    "profit": null,
+    "avgHighPrice": 148360,
+    "avgLowPrice": 142910
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12780,
+    "name": "Lassar teleport (tablet)",
+    "profit": null,
+    "avgHighPrice": 2399,
+    "avgLowPrice": 2009
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 20727,
+    "name": "Leaf-bladed battleaxe",
+    "profit": null,
+    "avgHighPrice": 62247,
+    "avgLowPrice": 59478
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 225,
+    "name": "Limpwurt root",
+    "profit": null,
+    "avgHighPrice": 307,
+    "avgLowPrice": 295
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12642,
+    "name": "Lumberyard teleport",
+    "profit": null,
+    "avgHighPrice": 4680,
+    "avgLowPrice": 4316
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 8008,
+    "name": "Lumbridge teleport (tablet)",
+    "profit": null,
+    "avgHighPrice": 658,
+    "avgLowPrice": 621
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12405,
+    "name": "Lunar isle teleport",
+    "profit": null,
+    "avgHighPrice": 4068,
+    "avgLowPrice": 3619
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12786,
+    "name": "Magic shortbow scroll",
+    "profit": null,
+    "avgHighPrice": 37360,
+    "avgLowPrice": 35608
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 22195,
+    "name": "Mahogany bird house",
+    "profit": null,
+    "avgHighPrice": 1764,
+    "avgLowPrice": 1510
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 32050,
+    "name": "Mahogany hull parts",
+    "profit": null,
+    "avgHighPrice": 4607,
+    "avgLowPrice": 4141
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 11924,
+    "name": "Malediction ward",
+    "profit": null,
+    "avgHighPrice": 2017420,
+    "avgLowPrice": 1918925
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 62,
+    "name": "Maple longbow (u)",
+    "profit": null,
+    "avgHighPrice": 130,
+    "avgLowPrice": 123
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 5372,
+    "name": "Maple sapling",
+    "profit": null,
+    "avgHighPrice": 5272,
+    "avgLowPrice": 4954
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 251,
+    "name": "Marrentill",
+    "profit": null,
+    "avgHighPrice": 253,
+    "avgLowPrice": 241
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 9731,
+    "name": "Mind shield",
+    "profit": null,
+    "avgHighPrice": 104818,
+    "avgLowPrice": 63844
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 20730,
+    "name": "Mist battlestaff",
+    "profit": null,
+    "avgHighPrice": 79946,
+    "avgLowPrice": 73355
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 9142,
+    "name": "Mithril bolts",
+    "profit": null,
+    "avgHighPrice": 22,
+    "avgLowPrice": 13
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 4127,
+    "name": "Mithril boots",
+    "profit": null,
+    "avgHighPrice": 14770,
+    "avgLowPrice": 2316
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 809,
+    "name": "Mithril dart",
+    "profit": null,
+    "avgHighPrice": 13,
+    "avgLowPrice": 11
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 1775,
+    "name": "Molten glass",
+    "profit": null,
+    "avgHighPrice": 96,
+    "avgLowPrice": 91
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 23306,
+    "name": "Monk's robe (t)",
+    "profit": null,
+    "avgHighPrice": 19988,
+    "avgLowPrice": 13198
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 29171,
+    "name": "Moonlight antelope antler",
+    "profit": null,
+    "avgHighPrice": 7000,
+    "avgLowPrice": 6264
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12406,
+    "name": "Mort'ton teleport",
+    "profit": null,
+    "avgHighPrice": 16983,
+    "avgLowPrice": 16165
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12411,
+    "name": "Mos le'harmless teleport",
+    "profit": null,
+    "avgHighPrice": 1400,
+    "avgLowPrice": 1132
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 4698,
+    "name": "Mud rune",
+    "profit": null,
+    "avgHighPrice": 100,
+    "avgLowPrice": 93
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 20733,
+    "name": "Mystic mist staff",
+    "profit": null,
+    "avgHighPrice": 157725,
+    "avgLowPrice": 147090
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12000,
+    "name": "Mystic smoke staff",
+    "profit": null,
+    "avgHighPrice": 2434042,
+    "avgLowPrice": 2275022
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12402,
+    "name": "Nardah teleport",
+    "profit": null,
+    "avgHighPrice": 22337,
+    "avgLowPrice": 20700
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 11254,
+    "name": "Ninja impling jar",
+    "profit": null,
+    "avgHighPrice": 39987,
+    "avgLowPrice": 38658
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 21555,
+    "name": "Numulite",
+    "profit": null,
+    "avgHighPrice": 51,
+    "avgLowPrice": 49
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 20050,
+    "name": "Obsidian cape (r)",
+    "profit": null,
+    "avgHighPrice": 614295,
+    "avgLowPrice": 574228
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 5396,
+    "name": "Oranges(5)",
+    "profit": null,
+    "avgHighPrice": 1195,
+    "avgLowPrice": 992
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 5972,
+    "name": "Papaya fruit",
+    "profit": null,
+    "avgHighPrice": 2136,
+    "avgLowPrice": 2017
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12399,
+    "name": "Partyhat & specs",
+    "profit": null,
+    "avgHighPrice": 574888,
+    "avgLowPrice": 500268
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 29256,
+    "name": "Perfected quetzal whistle blueprint",
+    "profit": null,
+    "avgHighPrice": 48208,
+    "avgLowPrice": 40569
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 2114,
+    "name": "Pineapple",
+    "profit": null,
+    "avgHighPrice": 151,
+    "avgLowPrice": 141
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 10496,
+    "name": "Polished buttons",
+    "profit": null,
+    "avgHighPrice": 2044,
+    "avgLowPrice": 900
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 2934,
+    "name": "Purple boots",
+    "profit": null,
+    "avgHighPrice": 2999,
+    "avgLowPrice": 1625
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 23357,
+    "name": "Rain bow",
+    "profit": null,
+    "avgHighPrice": 119563,
+    "avgLowPrice": 86111
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 2444,
+    "name": "Ranging potion(4)",
+    "profit": null,
+    "avgHighPrice": 2544,
+    "avgLowPrice": 2461
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 2132,
+    "name": "Raw beef",
+    "profit": null,
+    "avgHighPrice": 39,
+    "avgLowPrice": 31
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 11934,
+    "name": "Raw dark crab",
+    "profit": null,
+    "avgHighPrice": 1224,
+    "avgLowPrice": 1126
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 29125,
+    "name": "Raw kyatt",
+    "profit": null,
+    "avgHighPrice": 1889,
+    "avgLowPrice": 1712
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 7944,
+    "name": "Raw monkfish",
+    "profit": null,
+    "avgHighPrice": 195,
+    "avgLowPrice": 187
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 2134,
+    "name": "Raw rat meat",
+    "profit": null,
+    "avgHighPrice": 39,
+    "avgLowPrice": 31
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 371,
+    "name": "Raw swordfish",
+    "profit": null,
+    "avgHighPrice": 207,
+    "avgLowPrice": 199
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 31959,
+    "name": "Ray barbs",
+    "profit": null,
+    "avgHighPrice": 271542,
+    "avgLowPrice": 260803
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 10406,
+    "name": "Red elegant legs",
+    "profit": null,
+    "avgHighPrice": 19000,
+    "avgLowPrice": 7001
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 10404,
+    "name": "Red elegant shirt",
+    "profit": null,
+    "avgHighPrice": 82000,
+    "avgLowPrice": 28226
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 22859,
+    "name": "Redwood sapling",
+    "profit": null,
+    "avgHighPrice": 22690,
+    "avgLowPrice": 19956
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 22871,
+    "name": "Redwood tree seed",
+    "profit": null,
+    "avgHighPrice": 19766,
+    "avgLowPrice": 18530
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 21802,
+    "name": "Revenant cave teleport",
+    "profit": null,
+    "avgHighPrice": 782,
+    "avgLowPrice": 751
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 21820,
+    "name": "Revenant ether",
+    "profit": null,
+    "avgHighPrice": 178,
+    "avgLowPrice": 172
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 23185,
+    "name": "Ring of 3rd age",
+    "profit": null,
+    "avgHighPrice": 1993284,
+    "avgLowPrice": 1911007
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 24844,
+    "name": "Ring of endurance (uncharged)",
+    "profit": null,
+    "avgHighPrice": 4334462,
+    "avgLowPrice": 4196911
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12601,
+    "name": "Ring of the gods",
+    "profit": null,
+    "avgHighPrice": 1051108,
+    "avgLowPrice": 1016499
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12783,
+    "name": "Ring of wealth scroll",
+    "profit": null,
+    "avgHighPrice": 4427,
+    "avgLowPrice": 3100
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 20131,
+    "name": "Robe top of darkness",
+    "profit": null,
+    "avgHighPrice": 82331,
+    "avgLowPrice": 72364
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 6129,
+    "name": "Rock-shell plate",
+    "profit": null,
+    "avgHighPrice": 49837,
+    "avgLowPrice": 38050
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 9242,
+    "name": "Ruby bolts (e)",
+    "profit": null,
+    "avgHighPrice": 175,
+    "avgLowPrice": 166
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 3101,
+    "name": "Rune claws",
+    "profit": null,
+    "avgHighPrice": 7142,
+    "avgLowPrice": 6590
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 9185,
+    "name": "Rune crossbow",
+    "profit": null,
+    "avgHighPrice": 9600,
+    "avgLowPrice": 8833
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 811,
+    "name": "Rune dart",
+    "profit": null,
+    "avgHighPrice": 174,
+    "avgLowPrice": 167
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 1436,
+    "name": "Rune essence",
+    "profit": null,
+    "avgHighPrice": 12,
+    "avgLowPrice": 11
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 2619,
+    "name": "Rune full helm (g)",
+    "profit": null,
+    "avgHighPrice": 149114,
+    "avgLowPrice": 103379
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 13032,
+    "name": "Rune gold-trimmed set (lg)",
+    "profit": null,
+    "avgHighPrice": 376351,
+    "avgLowPrice": 356661
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 868,
+    "name": "Rune knife",
+    "profit": null,
+    "avgHighPrice": 198,
+    "avgLowPrice": 187
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 9144,
+    "name": "Runite bolts",
+    "profit": null,
+    "avgHighPrice": 107,
+    "avgLowPrice": 102
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12337,
+    "name": "Sagacious spectacles",
+    "profit": null,
+    "avgHighPrice": 519000,
+    "avgLowPrice": 435783
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 1607,
+    "name": "Sapphire",
+    "profit": null,
+    "avgHighPrice": 280,
+    "avgLowPrice": 269
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 21940,
+    "name": "Sapphire dragon bolts (e)",
+    "profit": null,
+    "avgHighPrice": 2896,
+    "avgLowPrice": 2786
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 23528,
+    "name": "Sarachnis cudgel",
+    "profit": null,
+    "avgHighPrice": 208761,
+    "avgLowPrice": 200033
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 10384,
+    "name": "Saradomin bracers",
+    "profit": null,
+    "avgHighPrice": 36264,
+    "avgLowPrice": 32550
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 10388,
+    "name": "Saradomin chaps",
+    "profit": null,
+    "avgHighPrice": 210639,
+    "avgLowPrice": 188854
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 10386,
+    "name": "Saradomin d'hide body",
+    "profit": null,
+    "avgHighPrice": 99764,
+    "avgLowPrice": 93900
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 20074,
+    "name": "Saradomin godsword ornament kit",
+    "profit": null,
+    "avgHighPrice": 6951173,
+    "avgLowPrice": 6713789
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 10452,
+    "name": "Saradomin mitre",
+    "profit": null,
+    "avgHighPrice": 16993,
+    "avgLowPrice": 11768
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 6724,
+    "name": "Seercull",
+    "profit": null,
+    "avgHighPrice": 49846,
+    "avgLowPrice": 42249
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 30900,
+    "name": "Shark lure",
+    "profit": null,
+    "avgHighPrice": 334,
+    "avgLowPrice": 321
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 26421,
+    "name": "Shattered relics variety ornament kit",
+    "profit": null,
+    "avgHighPrice": 824568,
+    "avgLowPrice": 711500
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 26479,
+    "name": "Shattered relics void ornament kit",
+    "profit": null,
+    "avgHighPrice": 1131489,
+    "avgLowPrice": 1083427
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 25578,
+    "name": "Soaked page",
+    "profit": null,
+    "avgHighPrice": 2761,
+    "avgLowPrice": 2587
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 6135,
+    "name": "Spined chaps",
+    "profit": null,
+    "avgHighPrice": 39465,
+    "avgLowPrice": 22000
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12829,
+    "name": "Spirit shield",
+    "profit": null,
+    "avgHighPrice": 86624,
+    "avgLowPrice": 78082
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 20590,
+    "name": "Stale baguette",
+    "profit": null,
+    "avgHighPrice": 590005,
+    "avgLowPrice": 551655
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 4123,
+    "name": "Steel boots",
+    "profit": null,
+    "avgHighPrice": 14000,
+    "avgLowPrice": 1077
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 32005,
+    "name": "Steel keel parts",
+    "profit": null,
+    "avgHighPrice": 3751,
+    "avgLowPrice": 2717
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 29084,
+    "name": "Sulphur blades",
+    "profit": null,
+    "avgHighPrice": 93863,
+    "avgLowPrice": 85610
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12699,
+    "name": "Super combat potion(2)",
+    "profit": null,
+    "avgHighPrice": 6987,
+    "avgLowPrice": 6721
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12697,
+    "name": "Super combat potion(3)",
+    "profit": null,
+    "avgHighPrice": 11279,
+    "avgLowPrice": 10689
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 22124,
+    "name": "Superior dragon bones",
+    "profit": null,
+    "avgHighPrice": 23709,
+    "avgLowPrice": 22957
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12409,
+    "name": "Tai bwo wannai teleport",
+    "profit": null,
+    "avgHighPrice": 4420,
+    "avgLowPrice": 4133
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 253,
+    "name": "Tarromin",
+    "profit": null,
+    "avgHighPrice": 336,
+    "avgLowPrice": 289
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 20217,
+    "name": "Team cape i",
+    "profit": null,
+    "avgHighPrice": 1507536,
+    "avgLowPrice": 1419511
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 20211,
+    "name": "Team cape zero",
+    "profit": null,
+    "avgHighPrice": 3379809,
+    "avgLowPrice": 3243952
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 5296,
+    "name": "Toadflax seed",
+    "profit": null,
+    "avgHighPrice": 776,
+    "avgLowPrice": 691
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 21087,
+    "name": "Topaz ring",
+    "profit": null,
+    "avgHighPrice": 2859,
+    "avgLowPrice": 2279
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 4745,
+    "name": "Torag's helm",
+    "profit": null,
+    "avgHighPrice": 159817,
+    "avgLowPrice": 151661
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 4749,
+    "name": "Torag's platebody",
+    "profit": null,
+    "avgHighPrice": 373446,
+    "avgLowPrice": 350237
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 4751,
+    "name": "Torag's platelegs",
+    "profit": null,
+    "avgHighPrice": 326827,
+    "avgLowPrice": 301595
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 20062,
+    "name": "Torture ornament kit",
+    "profit": null,
+    "avgHighPrice": 74732,
+    "avgLowPrice": 49001
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 24466,
+    "name": "Twisted horns",
+    "profit": null,
+    "avgHighPrice": 2927844,
+    "avgLowPrice": 2609116
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12603,
+    "name": "Tyrannical ring",
+    "profit": null,
+    "avgHighPrice": 260549,
+    "avgLowPrice": 249502
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 3325,
+    "name": "Vampyre dust",
+    "profit": null,
+    "avgHighPrice": 1396,
+    "avgLowPrice": 1293
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 27614,
+    "name": "Venator shard",
+    "profit": null,
+    "avgHighPrice": 13114524,
+    "avgLowPrice": 12629673
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 4759,
+    "name": "Verac's plateskirt",
+    "profit": null,
+    "avgHighPrice": 282458,
+    "avgLowPrice": 269679
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 12802,
+    "name": "Ward upgrade kit",
+    "profit": null,
+    "avgHighPrice": 953817,
+    "avgLowPrice": 844405
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 6735,
+    "name": "Warrior ring",
+    "profit": null,
+    "avgHighPrice": 66771,
+    "avgLowPrice": 59450
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 571,
+    "name": "Water orb",
+    "profit": null,
+    "avgHighPrice": 1775,
+    "avgLowPrice": 1716
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 555,
+    "name": "Water rune",
+    "profit": null,
+    "avgHighPrice": 5,
+    "avgLowPrice": 4
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 239,
+    "name": "White berries",
+    "profit": null,
+    "avgHighPrice": 471,
+    "avgLowPrice": 453
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 10327,
+    "name": "White firelighter",
+    "profit": null,
+    "avgHighPrice": 141,
+    "avgLowPrice": 78
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 22887,
+    "name": "White lily seed",
+    "profit": null,
+    "avgHighPrice": 2885,
+    "avgLowPrice": 2575
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 7208,
+    "name": "Wild pie",
+    "profit": null,
+    "avgHighPrice": 619,
+    "avgLowPrice": 568
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 2579,
+    "name": "Wizard boots",
+    "profit": null,
+    "avgHighPrice": 117706,
+    "avgLowPrice": 104964
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 23407,
+    "name": "Wolf mask",
+    "profit": null,
+    "avgHighPrice": 48798,
+    "avgLowPrice": 5990
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 13389,
+    "name": "Xerician robe",
+    "profit": null,
+    "avgHighPrice": 5812,
+    "avgLowPrice": 5166
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 13387,
+    "name": "Xerician top",
+    "profit": null,
+    "avgHighPrice": 7181,
+    "avgLowPrice": 5863
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 5998,
+    "name": "Yanillian hops",
+    "profit": null,
+    "avgHighPrice": 908,
+    "avgLowPrice": 787
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 5373,
+    "name": "Yew sapling",
+    "profit": null,
+    "avgHighPrice": 31795,
+    "avgLowPrice": 30340
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 10368,
+    "name": "Zamorak bracers",
+    "profit": null,
+    "avgHighPrice": 88337,
+    "avgLowPrice": 80635
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 10372,
+    "name": "Zamorak chaps",
+    "profit": null,
+    "avgHighPrice": 214275,
+    "avgLowPrice": 200415
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 10450,
+    "name": "Zamorak cloak",
+    "profit": null,
+    "avgHighPrice": 18000,
+    "avgLowPrice": 13889
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 10374,
+    "name": "Zamorak coif",
+    "profit": null,
+    "avgHighPrice": 69000,
+    "avgLowPrice": 53129
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 10370,
+    "name": "Zamorak d'hide body",
+    "profit": null,
+    "avgHighPrice": 118052,
+    "avgLowPrice": 112192
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 19936,
+    "name": "Zamorak d'hide boots",
+    "profit": null,
+    "avgHighPrice": 257299,
+    "avgLowPrice": 238561
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 23194,
+    "name": "Zamorak d'hide shield",
+    "profit": null,
+    "avgHighPrice": 436090,
+    "avgLowPrice": 379608
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 13161,
+    "name": "Zamorak dragonhide set",
+    "profit": null,
+    "avgHighPrice": 520982,
+    "avgLowPrice": 434262
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 20077,
+    "name": "Zamorak godsword ornament kit",
+    "profit": null,
+    "avgHighPrice": 473167,
+    "avgLowPrice": 346123
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 10456,
+    "name": "Zamorak mitre",
+    "profit": null,
+    "avgHighPrice": 20906,
+    "avgLowPrice": 14250
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 10460,
+    "name": "Zamorak robe top",
+    "profit": null,
+    "avgHighPrice": 44571,
+    "avgLowPrice": 28355
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 20749,
+    "name": "Zamorak's grapes",
+    "profit": null,
+    "avgHighPrice": 2200,
+    "avgLowPrice": 2009
+  },
+  {
+    "timestamp": 1778971341,
+    "id": 30321,
+    "name": "Zombie helmet",
+    "profit": null,
+    "avgHighPrice": 237979,
+    "avgLowPrice": 223587
+  }
+]
