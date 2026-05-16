@@ -1,0 +1,226 @@
+[
+  {
+    "timestamp": 1778899471,
+    "id": 449,
+    "name": "Adamantite ore",
+    "profit": null,
+    "avgHighPrice": 604,
+    "avgLowPrice": 574
+  },
+  {
+    "timestamp": 1778899471,
+    "id": 29806,
+    "name": "Aranea boots",
+    "profit": null,
+    "avgHighPrice": 1971834,
+    "avgLowPrice": 1909430
+  },
+  {
+    "timestamp": 1778899471,
+    "id": 12510,
+    "name": "Armadyl chaps",
+    "profit": null,
+    "avgHighPrice": 236032,
+    "avgLowPrice": 191194
+  },
+  {
+    "timestamp": 1778899471,
+    "id": 12355,
+    "name": "Big pirate hat",
+    "profit": null,
+    "avgHighPrice": 250000,
+    "avgLowPrice": 165918
+  },
+  {
+    "timestamp": 1778899471,
+    "id": 25416,
+    "name": "Bloodbark legs",
+    "profit": null,
+    "avgHighPrice": 186423,
+    "avgLowPrice": 178000
+  },
+  {
+    "timestamp": 1778899471,
+    "id": 1777,
+    "name": "Bow string",
+    "profit": null,
+    "avgHighPrice": 107,
+    "avgLowPrice": 101
+  },
+  {
+    "timestamp": 1778899471,
+    "id": 24635,
+    "name": "Divine bastion potion(4)",
+    "profit": null,
+    "avgHighPrice": 22725,
+    "avgLowPrice": 21675
+  },
+  {
+    "timestamp": 1778899471,
+    "id": 11232,
+    "name": "Dragon dart tip",
+    "profit": null,
+    "avgHighPrice": 1643,
+    "avgLowPrice": 1565
+  },
+  {
+    "timestamp": 1778899471,
+    "id": 21948,
+    "name": "Dragonstone dragon bolts (e)",
+    "profit": null,
+    "avgHighPrice": 2286,
+    "avgLowPrice": 2177
+  },
+  {
+    "timestamp": 1778899471,
+    "id": 557,
+    "name": "Earth rune",
+    "profit": null,
+    "avgHighPrice": 6,
+    "avgLowPrice": 5
+  },
+  {
+    "timestamp": 1778899471,
+    "id": 20595,
+    "name": "Elder chaos hood",
+    "profit": null,
+    "avgHighPrice": 303072,
+    "avgLowPrice": 280067
+  },
+  {
+    "timestamp": 1778899471,
+    "id": 2357,
+    "name": "Gold bar",
+    "profit": null,
+    "avgHighPrice": 135,
+    "avgLowPrice": 126
+  },
+  {
+    "timestamp": 1778899471,
+    "id": 6809,
+    "name": "Granite legs",
+    "profit": null,
+    "avgHighPrice": 60000,
+    "avgLowPrice": 42753
+  },
+  {
+    "timestamp": 1778899471,
+    "id": 31034,
+    "name": "Greenman mask",
+    "profit": null,
+    "avgHighPrice": 150000,
+    "avgLowPrice": 70000
+  },
+  {
+    "timestamp": 1778899471,
+    "id": 6920,
+    "name": "Infinity boots",
+    "profit": null,
+    "avgHighPrice": 662544,
+    "avgLowPrice": 631675
+  },
+  {
+    "timestamp": 1778899471,
+    "id": 12004,
+    "name": "Kraken tentacle",
+    "profit": null,
+    "avgHighPrice": 272044,
+    "avgLowPrice": 258252
+  },
+  {
+    "timestamp": 1778899471,
+    "id": 6889,
+    "name": "Mage's book",
+    "profit": null,
+    "avgHighPrice": 4565579,
+    "avgLowPrice": 4366603
+  },
+  {
+    "timestamp": 1778899471,
+    "id": 20080,
+    "name": "Mummy's head",
+    "profit": null,
+    "avgHighPrice": 1219468,
+    "avgLowPrice": 1094234
+  },
+  {
+    "timestamp": 1778899471,
+    "id": 12596,
+    "name": "Rangers' tunic",
+    "profit": null,
+    "avgHighPrice": 2529739,
+    "avgLowPrice": 2417161
+  },
+  {
+    "timestamp": 1778899471,
+    "id": 1603,
+    "name": "Ruby",
+    "profit": null,
+    "avgHighPrice": 920,
+    "avgLowPrice": 881
+  },
+  {
+    "timestamp": 1778899471,
+    "id": 892,
+    "name": "Rune arrow",
+    "profit": null,
+    "avgHighPrice": 81,
+    "avgLowPrice": 77
+  },
+  {
+    "timestamp": 1778899471,
+    "id": 19580,
+    "name": "Rune javelin tips",
+    "profit": null,
+    "avgHighPrice": 551,
+    "avgLowPrice": 525
+  },
+  {
+    "timestamp": 1778899471,
+    "id": 4697,
+    "name": "Smoke rune",
+    "profit": null,
+    "avgHighPrice": 89,
+    "avgLowPrice": 83
+  },
+  {
+    "timestamp": 1778899471,
+    "id": 22879,
+    "name": "Snape grass seed",
+    "profit": null,
+    "avgHighPrice": 13186,
+    "avgLowPrice": 12568
+  },
+  {
+    "timestamp": 1778899471,
+    "id": 1539,
+    "name": "Steel nails",
+    "profit": null,
+    "avgHighPrice": 36,
+    "avgLowPrice": 33
+  },
+  {
+    "timestamp": 1778899471,
+    "id": 10372,
+    "name": "Zamorak chaps",
+    "profit": null,
+    "avgHighPrice": 223562,
+    "avgLowPrice": 193079
+  },
+  {
+    "timestamp": 1778899471,
+    "id": 20077,
+    "name": "Zamorak godsword ornament kit",
+    "profit": null,
+    "avgHighPrice": 354270,
+    "avgLowPrice": 320882
+  },
+  {
+    "timestamp": 1778899471,
+    "id": 11889,
+    "name": "Zamorakian hasta",
+    "profit": null,
+    "avgHighPrice": 1699999,
+    "avgLowPrice": 1585727
+  }
+]
