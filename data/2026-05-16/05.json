@@ -1,0 +1,138 @@
+[
+  {
+    "timestamp": 1778910778,
+    "id": 4708,
+    "name": "Ahrim's hood",
+    "profit": null,
+    "avgHighPrice": 310000,
+    "avgLowPrice": 264575
+  },
+  {
+    "timestamp": 1778910778,
+    "id": 12494,
+    "name": "Ancient chaps",
+    "profit": null,
+    "avgHighPrice": 246870,
+    "avgLowPrice": 181831
+  },
+  {
+    "timestamp": 1778910778,
+    "id": 12496,
+    "name": "Ancient coif",
+    "profit": null,
+    "avgHighPrice": 79000,
+    "avgLowPrice": 62600
+  },
+  {
+    "timestamp": 1778910778,
+    "id": 12492,
+    "name": "Ancient d'hide body",
+    "profit": null,
+    "avgHighPrice": 125819,
+    "avgLowPrice": 108523
+  },
+  {
+    "timestamp": 1778910778,
+    "id": 27616,
+    "name": "Ancient essence",
+    "profit": null,
+    "avgHighPrice": 17,
+    "avgLowPrice": 16
+  },
+  {
+    "timestamp": 1778910778,
+    "id": 12273,
+    "name": "Bandos cloak",
+    "profit": null,
+    "avgHighPrice": 124071,
+    "avgLowPrice": 100000
+  },
+  {
+    "timestamp": 1778910778,
+    "id": 10322,
+    "name": "Bob's black shirt",
+    "profit": null,
+    "avgHighPrice": 30816,
+    "avgLowPrice": 19633
+  },
+  {
+    "timestamp": 1778910778,
+    "id": 11235,
+    "name": "Dark bow",
+    "profit": null,
+    "avgHighPrice": 895895,
+    "avgLowPrice": 851847
+  },
+  {
+    "timestamp": 1778910778,
+    "id": 31111,
+    "name": "Demon tear",
+    "profit": null,
+    "avgHighPrice": 343,
+    "avgLowPrice": 329
+  },
+  {
+    "timestamp": 1778910778,
+    "id": 21652,
+    "name": "Drift net",
+    "profit": null,
+    "avgHighPrice": 1700,
+    "avgLowPrice": 1535
+  },
+  {
+    "timestamp": 1778910778,
+    "id": 4738,
+    "name": "Karil's leatherskirt",
+    "profit": null,
+    "avgHighPrice": 560142,
+    "avgLowPrice": 522217
+  },
+  {
+    "timestamp": 1778910778,
+    "id": 4736,
+    "name": "Karil's leathertop",
+    "profit": null,
+    "avgHighPrice": 1238768,
+    "avgLowPrice": 1163952
+  },
+  {
+    "timestamp": 1778910778,
+    "id": 2507,
+    "name": "Red dragon leather",
+    "profit": null,
+    "avgHighPrice": 3158,
+    "avgLowPrice": 3052
+  },
+  {
+    "timestamp": 1778910778,
+    "id": 23185,
+    "name": "Ring of 3rd age",
+    "profit": null,
+    "avgHighPrice": 2000000,
+    "avgLowPrice": 1905150
+  },
+  {
+    "timestamp": 1778910778,
+    "id": 9242,
+    "name": "Ruby bolts (e)",
+    "profit": null,
+    "avgHighPrice": 198,
+    "avgLowPrice": 178
+  },
+  {
+    "timestamp": 1778910778,
+    "id": 2,
+    "name": "Steel cannonball",
+    "profit": null,
+    "avgHighPrice": 279,
+    "avgLowPrice": 269
+  },
+  {
+    "timestamp": 1778910778,
+    "id": 19936,
+    "name": "Zamorak d'hide boots",
+    "profit": null,
+    "avgHighPrice": 263289,
+    "avgLowPrice": 241976
+  }
+]
