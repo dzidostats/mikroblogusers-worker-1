@@ -3,7 +3,7 @@ name: OSRS Undervalued Items Filter
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/60 * * * *" # co 60 minut
+    - cron: "*/10 * * * *" # co 10 minut
 
 jobs:
   filter:
@@ -14,7 +14,7 @@ jobs:
 
       - name: Download data
         run: |
-          curl -s -o prices.json https://prices.runescape.wiki/api/v1/osrs/1h
+          curl -s -o prices.json https://prices.runescape.wiki/api/v1/osrs/5m
           curl -s -o mapping.json https://prices.runescape.wiki/api/v1/osrs/mapping
 
       - name: Filter undervalued items
@@ -81,21 +81,54 @@ jobs:
             reduce $current[0][] as $item
               ($totals[0];
 
+                .[$item.id|tostring] as $old |
+
+                (
+                  ($old.samples // 0) + 1
+                ) as $samples |
+
                 .[$item.id|tostring] = {
                   id: $item.id,
                   name: $item.name,
 
                   totalHighVolume:
                     (
-                      (.[$item.id|tostring].totalHighVolume // 0)
+                      ($old.totalHighVolume // 0)
                       + $item.highPriceVolume
                     ),
 
                   totalLowVolume:
                     (
-                      (.[$item.id|tostring].totalLowVolume // 0)
+                      ($old.totalLowVolume // 0)
                       + $item.lowPriceVolume
-                    )
+                    ),
+
+                  averageHighPrice:
+                    (
+                      (
+                        (($old.averageHighPrice // 0)
+                        * ($old.samples // 0))
+                        + $item.avgHighPrice
+                      ) / $samples
+                    ),
+
+                  averageLowPrice:
+                    (
+                      (
+                        (($old.averageLowPrice // 0)
+                        * ($old.samples // 0))
+                        + $item.avgLowPrice
+                      ) / $samples
+                    ),
+
+                  samples: $samples,
+
+                  lastHighPrice: $item.avgHighPrice,
+                  lastLowPrice: $item.avgLowPrice,
+
+                  limit: $item.limit,
+                  value: $item.value,
+                  minimalPrice: $item.minimalPrice
                 }
               )
           ' > output/totals_new.json
