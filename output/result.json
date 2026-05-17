@@ -1,36 +1,47 @@
 [
   {
-    "id": 1131,
-    "name": "Hardleather body",
+    "id": 5533,
+    "name": "Body tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 5,
+    "avgLowPrice": 5,
+    "minimalPrice": 10,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 1173,
+    "name": "Bronze sq shield",
     "limit": 125,
-    "value": 170,
-    "avgHighPrice": 16,
-    "avgLowPrice": 12,
-    "minimalPrice": 17,
-    "highPriceVolume": 21,
-    "lowPriceVolume": 222
+    "value": 48,
+    "avgHighPrice": 4,
+    "avgLowPrice": 1,
+    "minimalPrice": 4.800000000000001,
+    "highPriceVolume": 18,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 1309,
+    "name": "Iron 2h sword",
+    "limit": 125,
+    "value": 280,
+    "avgHighPrice": 18,
+    "avgLowPrice": 15,
+    "minimalPrice": 28,
+    "highPriceVolume": 5,
+    "lowPriceVolume": 1
   },
   {
     "id": 1175,
     "name": "Iron sq shield",
     "limit": 125,
     "value": 168,
-    "avgHighPrice": 15,
+    "avgHighPrice": 11,
     "avgLowPrice": 11,
     "minimalPrice": 16.8,
-    "highPriceVolume": 21,
-    "lowPriceVolume": 14
-  },
-  {
-    "id": 1335,
-    "name": "Iron warhammer",
-    "limit": 125,
-    "value": 173,
-    "avgHighPrice": 14,
-    "avgLowPrice": 9,
-    "minimalPrice": 17.3,
-    "highPriceVolume": 12,
-    "lowPriceVolume": 68
+    "highPriceVolume": 4,
+    "lowPriceVolume": 24
   },
   {
     "id": 48,
@@ -40,51 +51,7 @@
     "avgHighPrice": 3,
     "avgLowPrice": 3,
     "minimalPrice": 6,
-    "highPriceVolume": 139,
-    "lowPriceVolume": 371
-  },
-  {
-    "id": 1424,
-    "name": "Steel mace",
-    "limit": 125,
-    "value": 225,
-    "avgHighPrice": 22,
-    "avgLowPrice": 21,
-    "minimalPrice": 22.5,
-    "highPriceVolume": 13,
-    "lowPriceVolume": 1
-  },
-  {
-    "id": 1177,
-    "name": "Steel sq shield",
-    "limit": 125,
-    "value": 600,
-    "avgHighPrice": 3,
-    "avgLowPrice": 1,
-    "minimalPrice": 60,
-    "highPriceVolume": 47,
-    "lowPriceVolume": 37
-  },
-  {
-    "id": 1831,
-    "name": "Waterskin(0)",
-    "limit": 10000,
-    "value": 15,
-    "avgHighPrice": 1,
-    "avgLowPrice": 1,
-    "minimalPrice": 1.5,
-    "highPriceVolume": 4,
-    "lowPriceVolume": 211
-  },
-  {
-    "id": 5105,
-    "name": "Whiteberry seed",
-    "limit": 200,
-    "value": 133,
-    "avgHighPrice": 13,
-    "avgLowPrice": 10,
-    "minimalPrice": 13.3,
-    "highPriceVolume": 50,
-    "lowPriceVolume": 408
+    "highPriceVolume": 135,
+    "lowPriceVolume": 182
   }
 ]
