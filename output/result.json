@@ -5,21 +5,10 @@
     "limit": 40,
     "value": 100,
     "avgHighPrice": 5,
-    "avgLowPrice": 8,
+    "avgLowPrice": 5,
     "minimalPrice": 10,
     "highPriceVolume": 3,
-    "lowPriceVolume": 4
-  },
-  {
-    "id": 6472,
-    "name": "Compost potion(3)",
-    "limit": 50,
-    "value": 90,
-    "avgHighPrice": 1,
-    "avgLowPrice": 1,
-    "minimalPrice": 9,
-    "highPriceVolume": 212,
-    "lowPriceVolume": 50
+    "lowPriceVolume": 3
   },
   {
     "id": 4525,
@@ -29,73 +18,51 @@
     "avgHighPrice": 2,
     "avgLowPrice": 2,
     "minimalPrice": 2.5,
-    "highPriceVolume": 114,
+    "highPriceVolume": 102,
     "lowPriceVolume": 2
   },
   {
-    "id": 31208,
-    "name": "Grid master torch scroll",
-    "limit": null,
-    "value": 2500000,
-    "avgHighPrice": 98412,
-    "avgLowPrice": 70000,
-    "minimalPrice": 250000,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 1
-  },
-  {
-    "id": 1335,
-    "name": "Iron warhammer",
+    "id": 1131,
+    "name": "Hardleather body",
     "limit": 125,
-    "value": 173,
-    "avgHighPrice": 6,
-    "avgLowPrice": 6,
-    "minimalPrice": 17.3,
-    "highPriceVolume": 33,
-    "lowPriceVolume": 17
+    "value": 170,
+    "avgHighPrice": 15,
+    "avgLowPrice": 11,
+    "minimalPrice": 17,
+    "highPriceVolume": 15,
+    "lowPriceVolume": 506
   },
   {
-    "id": 48,
-    "name": "Longbow (u)",
-    "limit": 10000,
-    "value": 60,
-    "avgHighPrice": 4,
-    "avgLowPrice": 4,
-    "minimalPrice": 6,
-    "highPriceVolume": 402,
-    "lowPriceVolume": 772
+    "id": 5106,
+    "name": "Poison ivy seed",
+    "limit": 200,
+    "value": 166,
+    "avgHighPrice": 11,
+    "avgLowPrice": 13,
+    "minimalPrice": 16.6,
+    "highPriceVolume": 198,
+    "lowPriceVolume": 2875
   },
   {
-    "id": 5529,
-    "name": "Mind tiara",
-    "limit": 40,
-    "value": 100,
-    "avgHighPrice": 4,
+    "id": 22873,
+    "name": "Potato cactus seed",
+    "limit": 200,
+    "value": 140,
+    "avgHighPrice": 10,
     "avgLowPrice": 5,
-    "minimalPrice": 10,
-    "highPriceVolume": 62,
-    "lowPriceVolume": 2
+    "minimalPrice": 14,
+    "highPriceVolume": 70,
+    "lowPriceVolume": 46
   },
   {
-    "id": 5531,
-    "name": "Water tiara",
-    "limit": 40,
-    "value": 100,
-    "avgHighPrice": 5,
-    "avgLowPrice": 5,
-    "minimalPrice": 10,
-    "highPriceVolume": 62,
-    "lowPriceVolume": 2
-  },
-  {
-    "id": 9440,
-    "name": "Wooden stock",
-    "limit": 10000,
-    "value": 20,
-    "avgHighPrice": 1,
-    "avgLowPrice": 1,
-    "minimalPrice": 2,
-    "highPriceVolume": 21,
-    "lowPriceVolume": 19
+    "id": 1105,
+    "name": "Steel chainbody",
+    "limit": 125,
+    "value": 750,
+    "avgHighPrice": 59,
+    "avgLowPrice": 58,
+    "minimalPrice": 75,
+    "highPriceVolume": 191,
+    "lowPriceVolume": 125
   }
 ]
