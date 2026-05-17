@@ -1,0 +1,5250 @@
+[
+  {
+    "name_key": "Achey_tree_logs",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_2h_sword",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_arrow",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_arrow(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_arrow(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_arrow(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_arrowtips",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_axe",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_battleaxe",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_brutal",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_cannonball",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_chainbody",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_crossbow",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_dagger",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_dagger(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_dagger(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_dagger(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_full_helm",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_halberd",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_javelin",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_javelin(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_javelin(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_javelin(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_kiteshield",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_longsword",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_mace",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_med_helm",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_pickaxe",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_platebody",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_platelegs",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_plateskirt",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_scimitar",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_spear",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_spear(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_spear(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_spear(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_sq_shield",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_sword",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_thrownaxe",
+    "shop": true
+  },
+  {
+    "name_key": "Adamant_warhammer",
+    "shop": true
+  },
+  {
+    "name_key": "Adamantite_limbs",
+    "shop": true
+  },
+  {
+    "name_key": "Adamantite_ore",
+    "shop": true
+  },
+  {
+    "name_key": "Admiral_pie",
+    "shop": true
+  },
+  {
+    "name_key": "Air_rune",
+    "shop": true
+  },
+  {
+    "name_key": "Air_talisman",
+    "shop": true
+  },
+  {
+    "name_key": "Aldarium",
+    "shop": true
+  },
+  {
+    "name_key": "Ale_yeast",
+    "shop": true
+  },
+  {
+    "name_key": "Amulet_mould",
+    "shop": true
+  },
+  {
+    "name_key": "Amulet_of_defence",
+    "shop": true
+  },
+  {
+    "name_key": "Amulet_of_magic",
+    "shop": true
+  },
+  {
+    "name_key": "Amulet_of_power",
+    "shop": true
+  },
+  {
+    "name_key": "Amulet_of_strength",
+    "shop": true
+  },
+  {
+    "name_key": "Ancient_staff",
+    "shop": true
+  },
+  {
+    "name_key": "Annakarl_teleport_(tablet)",
+    "shop": true
+  },
+  {
+    "name_key": "Annihilation_blueprints",
+    "shop": true
+  },
+  {
+    "name_key": "Annihilation_teleport_scroll",
+    "shop": true
+  },
+  {
+    "name_key": "Annihilation_weapon_scroll",
+    "shop": true
+  },
+  {
+    "name_key": "Anti-dragon_shield",
+    "shop": true
+  },
+  {
+    "name_key": "Antipoison(1)",
+    "shop": true
+  },
+  {
+    "name_key": "Antipoison(2)",
+    "shop": true
+  },
+  {
+    "name_key": "Antipoison(3)",
+    "shop": true
+  },
+  {
+    "name_key": "Antipoison(4)",
+    "shop": true
+  },
+  {
+    "name_key": "Apple_pie",
+    "shop": true
+  },
+  {
+    "name_key": "Archer_helm",
+    "shop": true
+  },
+  {
+    "name_key": "Armageddon_cape_fabric",
+    "shop": true
+  },
+  {
+    "name_key": "Armageddon_rug",
+    "shop": true
+  },
+  {
+    "name_key": "Armageddon_teleport_scroll",
+    "shop": true
+  },
+  {
+    "name_key": "Armageddon_weapon_scroll",
+    "shop": true
+  },
+  {
+    "name_key": "Arrow_shaft",
+    "shop": true
+  },
+  {
+    "name_key": "Asgarnian_ale",
+    "shop": true
+  },
+  {
+    "name_key": "Asgarnian_hops",
+    "shop": true
+  },
+  {
+    "name_key": "Asgarnian_seed",
+    "shop": true
+  },
+  {
+    "name_key": "Attack_potion(1)",
+    "shop": true
+  },
+  {
+    "name_key": "Attack_potion(2)",
+    "shop": true
+  },
+  {
+    "name_key": "Attack_potion(3)",
+    "shop": true
+  },
+  {
+    "name_key": "Attack_potion(4)",
+    "shop": true
+  },
+  {
+    "name_key": "Axeman's_folly",
+    "shop": true
+  },
+  {
+    "name_key": "Bag_of_salt",
+    "shop": true
+  },
+  {
+    "name_key": "Bagged_bluebells",
+    "shop": true
+  },
+  {
+    "name_key": "Bagged_daffodils",
+    "shop": true
+  },
+  {
+    "name_key": "Bagged_dead_tree",
+    "shop": true
+  },
+  {
+    "name_key": "Bagged_flower",
+    "shop": true
+  },
+  {
+    "name_key": "Bagged_magic_tree",
+    "shop": true
+  },
+  {
+    "name_key": "Bagged_maple_tree",
+    "shop": true
+  },
+  {
+    "name_key": "Bagged_marigolds",
+    "shop": true
+  },
+  {
+    "name_key": "Bagged_nice_tree",
+    "shop": true
+  },
+  {
+    "name_key": "Bagged_oak_tree",
+    "shop": true
+  },
+  {
+    "name_key": "Bagged_plant_1",
+    "shop": true
+  },
+  {
+    "name_key": "Bagged_plant_2",
+    "shop": true
+  },
+  {
+    "name_key": "Bagged_plant_3",
+    "shop": true
+  },
+  {
+    "name_key": "Bagged_roses",
+    "shop": true
+  },
+  {
+    "name_key": "Bagged_sunflower",
+    "shop": true
+  },
+  {
+    "name_key": "Bagged_willow_tree",
+    "shop": true
+  },
+  {
+    "name_key": "Bagged_yew_tree",
+    "shop": true
+  },
+  {
+    "name_key": "Ball_of_wool",
+    "shop": true
+  },
+  {
+    "name_key": "Banana",
+    "shop": true
+  },
+  {
+    "name_key": "Banana_stew",
+    "shop": true
+  },
+  {
+    "name_key": "Bandit's_brew",
+    "shop": true
+  },
+  {
+    "name_key": "Barb_bolttips",
+    "shop": true
+  },
+  {
+    "name_key": "Barley",
+    "shop": true
+  },
+  {
+    "name_key": "Barley_seed",
+    "shop": true
+  },
+  {
+    "name_key": "Barnacle_blaster",
+    "shop": true
+  },
+  {
+    "name_key": "Basket",
+    "shop": true
+  },
+  {
+    "name_key": "Bass",
+    "shop": true
+  },
+  {
+    "name_key": "Batta_tin",
+    "shop": true
+  },
+  {
+    "name_key": "Battlestaff",
+    "shop": true
+  },
+  {
+    "name_key": "Bear_fur",
+    "shop": true
+  },
+  {
+    "name_key": "Beer",
+    "shop": true
+  },
+  {
+    "name_key": "Beer_glass",
+    "shop": true
+  },
+  {
+    "name_key": "Beer_tankard",
+    "shop": true
+  },
+  {
+    "name_key": "Berserker_helm",
+    "shop": true
+  },
+  {
+    "name_key": "Big_fishing_net",
+    "shop": true
+  },
+  {
+    "name_key": "Bird_snare",
+    "shop": true
+  },
+  {
+    "name_key": "Black_2h_sword",
+    "shop": true
+  },
+  {
+    "name_key": "Black_battleaxe",
+    "shop": true
+  },
+  {
+    "name_key": "Black_brutal",
+    "shop": true
+  },
+  {
+    "name_key": "Black_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Black_chainbody",
+    "shop": true
+  },
+  {
+    "name_key": "Black_dagger",
+    "shop": true
+  },
+  {
+    "name_key": "Black_dagger(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Black_dagger(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Black_dagger(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Black_full_helm",
+    "shop": true
+  },
+  {
+    "name_key": "Black_halberd",
+    "shop": true
+  },
+  {
+    "name_key": "Black_kiteshield",
+    "shop": true
+  },
+  {
+    "name_key": "Black_longsword",
+    "shop": true
+  },
+  {
+    "name_key": "Black_med_helm",
+    "shop": true
+  },
+  {
+    "name_key": "Black_platebody",
+    "shop": true
+  },
+  {
+    "name_key": "Black_platelegs",
+    "shop": true
+  },
+  {
+    "name_key": "Black_plateskirt",
+    "shop": true
+  },
+  {
+    "name_key": "Black_scimitar",
+    "shop": true
+  },
+  {
+    "name_key": "Black_skirt",
+    "shop": true
+  },
+  {
+    "name_key": "Black_sword",
+    "shop": true
+  },
+  {
+    "name_key": "Black_toy_horsey",
+    "shop": true
+  },
+  {
+    "name_key": "Black_warhammer",
+    "shop": true
+  },
+  {
+    "name_key": "Blackbird_red",
+    "shop": true
+  },
+  {
+    "name_key": "Blighted_ancient_ice_sack",
+    "shop": true
+  },
+  {
+    "name_key": "Blighted_anglerfish",
+    "shop": true
+  },
+  {
+    "name_key": "Blighted_entangle_sack",
+    "shop": true
+  },
+  {
+    "name_key": "Blighted_karambwan",
+    "shop": true
+  },
+  {
+    "name_key": "Blighted_manta_ray",
+    "shop": true
+  },
+  {
+    "name_key": "Blighted_super_restore(4)",
+    "shop": true
+  },
+  {
+    "name_key": "Blighted_teleport_spell_sack",
+    "shop": true
+  },
+  {
+    "name_key": "Blighted_vengeance_sack",
+    "shop": true
+  },
+  {
+    "name_key": "Blood_pint",
+    "shop": true
+  },
+  {
+    "name_key": "Blood_rune",
+    "shop": true
+  },
+  {
+    "name_key": "Bloody_bracer",
+    "shop": true
+  },
+  {
+    "name_key": "Blue_boots",
+    "shop": true
+  },
+  {
+    "name_key": "Blue_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Blue_dark_bow_paint",
+    "shop": true
+  },
+  {
+    "name_key": "Blue_dragon_scale",
+    "shop": true
+  },
+  {
+    "name_key": "Blue_dye",
+    "shop": true
+  },
+  {
+    "name_key": "Blue_feather",
+    "shop": true
+  },
+  {
+    "name_key": "Blue_hat",
+    "shop": true
+  },
+  {
+    "name_key": "Blue_robe_bottoms",
+    "shop": true
+  },
+  {
+    "name_key": "Blue_robe_top",
+    "shop": true
+  },
+  {
+    "name_key": "Blue_skirt",
+    "shop": true
+  },
+  {
+    "name_key": "Blue_wizard_hat",
+    "shop": true
+  },
+  {
+    "name_key": "Blurberry_special",
+    "shop": true
+  },
+  {
+    "name_key": "Body_rune",
+    "shop": true
+  },
+  {
+    "name_key": "Body_talisman",
+    "shop": true
+  },
+  {
+    "name_key": "Bolt_mould",
+    "shop": true
+  },
+  {
+    "name_key": "Bolt_of_cloth",
+    "shop": true
+  },
+  {
+    "name_key": "Bolt_rack",
+    "shop": true
+  },
+  {
+    "name_key": "Bone_bolts",
+    "shop": true
+  },
+  {
+    "name_key": "Bone_club",
+    "shop": true
+  },
+  {
+    "name_key": "Bone_dagger",
+    "shop": true
+  },
+  {
+    "name_key": "Bone_dagger_(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Bone_dagger_(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Bone_dagger_(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Bone_spear",
+    "shop": true
+  },
+  {
+    "name_key": "Boots_of_stone",
+    "shop": true
+  },
+  {
+    "name_key": "Bottle_of_wine",
+    "shop": true
+  },
+  {
+    "name_key": "Bow_string",
+    "shop": true
+  },
+  {
+    "name_key": "Bowl",
+    "shop": true
+  },
+  {
+    "name_key": "Bowl_of_water",
+    "shop": true
+  },
+  {
+    "name_key": "Box_trap",
+    "shop": true
+  },
+  {
+    "name_key": "Bracelet_mould",
+    "shop": true
+  },
+  {
+    "name_key": "Brandy",
+    "shop": true
+  },
+  {
+    "name_key": "Bread",
+    "shop": true
+  },
+  {
+    "name_key": "Broad_arrowheads",
+    "shop": true
+  },
+  {
+    "name_key": "Broad_bolts",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_2h_sword",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_arrow",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_arrow(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_arrow(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_arrow(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_arrowtips",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_axe",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_bar",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_battleaxe",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_bolts",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_bolts_(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_bolts_(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_bolts_(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_brutal",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_cannonball",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_chainbody",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_claws",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_crossbow",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_dagger",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_dagger(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_dagger(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_dagger(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_full_helm",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_halberd",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_javelin",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_javelin(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_javelin(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_javelin(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_kiteshield",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_knife",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_knife(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_knife(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_knife(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_limbs",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_longsword",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_mace",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_med_helm",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_nails",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_pickaxe",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_platebody",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_platelegs",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_plateskirt",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_scimitar",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_spear",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_spear(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_spear(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_spear(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_sq_shield",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_sword",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_thrownaxe",
+    "shop": true
+  },
+  {
+    "name_key": "Bronze_warhammer",
+    "shop": true
+  },
+  {
+    "name_key": "Brown_apron",
+    "shop": true
+  },
+  {
+    "name_key": "Brown_toy_horsey",
+    "shop": true
+  },
+  {
+    "name_key": "Bucket",
+    "shop": true
+  },
+  {
+    "name_key": "Bucket_of_milk",
+    "shop": true
+  },
+  {
+    "name_key": "Bucket_of_sand",
+    "shop": true
+  },
+  {
+    "name_key": "Bucket_of_sap",
+    "shop": true
+  },
+  {
+    "name_key": "Bucket_of_water",
+    "shop": true
+  },
+  {
+    "name_key": "Bullseye_lantern",
+    "shop": true
+  },
+  {
+    "name_key": "Bullseye_lantern_(empty)",
+    "shop": true
+  },
+  {
+    "name_key": "Butterfly_jar",
+    "shop": true
+  },
+  {
+    "name_key": "Butterfly_net",
+    "shop": true
+  },
+  {
+    "name_key": "Cabbage",
+    "shop": true
+  },
+  {
+    "name_key": "Cabbage_seed",
+    "shop": true
+  },
+  {
+    "name_key": "Cake",
+    "shop": true
+  },
+  {
+    "name_key": "Cake_tin",
+    "shop": true
+  },
+  {
+    "name_key": "Calcite",
+    "shop": true
+  },
+  {
+    "name_key": "Candle",
+    "shop": true
+  },
+  {
+    "name_key": "Cannon_barrels",
+    "shop": true
+  },
+  {
+    "name_key": "Cannon_base",
+    "shop": true
+  },
+  {
+    "name_key": "Cannon_furnace",
+    "shop": true
+  },
+  {
+    "name_key": "Cannon_stand",
+    "shop": true
+  },
+  {
+    "name_key": "Carrallanger_teleport_(tablet)",
+    "shop": true
+  },
+  {
+    "name_key": "Chaos_rune",
+    "shop": true
+  },
+  {
+    "name_key": "Chaos_talisman",
+    "shop": true
+  },
+  {
+    "name_key": "Charcoal",
+    "shop": true
+  },
+  {
+    "name_key": "Cheese",
+    "shop": true
+  },
+  {
+    "name_key": "Chef's_hat",
+    "shop": true
+  },
+  {
+    "name_key": "Chichilihui_rosé",
+    "shop": true
+  },
+  {
+    "name_key": "Chilhuac_red",
+    "shop": true
+  },
+  {
+    "name_key": "Chisel",
+    "shop": true
+  },
+  {
+    "name_key": "Choc_saturday",
+    "shop": true
+  },
+  {
+    "name_key": "Choc-ice",
+    "shop": true
+  },
+  {
+    "name_key": "Chocolate_bar",
+    "shop": true
+  },
+  {
+    "name_key": "Chocolate_cake",
+    "shop": true
+  },
+  {
+    "name_key": "Chocolate_dust",
+    "shop": true
+  },
+  {
+    "name_key": "Cider",
+    "shop": true
+  },
+  {
+    "name_key": "Citizen_shoes",
+    "shop": true
+  },
+  {
+    "name_key": "Citizen_top",
+    "shop": true
+  },
+  {
+    "name_key": "Citizen_trousers",
+    "shop": true
+  },
+  {
+    "name_key": "Cleaning_cloth",
+    "shop": true
+  },
+  {
+    "name_key": "Cleaver",
+    "shop": true
+  },
+  {
+    "name_key": "Climbing_boots",
+    "shop": true
+  },
+  {
+    "name_key": "Clothes_pouch_blueprint",
+    "shop": true
+  },
+  {
+    "name_key": "Clue_box",
+    "shop": true
+  },
+  {
+    "name_key": "Coal",
+    "shop": true
+  },
+  {
+    "name_key": "Cocktail_glass",
+    "shop": true
+  },
+  {
+    "name_key": "Cocktail_guide",
+    "shop": true
+  },
+  {
+    "name_key": "Cocktail_shaker",
+    "shop": true
+  },
+  {
+    "name_key": "Coconut",
+    "shop": true
+  },
+  {
+    "name_key": "Cod",
+    "shop": true
+  },
+  {
+    "name_key": "Coif",
+    "shop": true
+  },
+  {
+    "name_key": "Colossal_wyrm_teleport_scroll",
+    "shop": true
+  },
+  {
+    "name_key": "Common_kebbit_fur",
+    "shop": true
+  },
+  {
+    "name_key": "Comp_ogre_bow",
+    "shop": true
+  },
+  {
+    "name_key": "Compost",
+    "shop": true
+  },
+  {
+    "name_key": "Compost_potion(1)",
+    "shop": true
+  },
+  {
+    "name_key": "Compost_potion(2)",
+    "shop": true
+  },
+  {
+    "name_key": "Compost_potion(3)",
+    "shop": true
+  },
+  {
+    "name_key": "Compost_potion(4)",
+    "shop": true
+  },
+  {
+    "name_key": "Condensed_gold",
+    "shop": true
+  },
+  {
+    "name_key": "Cooked_chompy",
+    "shop": true
+  },
+  {
+    "name_key": "Cooked_karambwan",
+    "shop": true
+  },
+  {
+    "name_key": "Cooked_meat",
+    "shop": true
+  },
+  {
+    "name_key": "Cooking_apple",
+    "shop": true
+  },
+  {
+    "name_key": "Copper_ore",
+    "shop": true
+  },
+  {
+    "name_key": "Cosmic_rune",
+    "shop": true
+  },
+  {
+    "name_key": "Cosmic_talisman",
+    "shop": true
+  },
+  {
+    "name_key": "Cream_boots",
+    "shop": true
+  },
+  {
+    "name_key": "Cream_hat",
+    "shop": true
+  },
+  {
+    "name_key": "Cream_robe_bottoms",
+    "shop": true
+  },
+  {
+    "name_key": "Cream_robe_top",
+    "shop": true
+  },
+  {
+    "name_key": "Crossbow",
+    "shop": true
+  },
+  {
+    "name_key": "Crunchy_tray",
+    "shop": true
+  },
+  {
+    "name_key": "Crystal_weapon_seed",
+    "shop": true
+  },
+  {
+    "name_key": "Cup_of_tea",
+    "shop": true
+  },
+  {
+    "name_key": "Cured_yak-hide",
+    "shop": true
+  },
+  {
+    "name_key": "Curry_leaf",
+    "shop": true
+  },
+  {
+    "name_key": "Dareeyak_teleport_(tablet)",
+    "shop": true
+  },
+  {
+    "name_key": "Death_rune",
+    "shop": true
+  },
+  {
+    "name_key": "Death_talisman",
+    "shop": true
+  },
+  {
+    "name_key": "Defence_potion(1)",
+    "shop": true
+  },
+  {
+    "name_key": "Defence_potion(2)",
+    "shop": true
+  },
+  {
+    "name_key": "Defence_potion(3)",
+    "shop": true
+  },
+  {
+    "name_key": "Defence_potion(4)",
+    "shop": true
+  },
+  {
+    "name_key": "Demonic_axe_ornament_kit",
+    "shop": true
+  },
+  {
+    "name_key": "Demonic_skin_contract",
+    "shop": true
+  },
+  {
+    "name_key": "Demonic_staff_ornament_kit",
+    "shop": true
+  },
+  {
+    "name_key": "Demonic_trident_ornament_kit",
+    "shop": true
+  },
+  {
+    "name_key": "Desert_boots",
+    "shop": true
+  },
+  {
+    "name_key": "Desert_devil_fur",
+    "shop": true
+  },
+  {
+    "name_key": "Desert_legs",
+    "shop": true
+  },
+  {
+    "name_key": "Desert_robe",
+    "shop": true
+  },
+  {
+    "name_key": "Desert_robes",
+    "shop": true
+  },
+  {
+    "name_key": "Desert_shirt",
+    "shop": true
+  },
+  {
+    "name_key": "Desert_top",
+    "shop": true
+  },
+  {
+    "name_key": "Desert_top_(overcoat)",
+    "shop": true
+  },
+  {
+    "name_key": "Diamond",
+    "shop": true
+  },
+  {
+    "name_key": "Diamond_amulet",
+    "shop": true
+  },
+  {
+    "name_key": "Diamond_bracelet",
+    "shop": true
+  },
+  {
+    "name_key": "Diamond_necklace",
+    "shop": true
+  },
+  {
+    "name_key": "Diamond_ring",
+    "shop": true
+  },
+  {
+    "name_key": "Disk_of_returning",
+    "shop": true
+  },
+  {
+    "name_key": "Dorgeshuun_crossbow",
+    "shop": true
+  },
+  {
+    "name_key": "Dragon_battleaxe",
+    "shop": true
+  },
+  {
+    "name_key": "Dragon_bitter",
+    "shop": true
+  },
+  {
+    "name_key": "Dragon_dagger",
+    "shop": true
+  },
+  {
+    "name_key": "Dragon_dagger(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Dragon_dagger(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Dragon_dagger(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Dragon_halberd",
+    "shop": true
+  },
+  {
+    "name_key": "Dragon_longsword",
+    "shop": true
+  },
+  {
+    "name_key": "Dragon_mace",
+    "shop": true
+  },
+  {
+    "name_key": "Dragon_metal_shard",
+    "shop": true
+  },
+  {
+    "name_key": "Dragon_pickaxe_upgrade_kit",
+    "shop": true
+  },
+  {
+    "name_key": "Dragon_scimitar",
+    "shop": true
+  },
+  {
+    "name_key": "Dragonstone_bolts_(e)",
+    "shop": true
+  },
+  {
+    "name_key": "Drunk_dragon",
+    "shop": true
+  },
+  {
+    "name_key": "Dwarf_cannon_set",
+    "shop": true
+  },
+  {
+    "name_key": "Dwarven_helmet",
+    "shop": true
+  },
+  {
+    "name_key": "Dwarven_stout",
+    "shop": true
+  },
+  {
+    "name_key": "Dwellberries",
+    "shop": true
+  },
+  {
+    "name_key": "Dynamite",
+    "shop": true
+  },
+  {
+    "name_key": "Earmuffs",
+    "shop": true
+  },
+  {
+    "name_key": "Earth_rune",
+    "shop": true
+  },
+  {
+    "name_key": "Earth_talisman",
+    "shop": true
+  },
+  {
+    "name_key": "Eclipse_red",
+    "shop": true
+  },
+  {
+    "name_key": "Egg",
+    "shop": true
+  },
+  {
+    "name_key": "Egg_whisk",
+    "shop": true
+  },
+  {
+    "name_key": "Elemental_shield",
+    "shop": true
+  },
+  {
+    "name_key": "Elven_boots",
+    "shop": true
+  },
+  {
+    "name_key": "Elven_dawn",
+    "shop": true
+  },
+  {
+    "name_key": "Elven_gloves",
+    "shop": true
+  },
+  {
+    "name_key": "Elven_legwear",
+    "shop": true
+  },
+  {
+    "name_key": "Elven_skirt_(white)",
+    "shop": true
+  },
+  {
+    "name_key": "Elven_skirt_(yellow)",
+    "shop": true
+  },
+  {
+    "name_key": "Elven_top_(white_vest)",
+    "shop": true
+  },
+  {
+    "name_key": "Elven_top_(white)",
+    "shop": true
+  },
+  {
+    "name_key": "Elven_top_(yellow_vest)",
+    "shop": true
+  },
+  {
+    "name_key": "Elven_top_(yellow)",
+    "shop": true
+  },
+  {
+    "name_key": "Emerald",
+    "shop": true
+  },
+  {
+    "name_key": "Emerald_amulet",
+    "shop": true
+  },
+  {
+    "name_key": "Emerald_bracelet",
+    "shop": true
+  },
+  {
+    "name_key": "Emerald_necklace",
+    "shop": true
+  },
+  {
+    "name_key": "Emerald_ring",
+    "shop": true
+  },
+  {
+    "name_key": "Empty_cup",
+    "shop": true
+  },
+  {
+    "name_key": "Empty_oil_lamp",
+    "shop": true
+  },
+  {
+    "name_key": "Empty_oil_lantern",
+    "shop": true
+  },
+  {
+    "name_key": "Empty_plant_pot",
+    "shop": true
+  },
+  {
+    "name_key": "Empty_sack",
+    "shop": true
+  },
+  {
+    "name_key": "Equa_leaves",
+    "shop": true
+  },
+  {
+    "name_key": "Eye_of_newt",
+    "shop": true
+  },
+  {
+    "name_key": "Facemask",
+    "shop": true
+  },
+  {
+    "name_key": "Facility_bottle_(empty)",
+    "shop": true
+  },
+  {
+    "name_key": "Fake_beard",
+    "shop": true
+  },
+  {
+    "name_key": "Fancy_hedge_(bagged)",
+    "shop": true
+  },
+  {
+    "name_key": "Farseer_helm",
+    "shop": true
+  },
+  {
+    "name_key": "Feather",
+    "shop": true
+  },
+  {
+    "name_key": "Feldip_weasel_fur",
+    "shop": true
+  },
+  {
+    "name_key": "Felling_axe_handle",
+    "shop": true
+  },
+  {
+    "name_key": "Fez",
+    "shop": true
+  },
+  {
+    "name_key": "Filled_plant_pot",
+    "shop": true
+  },
+  {
+    "name_key": "Fire_rune",
+    "shop": true
+  },
+  {
+    "name_key": "Fire_talisman",
+    "shop": true
+  },
+  {
+    "name_key": "Fish_pie",
+    "shop": true
+  },
+  {
+    "name_key": "Fishing_bait",
+    "shop": true
+  },
+  {
+    "name_key": "Fishing_rod",
+    "shop": true
+  },
+  {
+    "name_key": "Flamtaer_hammer",
+    "shop": true
+  },
+  {
+    "name_key": "Flax",
+    "shop": true
+  },
+  {
+    "name_key": "Fly_fishing_rod",
+    "shop": true
+  },
+  {
+    "name_key": "Fox_fur",
+    "shop": true
+  },
+  {
+    "name_key": "Fremennik_beige_shirt",
+    "shop": true
+  },
+  {
+    "name_key": "Fremennik_black_cloak",
+    "shop": true
+  },
+  {
+    "name_key": "Fremennik_blue_cloak",
+    "shop": true
+  },
+  {
+    "name_key": "Fremennik_blue_shirt",
+    "shop": true
+  },
+  {
+    "name_key": "Fremennik_boots",
+    "shop": true
+  },
+  {
+    "name_key": "Fremennik_brown_cloak",
+    "shop": true
+  },
+  {
+    "name_key": "Fremennik_brown_shirt",
+    "shop": true
+  },
+  {
+    "name_key": "Fremennik_cyan_cloak",
+    "shop": true
+  },
+  {
+    "name_key": "Fremennik_gloves",
+    "shop": true
+  },
+  {
+    "name_key": "Fremennik_green_cloak",
+    "shop": true
+  },
+  {
+    "name_key": "Fremennik_grey_cloak",
+    "shop": true
+  },
+  {
+    "name_key": "Fremennik_grey_shirt",
+    "shop": true
+  },
+  {
+    "name_key": "Fremennik_hat",
+    "shop": true
+  },
+  {
+    "name_key": "Fremennik_pink_cloak",
+    "shop": true
+  },
+  {
+    "name_key": "Fremennik_purple_cloak",
+    "shop": true
+  },
+  {
+    "name_key": "Fremennik_red_cloak",
+    "shop": true
+  },
+  {
+    "name_key": "Fremennik_red_shirt",
+    "shop": true
+  },
+  {
+    "name_key": "Fremennik_robe",
+    "shop": true
+  },
+  {
+    "name_key": "Fremennik_skirt",
+    "shop": true
+  },
+  {
+    "name_key": "Fremennik_teal_cloak",
+    "shop": true
+  },
+  {
+    "name_key": "Fremennik_yellow_cloak",
+    "shop": true
+  },
+  {
+    "name_key": "Frog-leather_body",
+    "shop": true
+  },
+  {
+    "name_key": "Frog-leather_boots",
+    "shop": true
+  },
+  {
+    "name_key": "Frog-leather_chaps",
+    "shop": true
+  },
+  {
+    "name_key": "Frozen_whip_mix",
+    "shop": true
+  },
+  {
+    "name_key": "Fruit_blast",
+    "shop": true
+  },
+  {
+    "name_key": "Frying_pan",
+    "shop": true
+  },
+  {
+    "name_key": "Fur",
+    "shop": true
+  },
+  {
+    "name_key": "Gadderhammer",
+    "shop": true
+  },
+  {
+    "name_key": "Garden_pie",
+    "shop": true
+  },
+  {
+    "name_key": "Gardening_trowel",
+    "shop": true
+  },
+  {
+    "name_key": "Garlic",
+    "shop": true
+  },
+  {
+    "name_key": "Ghorrock_teleport_(tablet)",
+    "shop": true
+  },
+  {
+    "name_key": "Gianne_dough",
+    "shop": true
+  },
+  {
+    "name_key": "Gianne's_cook_book",
+    "shop": true
+  },
+  {
+    "name_key": "Gin",
+    "shop": true
+  },
+  {
+    "name_key": "Glassblowing_pipe",
+    "shop": true
+  },
+  {
+    "name_key": "Gnome_spice",
+    "shop": true
+  },
+  {
+    "name_key": "Gnomebowl_mould",
+    "shop": true
+  },
+  {
+    "name_key": "Gold_amulet",
+    "shop": true
+  },
+  {
+    "name_key": "Gold_bar",
+    "shop": true
+  },
+  {
+    "name_key": "Gold_bracelet",
+    "shop": true
+  },
+  {
+    "name_key": "Gold_leaf",
+    "shop": true
+  },
+  {
+    "name_key": "Gold_necklace",
+    "shop": true
+  },
+  {
+    "name_key": "Gold_ore",
+    "shop": true
+  },
+  {
+    "name_key": "Gold_ring",
+    "shop": true
+  },
+  {
+    "name_key": "Gout_tuber",
+    "shop": true
+  },
+  {
+    "name_key": "Graahk_fur",
+    "shop": true
+  },
+  {
+    "name_key": "Grain",
+    "shop": true
+  },
+  {
+    "name_key": "Granite_clamp",
+    "shop": true
+  },
+  {
+    "name_key": "Grape_seed",
+    "shop": true
+  },
+  {
+    "name_key": "Grapes",
+    "shop": true
+  },
+  {
+    "name_key": "Green_boots",
+    "shop": true
+  },
+  {
+    "name_key": "Green_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Green_d'hide_body",
+    "shop": true
+  },
+  {
+    "name_key": "Green_d'hide_chaps",
+    "shop": true
+  },
+  {
+    "name_key": "Green_d'hide_vambraces",
+    "shop": true
+  },
+  {
+    "name_key": "Green_dark_bow_paint",
+    "shop": true
+  },
+  {
+    "name_key": "Green_dye",
+    "shop": true
+  },
+  {
+    "name_key": "Green_hat",
+    "shop": true
+  },
+  {
+    "name_key": "Green_robe_bottoms",
+    "shop": true
+  },
+  {
+    "name_key": "Green_robe_top",
+    "shop": true
+  },
+  {
+    "name_key": "Greenman_mask",
+    "shop": true
+  },
+  {
+    "name_key": "Greenman's_ale",
+    "shop": true
+  },
+  {
+    "name_key": "Grey_boots",
+    "shop": true
+  },
+  {
+    "name_key": "Grey_gloves",
+    "shop": true
+  },
+  {
+    "name_key": "Grey_hat",
+    "shop": true
+  },
+  {
+    "name_key": "Grey_robe_bottoms",
+    "shop": true
+  },
+  {
+    "name_key": "Grey_robe_top",
+    "shop": true
+  },
+  {
+    "name_key": "Grey_toy_horsey",
+    "shop": true
+  },
+  {
+    "name_key": "Grey_wolf_fur",
+    "shop": true
+  },
+  {
+    "name_key": "Grid_master_altar_icon_scroll",
+    "shop": true
+  },
+  {
+    "name_key": "Grid_master_tabard",
+    "shop": true
+  },
+  {
+    "name_key": "Grid_master_tabard_(b)",
+    "shop": true
+  },
+  {
+    "name_key": "Grid_master_tabard_(g)",
+    "shop": true
+  },
+  {
+    "name_key": "Grid_master_tabard_(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Grid_master_torch_scroll",
+    "shop": true
+  },
+  {
+    "name_key": "Grog",
+    "shop": true
+  },
+  {
+    "name_key": "Hair",
+    "shop": true
+  },
+  {
+    "name_key": "Hammer",
+    "shop": true
+  },
+  {
+    "name_key": "Hammerstone_hops",
+    "shop": true
+  },
+  {
+    "name_key": "Hammerstone_seed",
+    "shop": true
+  },
+  {
+    "name_key": "Hardleather_body",
+    "shop": true
+  },
+  {
+    "name_key": "Harpoon",
+    "shop": true
+  },
+  {
+    "name_key": "Helm_of_neitiznot",
+    "shop": true
+  },
+  {
+    "name_key": "Herring",
+    "shop": true
+  },
+  {
+    "name_key": "Holy_mould",
+    "shop": true
+  },
+  {
+    "name_key": "Holy_symbol",
+    "shop": true
+  },
+  {
+    "name_key": "Hunters'_crossbow",
+    "shop": true
+  },
+  {
+    "name_key": "Imperial_rosé",
+    "shop": true
+  },
+  {
+    "name_key": "Impling_jar",
+    "shop": true
+  },
+  {
+    "name_key": "Initiate_cuisse",
+    "shop": true
+  },
+  {
+    "name_key": "Initiate_harness_m",
+    "shop": true
+  },
+  {
+    "name_key": "Initiate_hauberk",
+    "shop": true
+  },
+  {
+    "name_key": "Initiate_sallet",
+    "shop": true
+  },
+  {
+    "name_key": "Insulated_boots",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_2h_sword",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_arrow",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_arrow(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_arrow(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_arrow(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_arrowtips",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_axe",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_bar",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_battleaxe",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_bolts",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_bolts_(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_bolts_(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_bolts_(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_brutal",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_cannonball",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_chainbody",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_claws",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_crossbow",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_dagger",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_dagger(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_dagger(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_dagger(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_full_helm",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_halberd",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_javelin",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_javelin(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_javelin(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_javelin(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_kiteshield",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_knife",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_knife(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_knife(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_knife(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_limbs",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_longsword",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_mace",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_med_helm",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_nails",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_ore",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_pickaxe",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_platebody",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_platelegs",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_plateskirt",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_scimitar",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_spear",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_spear(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_spear(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_spear(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_sq_shield",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_sword",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_thrownaxe",
+    "shop": true
+  },
+  {
+    "name_key": "Iron_warhammer",
+    "shop": true
+  },
+  {
+    "name_key": "Ixcoztic_white",
+    "shop": true
+  },
+  {
+    "name_key": "Jade",
+    "shop": true
+  },
+  {
+    "name_key": "Jade_machete",
+    "shop": true
+  },
+  {
+    "name_key": "Jaguar_fur",
+    "shop": true
+  },
+  {
+    "name_key": "Jug",
+    "shop": true
+  },
+  {
+    "name_key": "Jug_of_water",
+    "shop": true
+  },
+  {
+    "name_key": "Jug_of_wine",
+    "shop": true
+  },
+  {
+    "name_key": "Jute_fibre",
+    "shop": true
+  },
+  {
+    "name_key": "Jute_seed",
+    "shop": true
+  },
+  {
+    "name_key": "Karambwan_vessel",
+    "shop": true
+  },
+  {
+    "name_key": "Karambwan_vessel_(baited)",
+    "shop": true
+  },
+  {
+    "name_key": "Kebab",
+    "shop": true
+  },
+  {
+    "name_key": "Keg_of_beer",
+    "shop": true
+  },
+  {
+    "name_key": "Kharidian_headpiece",
+    "shop": true
+  },
+  {
+    "name_key": "Kharyrll_teleport_(tablet)",
+    "shop": true
+  },
+  {
+    "name_key": "Kitchen_knife",
+    "shop": true
+  },
+  {
+    "name_key": "Knife",
+    "shop": true
+  },
+  {
+    "name_key": "Kovac's_grog",
+    "shop": true
+  },
+  {
+    "name_key": "Kraken_colada",
+    "shop": true
+  },
+  {
+    "name_key": "Krandorian_hops",
+    "shop": true
+  },
+  {
+    "name_key": "Krandorian_seed",
+    "shop": true
+  },
+  {
+    "name_key": "Kyatt_fur",
+    "shop": true
+  },
+  {
+    "name_key": "Larupia_fur",
+    "shop": true
+  },
+  {
+    "name_key": "Lassar_teleport_(tablet)",
+    "shop": true
+  },
+  {
+    "name_key": "Lava_staff_upgrade_kit",
+    "shop": true
+  },
+  {
+    "name_key": "Law_rune",
+    "shop": true
+  },
+  {
+    "name_key": "Lead_ore",
+    "shop": true
+  },
+  {
+    "name_key": "Leather_body",
+    "shop": true
+  },
+  {
+    "name_key": "Leather_boots",
+    "shop": true
+  },
+  {
+    "name_key": "Leather_chaps",
+    "shop": true
+  },
+  {
+    "name_key": "Leather_cowl",
+    "shop": true
+  },
+  {
+    "name_key": "Leather_gloves",
+    "shop": true
+  },
+  {
+    "name_key": "Leather_vambraces",
+    "shop": true
+  },
+  {
+    "name_key": "Lemon",
+    "shop": true
+  },
+  {
+    "name_key": "Light_orb",
+    "shop": true
+  },
+  {
+    "name_key": "Lime",
+    "shop": true
+  },
+  {
+    "name_key": "Limestone",
+    "shop": true
+  },
+  {
+    "name_key": "Limestone_brick",
+    "shop": true
+  },
+  {
+    "name_key": "Linen_(Icthlarin's_Little_Helper)",
+    "shop": true
+  },
+  {
+    "name_key": "Lizardkicker",
+    "shop": true
+  },
+  {
+    "name_key": "Lobster",
+    "shop": true
+  },
+  {
+    "name_key": "Lobster_pot",
+    "shop": true
+  },
+  {
+    "name_key": "Lockpick",
+    "shop": true
+  },
+  {
+    "name_key": "Log_brace",
+    "shop": true
+  },
+  {
+    "name_key": "Longbow",
+    "shop": true
+  },
+  {
+    "name_key": "Looting_bag_note",
+    "shop": true
+  },
+  {
+    "name_key": "Machete",
+    "shop": true
+  },
+  {
+    "name_key": "Mackerel",
+    "shop": true
+  },
+  {
+    "name_key": "Magic_box",
+    "shop": true
+  },
+  {
+    "name_key": "Magic_shortbow_scroll",
+    "shop": true
+  },
+  {
+    "name_key": "Magic_staff",
+    "shop": true
+  },
+  {
+    "name_key": "Magic_stone",
+    "shop": true
+  },
+  {
+    "name_key": "Mahogany_stock",
+    "shop": true
+  },
+  {
+    "name_key": "Manta_ray",
+    "shop": true
+  },
+  {
+    "name_key": "Maple_blackjack",
+    "shop": true
+  },
+  {
+    "name_key": "Maple_blackjack(d)",
+    "shop": true
+  },
+  {
+    "name_key": "Maple_blackjack(o)",
+    "shop": true
+  },
+  {
+    "name_key": "Maple_longbow",
+    "shop": true
+  },
+  {
+    "name_key": "Maple_shortbow",
+    "shop": true
+  },
+  {
+    "name_key": "Maple_stock",
+    "shop": true
+  },
+  {
+    "name_key": "Marble_block",
+    "shop": true
+  },
+  {
+    "name_key": "Marigold_seed",
+    "shop": true
+  },
+  {
+    "name_key": "Meat_pie",
+    "shop": true
+  },
+  {
+    "name_key": "Meat_tenderiser",
+    "shop": true
+  },
+  {
+    "name_key": "Menaphite_purple_hat",
+    "shop": true
+  },
+  {
+    "name_key": "Menaphite_purple_kilt",
+    "shop": true
+  },
+  {
+    "name_key": "Menaphite_purple_robe",
+    "shop": true
+  },
+  {
+    "name_key": "Menaphite_purple_top",
+    "shop": true
+  },
+  {
+    "name_key": "Menaphite_red_hat",
+    "shop": true
+  },
+  {
+    "name_key": "Menaphite_red_kilt",
+    "shop": true
+  },
+  {
+    "name_key": "Menaphite_red_robe",
+    "shop": true
+  },
+  {
+    "name_key": "Menaphite_red_top",
+    "shop": true
+  },
+  {
+    "name_key": "Merfolk_trident",
+    "shop": true
+  },
+  {
+    "name_key": "Metztonalli_white",
+    "shop": true
+  },
+  {
+    "name_key": "Mind_rune",
+    "shop": true
+  },
+  {
+    "name_key": "Mind_talisman",
+    "shop": true
+  },
+  {
+    "name_key": "Mining_helmet",
+    "shop": true
+  },
+  {
+    "name_key": "Mirror_shield",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_2h_sword",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_arrow",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_arrow(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_arrow(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_arrow(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_arrowtips",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_axe",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_battleaxe",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_brutal",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_cannonball",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_chainbody",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_claws",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_crossbow",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_dagger",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_dagger(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_dagger(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_dagger(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_full_helm",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_halberd",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_javelin",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_javelin(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_javelin(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_javelin(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_kiteshield",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_limbs",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_longsword",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_mace",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_med_helm",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_ore",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_pickaxe",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_platebody",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_platelegs",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_plateskirt",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_scimitar",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_seeds",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_spear",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_spear(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_spear(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_spear(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_sq_shield",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_sword",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_thrownaxe",
+    "shop": true
+  },
+  {
+    "name_key": "Mithril_warhammer",
+    "shop": true
+  },
+  {
+    "name_key": "Mixed_flowers",
+    "shop": true
+  },
+  {
+    "name_key": "Mixed_hide_base",
+    "shop": true
+  },
+  {
+    "name_key": "Molten_glass",
+    "shop": true
+  },
+  {
+    "name_key": "Monkey_bar",
+    "shop": true
+  },
+  {
+    "name_key": "Monkey_nuts",
+    "shop": true
+  },
+  {
+    "name_key": "Monkfish",
+    "shop": true
+  },
+  {
+    "name_key": "Moon-lite",
+    "shop": true
+  },
+  {
+    "name_key": "Moonlight_antelope_fur",
+    "shop": true
+  },
+  {
+    "name_key": "Moonlight_mead",
+    "shop": true
+  },
+  {
+    "name_key": "Morrigan's_coif",
+    "shop": true
+  },
+  {
+    "name_key": "Morrigan's_javelin",
+    "shop": true
+  },
+  {
+    "name_key": "Morrigan's_leather_body",
+    "shop": true
+  },
+  {
+    "name_key": "Morrigan's_leather_chaps",
+    "shop": true
+  },
+  {
+    "name_key": "Morrigan's_throwing_axe",
+    "shop": true
+  },
+  {
+    "name_key": "Mud_pie",
+    "shop": true
+  },
+  {
+    "name_key": "Mushroom_potato",
+    "shop": true
+  },
+  {
+    "name_key": "Mystic_boots",
+    "shop": true
+  },
+  {
+    "name_key": "Mystic_gloves",
+    "shop": true
+  },
+  {
+    "name_key": "Mystic_hat",
+    "shop": true
+  },
+  {
+    "name_key": "Mystic_robe_bottom",
+    "shop": true
+  },
+  {
+    "name_key": "Mystic_robe_top",
+    "shop": true
+  },
+  {
+    "name_key": "Nature_rune",
+    "shop": true
+  },
+  {
+    "name_key": "Nature_talisman",
+    "shop": true
+  },
+  {
+    "name_key": "Necklace_mould",
+    "shop": true
+  },
+  {
+    "name_key": "Needle",
+    "shop": true
+  },
+  {
+    "name_key": "Nice_hedge_(bagged)",
+    "shop": true
+  },
+  {
+    "name_key": "Nickel_ore",
+    "shop": true
+  },
+  {
+    "name_key": "Noose_wand",
+    "shop": true
+  },
+  {
+    "name_key": "Nose_peg",
+    "shop": true
+  },
+  {
+    "name_key": "Oak_blackjack(d)",
+    "shop": true
+  },
+  {
+    "name_key": "Oak_blackjack(o)",
+    "shop": true
+  },
+  {
+    "name_key": "Oak_longbow",
+    "shop": true
+  },
+  {
+    "name_key": "Oak_shortbow",
+    "shop": true
+  },
+  {
+    "name_key": "Oak_stock",
+    "shop": true
+  },
+  {
+    "name_key": "Obsidian_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Obsidian_helmet",
+    "shop": true
+  },
+  {
+    "name_key": "Obsidian_platebody",
+    "shop": true
+  },
+  {
+    "name_key": "Obsidian_platelegs",
+    "shop": true
+  },
+  {
+    "name_key": "Ogre_coffin_key",
+    "shop": true
+  },
+  {
+    "name_key": "Oil_lamp",
+    "shop": true
+  },
+  {
+    "name_key": "Oil_lantern",
+    "shop": true
+  },
+  {
+    "name_key": "Olive_oil(1)",
+    "shop": true
+  },
+  {
+    "name_key": "Olive_oil(2)",
+    "shop": true
+  },
+  {
+    "name_key": "Olive_oil(3)",
+    "shop": true
+  },
+  {
+    "name_key": "Olive_oil(4)",
+    "shop": true
+  },
+  {
+    "name_key": "Onion",
+    "shop": true
+  },
+  {
+    "name_key": "Onion_seed",
+    "shop": true
+  },
+  {
+    "name_key": "Onyx_bolt_tips",
+    "shop": true
+  },
+  {
+    "name_key": "Opal",
+    "shop": true
+  },
+  {
+    "name_key": "Opal_machete",
+    "shop": true
+  },
+  {
+    "name_key": "Orange",
+    "shop": true
+  },
+  {
+    "name_key": "Orange_dye",
+    "shop": true
+  },
+  {
+    "name_key": "Orange_feather",
+    "shop": true
+  },
+  {
+    "name_key": "Ornate_maul_handle",
+    "shop": true
+  },
+  {
+    "name_key": "Paddewwa_teleport_(tablet)",
+    "shop": true
+  },
+  {
+    "name_key": "Papaya_fruit",
+    "shop": true
+  },
+  {
+    "name_key": "Papyrus",
+    "shop": true
+  },
+  {
+    "name_key": "Pat_of_butter",
+    "shop": true
+  },
+  {
+    "name_key": "Pearl_bolts",
+    "shop": true
+  },
+  {
+    "name_key": "Pestle_and_mortar",
+    "shop": true
+  },
+  {
+    "name_key": "Pie_dish",
+    "shop": true
+  },
+  {
+    "name_key": "Pie_recipe_book",
+    "shop": true
+  },
+  {
+    "name_key": "Pile_of_salt",
+    "shop": true
+  },
+  {
+    "name_key": "Pineapple",
+    "shop": true
+  },
+  {
+    "name_key": "Pineapple_punch",
+    "shop": true
+  },
+  {
+    "name_key": "Pink_boots",
+    "shop": true
+  },
+  {
+    "name_key": "Pink_hat",
+    "shop": true
+  },
+  {
+    "name_key": "Pink_robe_bottoms",
+    "shop": true
+  },
+  {
+    "name_key": "Pink_robe_top",
+    "shop": true
+  },
+  {
+    "name_key": "Pink_skirt",
+    "shop": true
+  },
+  {
+    "name_key": "Pirate_bandana_(blue)",
+    "shop": true
+  },
+  {
+    "name_key": "Pirate_bandana_(brown)",
+    "shop": true
+  },
+  {
+    "name_key": "Pirate_bandana_(red)",
+    "shop": true
+  },
+  {
+    "name_key": "Pirate_bandana_(white)",
+    "shop": true
+  },
+  {
+    "name_key": "Pirate_boots",
+    "shop": true
+  },
+  {
+    "name_key": "Pirate_leggings_(beige)",
+    "shop": true
+  },
+  {
+    "name_key": "Pirate_leggings_(blue)",
+    "shop": true
+  },
+  {
+    "name_key": "Pirate_leggings_(brown)",
+    "shop": true
+  },
+  {
+    "name_key": "Pirate_leggings_(red)",
+    "shop": true
+  },
+  {
+    "name_key": "Pirate's_hook",
+    "shop": true
+  },
+  {
+    "name_key": "Pizza_base",
+    "shop": true
+  },
+  {
+    "name_key": "Plain_pizza",
+    "shop": true
+  },
+  {
+    "name_key": "Plank",
+    "shop": true
+  },
+  {
+    "name_key": "Plant_cure",
+    "shop": true
+  },
+  {
+    "name_key": "Poison_(item)",
+    "shop": true
+  },
+  {
+    "name_key": "Poison_chalice",
+    "shop": true
+  },
+  {
+    "name_key": "Polar_kebbit_fur",
+    "shop": true
+  },
+  {
+    "name_key": "Pot",
+    "shop": true
+  },
+  {
+    "name_key": "Pot_of_cream",
+    "shop": true
+  },
+  {
+    "name_key": "Pot_of_flour",
+    "shop": true
+  },
+  {
+    "name_key": "Potato",
+    "shop": true
+  },
+  {
+    "name_key": "Potato_seed",
+    "shop": true
+  },
+  {
+    "name_key": "Potato_with_cheese",
+    "shop": true
+  },
+  {
+    "name_key": "Prayer_potion(1)",
+    "shop": true
+  },
+  {
+    "name_key": "Prayer_potion(2)",
+    "shop": true
+  },
+  {
+    "name_key": "Prayer_potion(3)",
+    "shop": true
+  },
+  {
+    "name_key": "Prayer_potion(4)",
+    "shop": true
+  },
+  {
+    "name_key": "Premade_blurb'_sp.",
+    "shop": true
+  },
+  {
+    "name_key": "Premade_c+t_batta",
+    "shop": true
+  },
+  {
+    "name_key": "Premade_ch'_crunch",
+    "shop": true
+  },
+  {
+    "name_key": "Premade_choc_bomb",
+    "shop": true
+  },
+  {
+    "name_key": "Premade_choc_s'dy",
+    "shop": true
+  },
+  {
+    "name_key": "Premade_dr'_dragon",
+    "shop": true
+  },
+  {
+    "name_key": "Premade_fr'_blast",
+    "shop": true
+  },
+  {
+    "name_key": "Premade_fr't_batta",
+    "shop": true
+  },
+  {
+    "name_key": "Premade_p'_punch",
+    "shop": true
+  },
+  {
+    "name_key": "Premade_s'y_crunch",
+    "shop": true
+  },
+  {
+    "name_key": "Premade_sgg",
+    "shop": true
+  },
+  {
+    "name_key": "Premade_t'd_batta",
+    "shop": true
+  },
+  {
+    "name_key": "Premade_t'd_crunch",
+    "shop": true
+  },
+  {
+    "name_key": "Premade_ttl",
+    "shop": true
+  },
+  {
+    "name_key": "Premade_veg_ball",
+    "shop": true
+  },
+  {
+    "name_key": "Premade_veg_batta",
+    "shop": true
+  },
+  {
+    "name_key": "Premade_w'm_batta",
+    "shop": true
+  },
+  {
+    "name_key": "Premade_w'm_crun'",
+    "shop": true
+  },
+  {
+    "name_key": "Premade_wiz_blz'd",
+    "shop": true
+  },
+  {
+    "name_key": "Premade_worm_hole",
+    "shop": true
+  },
+  {
+    "name_key": "Priest_gown_(bottom)",
+    "shop": true
+  },
+  {
+    "name_key": "Priest_gown_(top)",
+    "shop": true
+  },
+  {
+    "name_key": "Proselyte_cuisse",
+    "shop": true
+  },
+  {
+    "name_key": "Proselyte_harness_f",
+    "shop": true
+  },
+  {
+    "name_key": "Proselyte_harness_m",
+    "shop": true
+  },
+  {
+    "name_key": "Proselyte_hauberk",
+    "shop": true
+  },
+  {
+    "name_key": "Proselyte_sallet",
+    "shop": true
+  },
+  {
+    "name_key": "Proselyte_tasset",
+    "shop": true
+  },
+  {
+    "name_key": "Pure_essence",
+    "shop": true
+  },
+  {
+    "name_key": "Purple_boots",
+    "shop": true
+  },
+  {
+    "name_key": "Purple_dye",
+    "shop": true
+  },
+  {
+    "name_key": "Purple_gloves",
+    "shop": true
+  },
+  {
+    "name_key": "Purple_hat",
+    "shop": true
+  },
+  {
+    "name_key": "Purple_robe_bottoms",
+    "shop": true
+  },
+  {
+    "name_key": "Purple_robe_top",
+    "shop": true
+  },
+  {
+    "name_key": "Pyrophosphite",
+    "shop": true
+  },
+  {
+    "name_key": "Rabbit_snare",
+    "shop": true
+  },
+  {
+    "name_key": "Raging_echoes_curtains",
+    "shop": true
+  },
+  {
+    "name_key": "Raging_echoes_death_scroll",
+    "shop": true
+  },
+  {
+    "name_key": "Raging_echoes_npc_contact_scroll",
+    "shop": true
+  },
+  {
+    "name_key": "Raging_echoes_rug",
+    "shop": true
+  },
+  {
+    "name_key": "Rake",
+    "shop": true
+  },
+  {
+    "name_key": "Raw_anchovies",
+    "shop": true
+  },
+  {
+    "name_key": "Raw_bass",
+    "shop": true
+  },
+  {
+    "name_key": "Raw_bear_meat",
+    "shop": true
+  },
+  {
+    "name_key": "Raw_beef",
+    "shop": true
+  },
+  {
+    "name_key": "Raw_chicken",
+    "shop": true
+  },
+  {
+    "name_key": "Raw_chompy",
+    "shop": true
+  },
+  {
+    "name_key": "Raw_cod",
+    "shop": true
+  },
+  {
+    "name_key": "Raw_herring",
+    "shop": true
+  },
+  {
+    "name_key": "Raw_karambwan",
+    "shop": true
+  },
+  {
+    "name_key": "Raw_lobster",
+    "shop": true
+  },
+  {
+    "name_key": "Raw_mackerel",
+    "shop": true
+  },
+  {
+    "name_key": "Raw_monkfish",
+    "shop": true
+  },
+  {
+    "name_key": "Raw_mystery_meat",
+    "shop": true
+  },
+  {
+    "name_key": "Raw_pike",
+    "shop": true
+  },
+  {
+    "name_key": "Raw_rabbit",
+    "shop": true
+  },
+  {
+    "name_key": "Raw_rat_meat",
+    "shop": true
+  },
+  {
+    "name_key": "Raw_salmon",
+    "shop": true
+  },
+  {
+    "name_key": "Raw_sardine",
+    "shop": true
+  },
+  {
+    "name_key": "Raw_shark",
+    "shop": true
+  },
+  {
+    "name_key": "Raw_shrimps",
+    "shop": true
+  },
+  {
+    "name_key": "Raw_swordfish",
+    "shop": true
+  },
+  {
+    "name_key": "Raw_trout",
+    "shop": true
+  },
+  {
+    "name_key": "Raw_tuna",
+    "shop": true
+  },
+  {
+    "name_key": "Raw_yak_meat",
+    "shop": true
+  },
+  {
+    "name_key": "Red_boots",
+    "shop": true
+  },
+  {
+    "name_key": "Red_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Red_dye",
+    "shop": true
+  },
+  {
+    "name_key": "Red_feather",
+    "shop": true
+  },
+  {
+    "name_key": "Red_gloves",
+    "shop": true
+  },
+  {
+    "name_key": "Red_hat",
+    "shop": true
+  },
+  {
+    "name_key": "Red_robe_bottoms",
+    "shop": true
+  },
+  {
+    "name_key": "Red_robe_top",
+    "shop": true
+  },
+  {
+    "name_key": "Red_topaz",
+    "shop": true
+  },
+  {
+    "name_key": "Red_topaz_machete",
+    "shop": true
+  },
+  {
+    "name_key": "Redberries",
+    "shop": true
+  },
+  {
+    "name_key": "Redberry_pie",
+    "shop": true
+  },
+  {
+    "name_key": "Relicym's_balm(1)",
+    "shop": true
+  },
+  {
+    "name_key": "Relicym's_balm(2)",
+    "shop": true
+  },
+  {
+    "name_key": "Relicym's_balm(3)",
+    "shop": true
+  },
+  {
+    "name_key": "Relicym's_balm(4)",
+    "shop": true
+  },
+  {
+    "name_key": "Repair_kit",
+    "shop": true
+  },
+  {
+    "name_key": "Right_eye_patch",
+    "shop": true
+  },
+  {
+    "name_key": "Ring_mould",
+    "shop": true
+  },
+  {
+    "name_key": "Ring_of_the_elements",
+    "shop": true
+  },
+  {
+    "name_key": "Ring_of_wealth_scroll",
+    "shop": true
+  },
+  {
+    "name_key": "Ritual_mulch",
+    "shop": true
+  },
+  {
+    "name_key": "Rock_hammer",
+    "shop": true
+  },
+  {
+    "name_key": "Rock_thrownhammer",
+    "shop": true
+  },
+  {
+    "name_key": "Rolling_pin",
+    "shop": true
+  },
+  {
+    "name_key": "Rope",
+    "shop": true
+  },
+  {
+    "name_key": "Rosemary_seed",
+    "shop": true
+  },
+  {
+    "name_key": "Ruby",
+    "shop": true
+  },
+  {
+    "name_key": "Ruby_amulet",
+    "shop": true
+  },
+  {
+    "name_key": "Ruby_bracelet",
+    "shop": true
+  },
+  {
+    "name_key": "Ruby_necklace",
+    "shop": true
+  },
+  {
+    "name_key": "Ruby_ring",
+    "shop": true
+  },
+  {
+    "name_key": "Rum",
+    "shop": true
+  },
+  {
+    "name_key": "Rum_(blue)",
+    "shop": true
+  },
+  {
+    "name_key": "Rum_(red)",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_arrow",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_arrow(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_arrow(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_arrow(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_arrowtips",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_axe",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_brutal",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_cannonball",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_chainbody",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_crossbow",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_dagger",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_dagger(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_dagger(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_dagger(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_essence",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_full_helm",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_halberd",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_javelin",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_javelin(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_javelin(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_javelin(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_kiteshield",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_longsword",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_mace",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_med_helm",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_pickaxe",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_platebody",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_platelegs",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_plateskirt",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_pouch_note",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_scimitar",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_spear",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_spear(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_spear(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_spear(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_sq_shield",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_sword",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_thrownaxe",
+    "shop": true
+  },
+  {
+    "name_key": "Rune_warhammer",
+    "shop": true
+  },
+  {
+    "name_key": "Runite_limbs",
+    "shop": true
+  },
+  {
+    "name_key": "Runite_ore",
+    "shop": true
+  },
+  {
+    "name_key": "Sailor's_mirage",
+    "shop": true
+  },
+  {
+    "name_key": "Salmon",
+    "shop": true
+  },
+  {
+    "name_key": "Sandworms",
+    "shop": true
+  },
+  {
+    "name_key": "Sanfew_serum(1)",
+    "shop": true
+  },
+  {
+    "name_key": "Sanfew_serum(2)",
+    "shop": true
+  },
+  {
+    "name_key": "Sanfew_serum(3)",
+    "shop": true
+  },
+  {
+    "name_key": "Sanfew_serum(4)",
+    "shop": true
+  },
+  {
+    "name_key": "Sapphire",
+    "shop": true
+  },
+  {
+    "name_key": "Sapphire_amulet",
+    "shop": true
+  },
+  {
+    "name_key": "Sapphire_bracelet",
+    "shop": true
+  },
+  {
+    "name_key": "Sapphire_necklace",
+    "shop": true
+  },
+  {
+    "name_key": "Sapphire_ring",
+    "shop": true
+  },
+  {
+    "name_key": "Saradomin_brew(1)",
+    "shop": true
+  },
+  {
+    "name_key": "Saradomin_brew(2)",
+    "shop": true
+  },
+  {
+    "name_key": "Saradomin_brew(3)",
+    "shop": true
+  },
+  {
+    "name_key": "Saradomin_brew(4)",
+    "shop": true
+  },
+  {
+    "name_key": "Saradomin's_tear",
+    "shop": true
+  },
+  {
+    "name_key": "Saw",
+    "shop": true
+  },
+  {
+    "name_key": "Sawmill_voucher",
+    "shop": true
+  },
+  {
+    "name_key": "Sea_turtle",
+    "shop": true
+  },
+  {
+    "name_key": "Seaweed",
+    "shop": true
+  },
+  {
+    "name_key": "Seaweed_spore",
+    "shop": true
+  },
+  {
+    "name_key": "Secateurs",
+    "shop": true
+  },
+  {
+    "name_key": "Secateurs_blade",
+    "shop": true
+  },
+  {
+    "name_key": "Security_book",
+    "shop": true
+  },
+  {
+    "name_key": "Seed_dibber",
+    "shop": true
+  },
+  {
+    "name_key": "Senntisten_teleport_(tablet)",
+    "shop": true
+  },
+  {
+    "name_key": "Shantay_pass_(item)",
+    "shop": true
+  },
+  {
+    "name_key": "Shark",
+    "shop": true
+  },
+  {
+    "name_key": "Shattered_banner",
+    "shop": true
+  },
+  {
+    "name_key": "Shattered_cannon_ornament_kit",
+    "shop": true
+  },
+  {
+    "name_key": "Shattered_relics_mystic_ornament_kit",
+    "shop": true
+  },
+  {
+    "name_key": "Shattered_relics_variety_ornament_kit",
+    "shop": true
+  },
+  {
+    "name_key": "Shattered_relics_void_ornament_kit",
+    "shop": true
+  },
+  {
+    "name_key": "Shattered_teleport_scroll",
+    "shop": true
+  },
+  {
+    "name_key": "Shears",
+    "shop": true
+  },
+  {
+    "name_key": "Shield_right_half",
+    "shop": true
+  },
+  {
+    "name_key": "Ship_ticket",
+    "shop": true
+  },
+  {
+    "name_key": "Shirt_(brown)",
+    "shop": true
+  },
+  {
+    "name_key": "Shirt_(lilac)",
+    "shop": true
+  },
+  {
+    "name_key": "Shirt_(yellow)",
+    "shop": true
+  },
+  {
+    "name_key": "Short_green_guy",
+    "shop": true
+  },
+  {
+    "name_key": "Shortbow",
+    "shop": true
+  },
+  {
+    "name_key": "Shorts_(blue)",
+    "shop": true
+  },
+  {
+    "name_key": "Shorts_(brown)",
+    "shop": true
+  },
+  {
+    "name_key": "Shorts_(yellow)",
+    "shop": true
+  },
+  {
+    "name_key": "Sickle_mould",
+    "shop": true
+  },
+  {
+    "name_key": "Silk",
+    "shop": true
+  },
+  {
+    "name_key": "Silver_bar",
+    "shop": true
+  },
+  {
+    "name_key": "Silver_ore",
+    "shop": true
+  },
+  {
+    "name_key": "Silver_sickle",
+    "shop": true
+  },
+  {
+    "name_key": "Skewer",
+    "shop": true
+  },
+  {
+    "name_key": "Skirt_(blue)",
+    "shop": true
+  },
+  {
+    "name_key": "Skirt_(brown)",
+    "shop": true
+  },
+  {
+    "name_key": "Skirt_(lilac)",
+    "shop": true
+  },
+  {
+    "name_key": "Slayer_bell",
+    "shop": true
+  },
+  {
+    "name_key": "Slayer's_staff",
+    "shop": true
+  },
+  {
+    "name_key": "Small_box_hedge_(bagged)",
+    "shop": true
+  },
+  {
+    "name_key": "Small_fishing_net",
+    "shop": true
+  },
+  {
+    "name_key": "Snapdragon",
+    "shop": true
+  },
+  {
+    "name_key": "Soda_ash",
+    "shop": true
+  },
+  {
+    "name_key": "Soul_rune",
+    "shop": true
+  },
+  {
+    "name_key": "Spade",
+    "shop": true
+  },
+  {
+    "name_key": "Spatula",
+    "shop": true
+  },
+  {
+    "name_key": "Spice",
+    "shop": true
+  },
+  {
+    "name_key": "Spider_on_shaft",
+    "shop": true
+  },
+  {
+    "name_key": "Spider_on_stick",
+    "shop": true
+  },
+  {
+    "name_key": "Spinach_roll",
+    "shop": true
+  },
+  {
+    "name_key": "Spiny_helmet",
+    "shop": true
+  },
+  {
+    "name_key": "Spork",
+    "shop": true
+  },
+  {
+    "name_key": "Staff",
+    "shop": true
+  },
+  {
+    "name_key": "Staff_of_air",
+    "shop": true
+  },
+  {
+    "name_key": "Staff_of_earth",
+    "shop": true
+  },
+  {
+    "name_key": "Staff_of_fire",
+    "shop": true
+  },
+  {
+    "name_key": "Staff_of_water",
+    "shop": true
+  },
+  {
+    "name_key": "Stamina_potion(1)",
+    "shop": true
+  },
+  {
+    "name_key": "Stamina_potion(2)",
+    "shop": true
+  },
+  {
+    "name_key": "Stamina_potion(3)",
+    "shop": true
+  },
+  {
+    "name_key": "Stamina_potion(4)",
+    "shop": true
+  },
+  {
+    "name_key": "Statius's_full_helm",
+    "shop": true
+  },
+  {
+    "name_key": "Statius's_platebody",
+    "shop": true
+  },
+  {
+    "name_key": "Statius's_platelegs",
+    "shop": true
+  },
+  {
+    "name_key": "Statius's_warhammer",
+    "shop": true
+  },
+  {
+    "name_key": "Steam_staff_upgrade_kit",
+    "shop": true
+  },
+  {
+    "name_key": "Steamforge_brew",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_2h_sword",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_arrow",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_arrow(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_arrow(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_arrow(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_arrowtips",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_axe",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_battleaxe",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_brutal",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_cannonball",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_chainbody",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_claws",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_crossbow",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_dagger",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_dagger(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_dagger(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_dagger(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_full_helm",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_halberd",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_javelin",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_javelin(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_javelin(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_javelin(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_kiteshield",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_knife",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_knife(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_knife(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_knife(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_limbs",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_longsword",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_mace",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_med_helm",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_nails",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_pickaxe",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_platebody",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_platelegs",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_plateskirt",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_scimitar",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_spear",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_spear(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_spear(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_spear(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_sq_shield",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_sword",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_thrownaxe",
+    "shop": true
+  },
+  {
+    "name_key": "Steel_warhammer",
+    "shop": true
+  },
+  {
+    "name_key": "Stew",
+    "shop": true
+  },
+  {
+    "name_key": "Strawberry",
+    "shop": true
+  },
+  {
+    "name_key": "Strawberry_seed",
+    "shop": true
+  },
+  {
+    "name_key": "Strength_potion(1)",
+    "shop": true
+  },
+  {
+    "name_key": "Strength_potion(2)",
+    "shop": true
+  },
+  {
+    "name_key": "Strength_potion(3)",
+    "shop": true
+  },
+  {
+    "name_key": "Strength_potion(4)",
+    "shop": true
+  },
+  {
+    "name_key": "Stripy_feather",
+    "shop": true
+  },
+  {
+    "name_key": "Stripy_pirate_shirt_(beige)",
+    "shop": true
+  },
+  {
+    "name_key": "Stripy_pirate_shirt_(blue)",
+    "shop": true
+  },
+  {
+    "name_key": "Stripy_pirate_shirt_(brown)",
+    "shop": true
+  },
+  {
+    "name_key": "Stripy_pirate_shirt_(red)",
+    "shop": true
+  },
+  {
+    "name_key": "Studded_body",
+    "shop": true
+  },
+  {
+    "name_key": "Studded_chaps",
+    "shop": true
+  },
+  {
+    "name_key": "Summer_pie",
+    "shop": true
+  },
+  {
+    "name_key": "Sun-shine",
+    "shop": true
+  },
+  {
+    "name_key": "Sunbeam_ale",
+    "shop": true
+  },
+  {
+    "name_key": "Sunlight_antelope_fur",
+    "shop": true
+  },
+  {
+    "name_key": "Super_kebab",
+    "shop": true
+  },
+  {
+    "name_key": "Super_restore(1)",
+    "shop": true
+  },
+  {
+    "name_key": "Super_restore(2)",
+    "shop": true
+  },
+  {
+    "name_key": "Super_restore(3)",
+    "shop": true
+  },
+  {
+    "name_key": "Super_restore(4)",
+    "shop": true
+  },
+  {
+    "name_key": "Supercompost",
+    "shop": true
+  },
+  {
+    "name_key": "Swamp_paste",
+    "shop": true
+  },
+  {
+    "name_key": "Sweetcorn",
+    "shop": true
+  },
+  {
+    "name_key": "Sweetcorn_seed",
+    "shop": true
+  },
+  {
+    "name_key": "Swift_blade",
+    "shop": true
+  },
+  {
+    "name_key": "Swordfish",
+    "shop": true
+  },
+  {
+    "name_key": "Swords_and_emblem",
+    "shop": true
+  },
+  {
+    "name_key": "Swords_and_emblem_(b)",
+    "shop": true
+  },
+  {
+    "name_key": "Swords_and_emblem_(g)",
+    "shop": true
+  },
+  {
+    "name_key": "Swords_and_emblem_(p)",
+    "shop": true
+  },
+  {
+    "name_key": "Tall_box_hedge_(bagged)",
+    "shop": true
+  },
+  {
+    "name_key": "Tall_fancy_hedge_(bagged)",
+    "shop": true
+  },
+  {
+    "name_key": "Target_teleport",
+    "shop": true
+  },
+  {
+    "name_key": "Target_teleport_scroll",
+    "shop": true
+  },
+  {
+    "name_key": "Tatty_graahk_fur",
+    "shop": true
+  },
+  {
+    "name_key": "Tatty_kyatt_fur",
+    "shop": true
+  },
+  {
+    "name_key": "Tatty_larupia_fur",
+    "shop": true
+  },
+  {
+    "name_key": "Teak_stock",
+    "shop": true
+  },
+  {
+    "name_key": "Teal_boots",
+    "shop": true
+  },
+  {
+    "name_key": "Teal_gloves",
+    "shop": true
+  },
+  {
+    "name_key": "Teal_hat",
+    "shop": true
+  },
+  {
+    "name_key": "Teal_robe_bottoms",
+    "shop": true
+  },
+  {
+    "name_key": "Teal_robe_top",
+    "shop": true
+  },
+  {
+    "name_key": "Team-1_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-10_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-11_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-12_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-13_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-14_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-15_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-16_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-17_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-18_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-19_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-2_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-20_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-21_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-22_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-23_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-24_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-25_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-26_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-27_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-28_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-29_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-3_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-30_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-31_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-32_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-33_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-34_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-35_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-36_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-37_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-38_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-39_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-4_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-40_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-41_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-42_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-43_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-44_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-45_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-46_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-47_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-48_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-49_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-5_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-50_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-6_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-7_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-8_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Team-9_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Teasing_stick",
+    "shop": true
+  },
+  {
+    "name_key": "Teleport_card",
+    "shop": true
+  },
+  {
+    "name_key": "Thin_snail",
+    "shop": true
+  },
+  {
+    "name_key": "Thorny_hedge_(bagged)",
+    "shop": true
+  },
+  {
+    "name_key": "Thread",
+    "shop": true
+  },
+  {
+    "name_key": "Tiara_mould",
+    "shop": true
+  },
+  {
+    "name_key": "Timber_beam",
+    "shop": true
+  },
+  {
+    "name_key": "Tin_ore",
+    "shop": true
+  },
+  {
+    "name_key": "Tinderbox",
+    "shop": true
+  },
+  {
+    "name_key": "Toadflax",
+    "shop": true
+  },
+  {
+    "name_key": "Toktz-ket-xil",
+    "shop": true
+  },
+  {
+    "name_key": "Toktz-mej-tal",
+    "shop": true
+  },
+  {
+    "name_key": "Toktz-xil-ak",
+    "shop": true
+  },
+  {
+    "name_key": "Toktz-xil-ek",
+    "shop": true
+  },
+  {
+    "name_key": "Toktz-xil-ul",
+    "shop": true
+  },
+  {
+    "name_key": "Tomato",
+    "shop": true
+  },
+  {
+    "name_key": "Tomato_seed",
+    "shop": true
+  },
+  {
+    "name_key": "Tonameyo_white",
+    "shop": true
+  },
+  {
+    "name_key": "Topiary_hedge_(bagged)",
+    "shop": true
+  },
+  {
+    "name_key": "Trailblazer_banner",
+    "shop": true
+  },
+  {
+    "name_key": "Trailblazer_globe",
+    "shop": true
+  },
+  {
+    "name_key": "Trailblazer_graceful_ornament_kit",
+    "shop": true
+  },
+  {
+    "name_key": "Trailblazer_reloaded_alchemy_scroll",
+    "shop": true
+  },
+  {
+    "name_key": "Trailblazer_reloaded_banner",
+    "shop": true
+  },
+  {
+    "name_key": "Trailblazer_reloaded_blowpipe_ornament_kit",
+    "shop": true
+  },
+  {
+    "name_key": "Trailblazer_reloaded_bulwark_ornament_kit",
+    "shop": true
+  },
+  {
+    "name_key": "Trailblazer_reloaded_death_scroll",
+    "shop": true
+  },
+  {
+    "name_key": "Trailblazer_reloaded_home_teleport_scroll",
+    "shop": true
+  },
+  {
+    "name_key": "Trailblazer_reloaded_rejuvenation_pool_scroll",
+    "shop": true
+  },
+  {
+    "name_key": "Trailblazer_reloaded_vengeance_scroll",
+    "shop": true
+  },
+  {
+    "name_key": "Trailblazer_rug",
+    "shop": true
+  },
+  {
+    "name_key": "Trailblazer_teleport_scroll",
+    "shop": true
+  },
+  {
+    "name_key": "Trailblazer_tool_ornament_kit",
+    "shop": true
+  },
+  {
+    "name_key": "Trapper's_tipple",
+    "shop": true
+  },
+  {
+    "name_key": "Tribal_top_(blue)",
+    "shop": true
+  },
+  {
+    "name_key": "Tribal_top_(brown)",
+    "shop": true
+  },
+  {
+    "name_key": "Tribal_top_(pink)",
+    "shop": true
+  },
+  {
+    "name_key": "Tribal_top_(yellow)",
+    "shop": true
+  },
+  {
+    "name_key": "Trousers_(blue)",
+    "shop": true
+  },
+  {
+    "name_key": "Trousers_(brown)",
+    "shop": true
+  },
+  {
+    "name_key": "Trousers_(lilac)",
+    "shop": true
+  },
+  {
+    "name_key": "Trout",
+    "shop": true
+  },
+  {
+    "name_key": "Trouver_parchment",
+    "shop": true
+  },
+  {
+    "name_key": "Tuna",
+    "shop": true
+  },
+  {
+    "name_key": "Turquoise_boots",
+    "shop": true
+  },
+  {
+    "name_key": "Turquoise_hat",
+    "shop": true
+  },
+  {
+    "name_key": "Turquoise_robe_bottoms",
+    "shop": true
+  },
+  {
+    "name_key": "Turquoise_robe_top",
+    "shop": true
+  },
+  {
+    "name_key": "Twisted_banner",
+    "shop": true
+  },
+  {
+    "name_key": "Twisted_blueprints",
+    "shop": true
+  },
+  {
+    "name_key": "Twisted_horns",
+    "shop": true
+  },
+  {
+    "name_key": "Twisted_teleport_scroll",
+    "shop": true
+  },
+  {
+    "name_key": "Tyras_helm",
+    "shop": true
+  },
+  {
+    "name_key": "Tzhaar-ket-em",
+    "shop": true
+  },
+  {
+    "name_key": "Tzhaar-ket-om",
+    "shop": true
+  },
+  {
+    "name_key": "Uncut_diamond",
+    "shop": true
+  },
+  {
+    "name_key": "Uncut_dragonstone",
+    "shop": true
+  },
+  {
+    "name_key": "Uncut_emerald",
+    "shop": true
+  },
+  {
+    "name_key": "Uncut_jade",
+    "shop": true
+  },
+  {
+    "name_key": "Uncut_onyx",
+    "shop": true
+  },
+  {
+    "name_key": "Uncut_opal",
+    "shop": true
+  },
+  {
+    "name_key": "Uncut_red_topaz",
+    "shop": true
+  },
+  {
+    "name_key": "Uncut_ruby",
+    "shop": true
+  },
+  {
+    "name_key": "Uncut_sapphire",
+    "shop": true
+  },
+  {
+    "name_key": "Unfinished_broad_bolts",
+    "shop": true
+  },
+  {
+    "name_key": "Unlit_bug_lantern",
+    "shop": true
+  },
+  {
+    "name_key": "Unlit_torch",
+    "shop": true
+  },
+  {
+    "name_key": "Unstrung_symbol",
+    "shop": true
+  },
+  {
+    "name_key": "Varlamorian_kebab",
+    "shop": true
+  },
+  {
+    "name_key": "Vesta's_chainbody",
+    "shop": true
+  },
+  {
+    "name_key": "Vesta's_longsword",
+    "shop": true
+  },
+  {
+    "name_key": "Vesta's_plateskirt",
+    "shop": true
+  },
+  {
+    "name_key": "Vesta's_spear",
+    "shop": true
+  },
+  {
+    "name_key": "Vial",
+    "shop": true
+  },
+  {
+    "name_key": "Vial_of_water",
+    "shop": true
+  },
+  {
+    "name_key": "Villager_armband_(blue)",
+    "shop": true
+  },
+  {
+    "name_key": "Villager_armband_(brown)",
+    "shop": true
+  },
+  {
+    "name_key": "Villager_armband_(pink)",
+    "shop": true
+  },
+  {
+    "name_key": "Villager_armband_(yellow)",
+    "shop": true
+  },
+  {
+    "name_key": "Villager_hat_(blue)",
+    "shop": true
+  },
+  {
+    "name_key": "Villager_hat_(brown)",
+    "shop": true
+  },
+  {
+    "name_key": "Villager_hat_(pink)",
+    "shop": true
+  },
+  {
+    "name_key": "Villager_hat_(yellow)",
+    "shop": true
+  },
+  {
+    "name_key": "Villager_robe_(blue)",
+    "shop": true
+  },
+  {
+    "name_key": "Villager_robe_(brown)",
+    "shop": true
+  },
+  {
+    "name_key": "Villager_robe_(pink)",
+    "shop": true
+  },
+  {
+    "name_key": "Villager_robe_(yellow)",
+    "shop": true
+  },
+  {
+    "name_key": "Villager_sandals_(blue)",
+    "shop": true
+  },
+  {
+    "name_key": "Villager_sandals_(brown)",
+    "shop": true
+  },
+  {
+    "name_key": "Villager_sandals_(pink)",
+    "shop": true
+  },
+  {
+    "name_key": "Villager_sandals_(yellow)",
+    "shop": true
+  },
+  {
+    "name_key": "Vodka",
+    "shop": true
+  },
+  {
+    "name_key": "Volcanic_ash",
+    "shop": true
+  },
+  {
+    "name_key": "Volcanic_whip_mix",
+    "shop": true
+  },
+  {
+    "name_key": "Vyrewatch_legs",
+    "shop": true
+  },
+  {
+    "name_key": "Vyrewatch_shoes",
+    "shop": true
+  },
+  {
+    "name_key": "Vyrewatch_top",
+    "shop": true
+  },
+  {
+    "name_key": "Ward_upgrade_kit",
+    "shop": true
+  },
+  {
+    "name_key": "Warrior_helm",
+    "shop": true
+  },
+  {
+    "name_key": "Water_rune",
+    "shop": true
+  },
+  {
+    "name_key": "Water_talisman",
+    "shop": true
+  },
+  {
+    "name_key": "Watering_can",
+    "shop": true
+  },
+  {
+    "name_key": "Watermelon",
+    "shop": true
+  },
+  {
+    "name_key": "Watermelon_seed",
+    "shop": true
+  },
+  {
+    "name_key": "Waterskin(0)",
+    "shop": true
+  },
+  {
+    "name_key": "Waterskin(4)",
+    "shop": true
+  },
+  {
+    "name_key": "Whisky",
+    "shop": true
+  },
+  {
+    "name_key": "White_2h_sword",
+    "shop": true
+  },
+  {
+    "name_key": "White_apron",
+    "shop": true
+  },
+  {
+    "name_key": "White_battleaxe",
+    "shop": true
+  },
+  {
+    "name_key": "White_boots",
+    "shop": true
+  },
+  {
+    "name_key": "White_chainbody",
+    "shop": true
+  },
+  {
+    "name_key": "White_claws",
+    "shop": true
+  },
+  {
+    "name_key": "White_dagger",
+    "shop": true
+  },
+  {
+    "name_key": "White_dagger(p)",
+    "shop": true
+  },
+  {
+    "name_key": "White_dagger(p+)",
+    "shop": true
+  },
+  {
+    "name_key": "White_dagger(p++)",
+    "shop": true
+  },
+  {
+    "name_key": "White_dark_bow_paint",
+    "shop": true
+  },
+  {
+    "name_key": "White_full_helm",
+    "shop": true
+  },
+  {
+    "name_key": "White_gloves",
+    "shop": true
+  },
+  {
+    "name_key": "White_halberd",
+    "shop": true
+  },
+  {
+    "name_key": "White_kiteshield",
+    "shop": true
+  },
+  {
+    "name_key": "White_longsword",
+    "shop": true
+  },
+  {
+    "name_key": "White_mace",
+    "shop": true
+  },
+  {
+    "name_key": "White_magic_staff",
+    "shop": true
+  },
+  {
+    "name_key": "White_med_helm",
+    "shop": true
+  },
+  {
+    "name_key": "White_platebody",
+    "shop": true
+  },
+  {
+    "name_key": "White_platelegs",
+    "shop": true
+  },
+  {
+    "name_key": "White_plateskirt",
+    "shop": true
+  },
+  {
+    "name_key": "White_scimitar",
+    "shop": true
+  },
+  {
+    "name_key": "White_sq_shield",
+    "shop": true
+  },
+  {
+    "name_key": "White_sword",
+    "shop": true
+  },
+  {
+    "name_key": "White_toy_horsey",
+    "shop": true
+  },
+  {
+    "name_key": "White_warhammer",
+    "shop": true
+  },
+  {
+    "name_key": "Wild_pie",
+    "shop": true
+  },
+  {
+    "name_key": "Wildblood_hops",
+    "shop": true
+  },
+  {
+    "name_key": "Wildblood_seed",
+    "shop": true
+  },
+  {
+    "name_key": "Wilderness_crabs_teleport",
+    "shop": true
+  },
+  {
+    "name_key": "Willow_blackjack",
+    "shop": true
+  },
+  {
+    "name_key": "Willow_blackjack(d)",
+    "shop": true
+  },
+  {
+    "name_key": "Willow_blackjack(o)",
+    "shop": true
+  },
+  {
+    "name_key": "Willow_longbow",
+    "shop": true
+  },
+  {
+    "name_key": "Willow_shortbow",
+    "shop": true
+  },
+  {
+    "name_key": "Willow_stock",
+    "shop": true
+  },
+  {
+    "name_key": "Wizard_blizzard",
+    "shop": true
+  },
+  {
+    "name_key": "Wizard_hat",
+    "shop": true
+  },
+  {
+    "name_key": "Wizard's_mind_bomb",
+    "shop": true
+  },
+  {
+    "name_key": "Woad_leaf",
+    "shop": true
+  },
+  {
+    "name_key": "Wooden_shield",
+    "shop": true
+  },
+  {
+    "name_key": "Wooden_spoon",
+    "shop": true
+  },
+  {
+    "name_key": "Wooden_stock",
+    "shop": true
+  },
+  {
+    "name_key": "Woven_top_(blue)",
+    "shop": true
+  },
+  {
+    "name_key": "Woven_top_(brown)",
+    "shop": true
+  },
+  {
+    "name_key": "Woven_top_(yellow)",
+    "shop": true
+  },
+  {
+    "name_key": "Wrath_talisman",
+    "shop": true
+  },
+  {
+    "name_key": "Yak-hide",
+    "shop": true
+  },
+  {
+    "name_key": "Yanillian_hops",
+    "shop": true
+  },
+  {
+    "name_key": "Yanillian_seed",
+    "shop": true
+  },
+  {
+    "name_key": "Yellow_boots",
+    "shop": true
+  },
+  {
+    "name_key": "Yellow_cape",
+    "shop": true
+  },
+  {
+    "name_key": "Yellow_dark_bow_paint",
+    "shop": true
+  },
+  {
+    "name_key": "Yellow_dye",
+    "shop": true
+  },
+  {
+    "name_key": "Yellow_feather",
+    "shop": true
+  },
+  {
+    "name_key": "Yellow_gloves",
+    "shop": true
+  },
+  {
+    "name_key": "Yellow_hat",
+    "shop": true
+  },
+  {
+    "name_key": "Yellow_robe_bottoms",
+    "shop": true
+  },
+  {
+    "name_key": "Yellow_robe_top",
+    "shop": true
+  },
+  {
+    "name_key": "Yew_longbow",
+    "shop": true
+  },
+  {
+    "name_key": "Yew_shortbow",
+    "shop": true
+  },
+  {
+    "name_key": "Yew_stock",
+    "shop": true
+  },
+  {
+    "name_key": "Zuriel's_hood",
+    "shop": true
+  },
+  {
+    "name_key": "Zuriel's_robe_bottom",
+    "shop": true
+  },
+  {
+    "name_key": "Zuriel's_robe_top",
+    "shop": true
+  },
+  {
+    "name_key": "Zuriel's_staff",
+    "shop": true
+  }
+]
