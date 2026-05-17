@@ -1,0 +1,152 @@
+name: OSRS Undervalued Items Filter
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/60 * * * *" # co 60 minut
+
+jobs:
+  filter:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download data
+        run: |
+          curl -s -o prices.json https://prices.runescape.wiki/api/v1/osrs/1h
+          curl -s -o mapping.json https://prices.runescape.wiki/api/v1/osrs/mapping
+
+      - name: Filter undervalued items
+        run: |
+          jq -n \
+            --slurpfile prices prices.json \
+            --slurpfile mapping mapping.json '
+
+            ($prices[0].data) as $p |
+
+            $mapping[0]
+            | map(
+                ($p[(.id|tostring)]) as $price
+                | select($price != null)
+
+                # wymagane dane
+                | select($price.avgHighPrice != null)
+                | select($price.avgLowPrice != null)
+                | select($price.highPriceVolume != null)
+                | select($price.lowPriceVolume != null)
+                | select($price.avgHighPrice > 0)
+                | select($price.avgLowPrice > 0)
+
+                # przypisania
+                | ($price.avgHighPrice) as $avgHigh
+                | ($price.avgLowPrice) as $avgLow
+                | ($price.highPriceVolume) as $highVolume
+                | ($price.lowPriceVolume) as $lowVolume
+                | (.value) as $minPrice
+
+                # FILTR
+                | select($avgHigh*0.98 > $minPrice)
+                | select($avgLow*0.98 > $minPrice)
+
+                # output
+                | {
+                    id,
+                    name,
+                    limit,
+                    value,
+                    avgHighPrice: $avgHigh,
+                    avgLowPrice: $avgLow,
+                    value: $minPrice,
+                    highPriceVolume: $highVolume,
+                    lowPriceVolume: $lowVolume
+                  }
+              )
+          ' > results.json
+
+      - name: Create totals file if missing
+        run: |
+          mkdir -p output
+
+          if [ ! -f output/shopprices.json ]; then
+            echo '{}' > output/shopprices.json
+          fi
+
+      - name: Update cumulative totals
+        run: |
+          jq -n \
+            --slurpfile current result.json \
+            --slurpfile totals output/shopprices.json '
+
+            reduce $current[0][] as $item
+              ($totals[0];
+
+                .[$item.id|tostring] as $old |
+
+                (
+                  ($old.samples // 0) + 1
+                ) as $samples |
+
+                .[$item.id|tostring] = {
+                  id: $item.id,
+                  name: $item.name,
+
+                  totalHighVolume:
+                    (
+                      ($old.totalHighVolume // 0)
+                      + $item.highPriceVolume
+                    ),
+
+                  totalLowVolume:
+                    (
+                      ($old.totalLowVolume // 0)
+                      + $item.lowPriceVolume
+                    ),
+
+                  averageHighPrice:
+                    (
+                      (
+                        (($old.averageHighPrice // 0)
+                        * ($old.samples // 0))
+                        + $item.avgHighPrice
+                      ) / $samples
+                    ),
+
+                  averageLowPrice:
+                    (
+                      (
+                        (($old.averageLowPrice // 0)
+                        * ($old.samples // 0))
+                        + $item.avgLowPrice
+                      ) / $samples
+                    ),
+
+                  samples: $samples,
+
+                  lastHighPrice: $item.avgHighPrice,
+                  lastLowPrice: $item.avgLowPrice,
+
+                  limit: $item.limit,
+                  value: $item.value,
+                  minimalPrice: $item.minimalPrice
+                }
+              )
+          ' > output/shoppricesnew.json
+
+          mv output/shoppricesnew.json output/totals.json
+
+      - name: Save latest result
+        run: |
+          mv result.json output/result.json
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add output/
+
+          git diff --cached --quiet || (
+            git commit -m "OSRS undervalued items update"
+            git push
+          )
