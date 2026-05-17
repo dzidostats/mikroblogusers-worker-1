@@ -1,0 +1,16 @@
+{
+  "6472": {
+    "id": 6472,
+    "name": "Compost potion(3)",
+    "totalHighVolume": 450,
+    "totalLowVolume": 50,
+    "averageHighPrice": 1,
+    "averageLowPrice": 1,
+    "samples": 1,
+    "lastHighPrice": 1,
+    "lastLowPrice": 1,
+    "limit": 50,
+    "value": 90,
+    "minimalPrice": 9
+  }
+}

@@ -1,13 +1,13 @@
 [
   {
-    "id": 5104,
-    "name": "Jangerberry seed",
-    "limit": 200,
-    "value": 60,
-    "avgHighPrice": 2,
-    "avgLowPrice": 2,
-    "minimalPrice": 6,
-    "highPriceVolume": 3,
-    "lowPriceVolume": 6
+    "id": 6472,
+    "name": "Compost potion(3)",
+    "limit": 50,
+    "value": 90,
+    "avgHighPrice": 1,
+    "avgLowPrice": 1,
+    "minimalPrice": 9,
+    "highPriceVolume": 450,
+    "lowPriceVolume": 50
   }
 ]
