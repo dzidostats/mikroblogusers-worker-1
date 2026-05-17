@@ -1,0 +1,72 @@
+{
+  "5104": {
+    "id": 5104,
+    "name": "Jangerberry seed",
+    "totalHighVolume": 28,
+    "totalLowVolume": 1166,
+    "averageHighPrice": 4,
+    "averageLowPrice": 4,
+    "samples": 1,
+    "lastHighPrice": 4,
+    "lastLowPrice": 4,
+    "limit": 200,
+    "value": 60,
+    "minimalPrice": 6
+  },
+  "48": {
+    "id": 48,
+    "name": "Longbow (u)",
+    "totalHighVolume": 92,
+    "totalLowVolume": 331,
+    "averageHighPrice": 4,
+    "averageLowPrice": 4,
+    "samples": 1,
+    "lastHighPrice": 4,
+    "lastLowPrice": 4,
+    "limit": 10000,
+    "value": 60,
+    "minimalPrice": 6
+  },
+  "5529": {
+    "id": 5529,
+    "name": "Mind tiara",
+    "totalHighVolume": 3,
+    "totalLowVolume": 1,
+    "averageHighPrice": 3,
+    "averageLowPrice": 4,
+    "samples": 1,
+    "lastHighPrice": 3,
+    "lastLowPrice": 4,
+    "limit": 40,
+    "value": 100,
+    "minimalPrice": 10
+  },
+  "5105": {
+    "id": 5105,
+    "name": "Whiteberry seed",
+    "totalHighVolume": 307,
+    "totalLowVolume": 1654,
+    "averageHighPrice": 6,
+    "averageLowPrice": 8,
+    "samples": 1,
+    "lastHighPrice": 6,
+    "lastLowPrice": 8,
+    "limit": 200,
+    "value": 133,
+    "minimalPrice": 13.3
+  },
+  "32041": {
+    "id": 32041,
+    "name": "Wooden hull parts",
+    "totalHighVolume": 20,
+    "totalLowVolume": 60,
+    "averageHighPrice": 20,
+    "averageLowPrice": 10,
+    "samples": 1,
+    "lastHighPrice": 20,
+    "lastLowPrice": 10,
+    "limit": 100,
+    "value": 250,
+    "minimalPrice": 25
+  }
+}

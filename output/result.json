@@ -1,13 +1,57 @@
 [
   {
-    "id": 6472,
-    "name": "Compost potion(3)",
-    "limit": 50,
-    "value": 90,
-    "avgHighPrice": 1,
-    "avgLowPrice": 1,
-    "minimalPrice": 9,
-    "highPriceVolume": 450,
-    "lowPriceVolume": 50
+    "id": 5104,
+    "name": "Jangerberry seed",
+    "limit": 200,
+    "value": 60,
+    "avgHighPrice": 4,
+    "avgLowPrice": 4,
+    "minimalPrice": 6,
+    "highPriceVolume": 28,
+    "lowPriceVolume": 1166
+  },
+  {
+    "id": 48,
+    "name": "Longbow (u)",
+    "limit": 10000,
+    "value": 60,
+    "avgHighPrice": 4,
+    "avgLowPrice": 4,
+    "minimalPrice": 6,
+    "highPriceVolume": 92,
+    "lowPriceVolume": 331
+  },
+  {
+    "id": 5529,
+    "name": "Mind tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 3,
+    "avgLowPrice": 4,
+    "minimalPrice": 10,
+    "highPriceVolume": 3,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 5105,
+    "name": "Whiteberry seed",
+    "limit": 200,
+    "value": 133,
+    "avgHighPrice": 6,
+    "avgLowPrice": 8,
+    "minimalPrice": 13.3,
+    "highPriceVolume": 307,
+    "lowPriceVolume": 1654
+  },
+  {
+    "id": 32041,
+    "name": "Wooden hull parts",
+    "limit": 100,
+    "value": 250,
+    "avgHighPrice": 20,
+    "avgLowPrice": 10,
+    "minimalPrice": 25,
+    "highPriceVolume": 20,
+    "lowPriceVolume": 60
   }
 ]
