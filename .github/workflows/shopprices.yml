@@ -62,7 +62,7 @@ jobs:
                     lowPriceVolume: $lowVolume
                   }
               )
-          ' > results.json
+          ' > shopresults.json
 
       - name: Create totals file if missing
         run: |
@@ -75,7 +75,7 @@ jobs:
       - name: Update cumulative totals
         run: |
           jq -n \
-            --slurpfile current result.json \
+            --slurpfile current shopresults.json \
             --slurpfile totals output/shopprices.json '
 
             reduce $current[0][] as $item
@@ -137,7 +137,7 @@ jobs:
 
       - name: Save latest result
         run: |
-          mv result.json output/result.json
+          mv result.json output/shopresults.json
 
       - name: Commit results
         run: |
