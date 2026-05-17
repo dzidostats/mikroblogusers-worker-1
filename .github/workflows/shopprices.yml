@@ -1,4 +1,4 @@
-name: OSRS Undervalued Items Filter
+name: OSRS shopprices Filter
 
 on:
   workflow_dispatch:
