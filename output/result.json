@@ -5,53 +5,97 @@
     "limit": 40,
     "value": 100,
     "avgHighPrice": 5,
-    "avgLowPrice": 5,
+    "avgLowPrice": 8,
     "minimalPrice": 10,
+    "highPriceVolume": 3,
+    "lowPriceVolume": 4
+  },
+  {
+    "id": 6472,
+    "name": "Compost potion(3)",
+    "limit": 50,
+    "value": 90,
+    "avgHighPrice": 1,
+    "avgLowPrice": 1,
+    "minimalPrice": 9,
+    "highPriceVolume": 212,
+    "lowPriceVolume": 50
+  },
+  {
+    "id": 4525,
+    "name": "Empty oil lamp",
+    "limit": 10000,
+    "value": 25,
+    "avgHighPrice": 2,
+    "avgLowPrice": 2,
+    "minimalPrice": 2.5,
+    "highPriceVolume": 114,
+    "lowPriceVolume": 2
+  },
+  {
+    "id": 31208,
+    "name": "Grid master torch scroll",
+    "limit": null,
+    "value": 2500000,
+    "avgHighPrice": 98412,
+    "avgLowPrice": 70000,
+    "minimalPrice": 250000,
     "highPriceVolume": 1,
     "lowPriceVolume": 1
   },
   {
-    "id": 1173,
-    "name": "Bronze sq shield",
+    "id": 1335,
+    "name": "Iron warhammer",
     "limit": 125,
-    "value": 48,
-    "avgHighPrice": 4,
-    "avgLowPrice": 1,
-    "minimalPrice": 4.800000000000001,
-    "highPriceVolume": 18,
-    "lowPriceVolume": 1
-  },
-  {
-    "id": 1309,
-    "name": "Iron 2h sword",
-    "limit": 125,
-    "value": 280,
-    "avgHighPrice": 18,
-    "avgLowPrice": 15,
-    "minimalPrice": 28,
-    "highPriceVolume": 5,
-    "lowPriceVolume": 1
-  },
-  {
-    "id": 1175,
-    "name": "Iron sq shield",
-    "limit": 125,
-    "value": 168,
-    "avgHighPrice": 11,
-    "avgLowPrice": 11,
-    "minimalPrice": 16.8,
-    "highPriceVolume": 4,
-    "lowPriceVolume": 24
+    "value": 173,
+    "avgHighPrice": 6,
+    "avgLowPrice": 6,
+    "minimalPrice": 17.3,
+    "highPriceVolume": 33,
+    "lowPriceVolume": 17
   },
   {
     "id": 48,
     "name": "Longbow (u)",
     "limit": 10000,
     "value": 60,
-    "avgHighPrice": 3,
-    "avgLowPrice": 3,
+    "avgHighPrice": 4,
+    "avgLowPrice": 4,
     "minimalPrice": 6,
-    "highPriceVolume": 135,
-    "lowPriceVolume": 182
+    "highPriceVolume": 402,
+    "lowPriceVolume": 772
+  },
+  {
+    "id": 5529,
+    "name": "Mind tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 4,
+    "avgLowPrice": 5,
+    "minimalPrice": 10,
+    "highPriceVolume": 62,
+    "lowPriceVolume": 2
+  },
+  {
+    "id": 5531,
+    "name": "Water tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 5,
+    "avgLowPrice": 5,
+    "minimalPrice": 10,
+    "highPriceVolume": 62,
+    "lowPriceVolume": 2
+  },
+  {
+    "id": 9440,
+    "name": "Wooden stock",
+    "limit": 10000,
+    "value": 20,
+    "avgHighPrice": 1,
+    "avgLowPrice": 1,
+    "minimalPrice": 2,
+    "highPriceVolume": 21,
+    "lowPriceVolume": 19
   }
 ]
