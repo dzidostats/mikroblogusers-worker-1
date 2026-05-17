@@ -1,57 +1,222 @@
 [
   {
-    "id": 5104,
-    "name": "Jangerberry seed",
-    "limit": 200,
-    "value": 60,
-    "avgHighPrice": 4,
-    "avgLowPrice": 4,
-    "minimalPrice": 6,
-    "highPriceVolume": 28,
-    "lowPriceVolume": 1166
-  },
-  {
-    "id": 48,
+    "id": "48",
     "name": "Longbow (u)",
     "limit": 10000,
     "value": 60,
-    "avgHighPrice": 4,
-    "avgLowPrice": 4,
+    "high": 4,
+    "low": 4,
     "minimalPrice": 6,
-    "highPriceVolume": 92,
-    "lowPriceVolume": 331
+    "spread": 0
   },
   {
-    "id": 5529,
-    "name": "Mind tiara",
-    "limit": 40,
-    "value": 100,
-    "avgHighPrice": 3,
-    "avgLowPrice": 4,
-    "minimalPrice": 10,
-    "highPriceVolume": 3,
-    "lowPriceVolume": 1
+    "id": "802",
+    "name": "Steel thrownaxe",
+    "limit": 7000,
+    "value": 26,
+    "high": 1,
+    "low": 1,
+    "minimalPrice": 2.6,
+    "spread": 0
   },
   {
-    "id": 5105,
+    "id": "1115",
+    "name": "Iron platebody",
+    "limit": 125,
+    "value": 560,
+    "high": 50,
+    "low": 32,
+    "minimalPrice": 56,
+    "spread": 18
+  },
+  {
+    "id": "1175",
+    "name": "Iron sq shield",
+    "limit": 125,
+    "value": 168,
+    "high": 11,
+    "low": 13,
+    "minimalPrice": 16.8,
+    "spread": -2
+  },
+  {
+    "id": "1225",
+    "name": "Mithril dagger(p)",
+    "limit": 125,
+    "value": 325,
+    "high": 7,
+    "low": 7,
+    "minimalPrice": 32.5,
+    "spread": 0
+  },
+  {
+    "id": "3335",
+    "name": "Broken bark snelm",
+    "limit": 150,
+    "value": 300,
+    "high": 18,
+    "low": 2,
+    "minimalPrice": 30,
+    "spread": 16
+  },
+  {
+    "id": "3761",
+    "name": "Fremennik brown cloak",
+    "limit": 150,
+    "value": 250,
+    "high": 12,
+    "low": 3,
+    "minimalPrice": 25,
+    "spread": 9
+  },
+  {
+    "id": "4525",
+    "name": "Empty oil lamp",
+    "limit": 10000,
+    "value": 25,
+    "high": 2,
+    "low": 2,
+    "minimalPrice": 2.5,
+    "spread": 0
+  },
+  {
+    "id": "5104",
+    "name": "Jangerberry seed",
+    "limit": 200,
+    "value": 60,
+    "high": 3,
+    "low": 4,
+    "minimalPrice": 6,
+    "spread": -1
+  },
+  {
+    "id": "5105",
     "name": "Whiteberry seed",
     "limit": 200,
     "value": 133,
-    "avgHighPrice": 6,
-    "avgLowPrice": 8,
+    "high": 6,
+    "low": 3,
     "minimalPrice": 13.3,
-    "highPriceVolume": 307,
-    "lowPriceVolume": 1654
+    "spread": 3
   },
   {
-    "id": 32041,
+    "id": "5527",
+    "name": "Air tiara",
+    "limit": 40,
+    "value": 100,
+    "high": 4,
+    "low": 3,
+    "minimalPrice": 10,
+    "spread": 1
+  },
+  {
+    "id": "5529",
+    "name": "Mind tiara",
+    "limit": 40,
+    "value": 100,
+    "high": 5,
+    "low": 4,
+    "minimalPrice": 10,
+    "spread": 1
+  },
+  {
+    "id": "5533",
+    "name": "Body tiara",
+    "limit": 40,
+    "value": 100,
+    "high": 5,
+    "low": 5,
+    "minimalPrice": 10,
+    "spread": 0
+  },
+  {
+    "id": "5708",
+    "name": "Steel spear(p+)",
+    "limit": 125,
+    "value": 325,
+    "high": 1,
+    "low": 1,
+    "minimalPrice": 32.5,
+    "spread": 0
+  },
+  {
+    "id": "6472",
+    "name": "Compost potion(3)",
+    "limit": 50,
+    "value": 90,
+    "high": 1,
+    "low": 1,
+    "minimalPrice": 9,
+    "spread": 0
+  },
+  {
+    "id": "9427",
+    "name": "Mithril limbs",
+    "limit": 10000,
+    "value": 650,
+    "high": 61,
+    "low": 45,
+    "minimalPrice": 65,
+    "spread": 16
+  },
+  {
+    "id": "9440",
+    "name": "Wooden stock",
+    "limit": 10000,
+    "value": 20,
+    "high": 1,
+    "low": 1,
+    "minimalPrice": 2,
+    "spread": 0
+  },
+  {
+    "id": "10031",
+    "name": "Rabbit snare",
+    "limit": 250,
+    "value": 15,
+    "high": 1,
+    "low": 1,
+    "minimalPrice": 1.5,
+    "spread": 0
+  },
+  {
+    "id": "30410",
+    "name": "Raging echoes boots (t1)",
+    "limit": null,
+    "value": 100000,
+    "high": 5573,
+    "low": 2625,
+    "minimalPrice": 10000,
+    "spread": 2948
+  },
+  {
+    "id": "31205",
+    "name": "Grid master altar icon scroll",
+    "limit": null,
+    "value": 2500000,
+    "high": 143430,
+    "low": 100000,
+    "minimalPrice": 250000,
+    "spread": 43430
+  },
+  {
+    "id": "31208",
+    "name": "Grid master torch scroll",
+    "limit": null,
+    "value": 2500000,
+    "high": 114782,
+    "low": 127182,
+    "minimalPrice": 250000,
+    "spread": -12400
+  },
+  {
+    "id": "32041",
     "name": "Wooden hull parts",
     "limit": 100,
     "value": 250,
-    "avgHighPrice": 20,
-    "avgLowPrice": 10,
+    "high": 20,
+    "low": 10,
     "minimalPrice": 25,
-    "highPriceVolume": 20,
-    "lowPriceVolume": 60
+    "spread": 10
   }
 ]
