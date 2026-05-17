@@ -21,14 +21,27 @@ jobs:
         run: |
           jq -n \
             --slurpfile prices prices.json \
-            --slurpfile mapping mapping.json '
+            --slurpfile mapping mapping.json \
+            --slurpfile shops data/shopitems.json '
 
             ($prices[0].data) as $p |
+
+            # 🔥 shop items normalizacja (_ -> space + lowercase)
+            ($shops[0]
+              | map(.name_key | gsub("_"; " ") | ascii_downcase)
+              | unique
+            ) as $shopSet |
 
             $mapping[0]
             | map(
                 ($p[(.id|tostring)]) as $price
                 | select($price != null)
+
+                # 🔥 normalizacja nazwy mapping
+                | (.name | ascii_downcase) as $normName
+
+                # 🔥 filtr: tylko itemy ze sklepów
+                | select(($shopSet | index($normName)) != null)
 
                 # wymagane dane
                 | select($price.avgHighPrice != null)
@@ -46,8 +59,8 @@ jobs:
                 | (.value) as $minPrice
 
                 # FILTR
-                | select($avgHigh*0.98 > $minPrice)
-                | select($avgLow*0.98 > $minPrice)
+                | select($avgHigh * 0.98 > $minPrice)
+                | select($avgLow * 0.98 > $minPrice)
 
                 # output
                 | {
@@ -57,7 +70,6 @@ jobs:
                     value,
                     avgHighPrice: $avgHigh,
                     avgLowPrice: $avgLow,
-                    value: $minPrice,
                     highPriceVolume: $highVolume,
                     lowPriceVolume: $lowVolume
                   }
@@ -128,7 +140,7 @@ jobs:
 
                   limit: $item.limit,
                   value: $item.value,
-                  minimalPrice: $item.minimalPrice
+                  minimalPrice: $item.value
                 }
               )
           ' > output/shoppricesnew.json
@@ -147,6 +159,6 @@ jobs:
           git add output/
 
           git diff --cached --quiet || (
-            git commit -m "OSRS undervalued items update"
+            git commit -m "OSRS shop + undervalued items update"
             git push
           )
