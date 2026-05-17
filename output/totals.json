@@ -1,1 +1,32 @@
-{}
+{
+  "5104": {
+    "id": 5104,
+    "name": "Jangerberry seed",
+    "totalHighVolume": 28,
+    "totalLowVolume": 1166
+  },
+  "48": {
+    "id": 48,
+    "name": "Longbow (u)",
+    "totalHighVolume": 92,
+    "totalLowVolume": 331
+  },
+  "5529": {
+    "id": 5529,
+    "name": "Mind tiara",
+    "totalHighVolume": 3,
+    "totalLowVolume": 1
+  },
+  "5105": {
+    "id": 5105,
+    "name": "Whiteberry seed",
+    "totalHighVolume": 307,
+    "totalLowVolume": 1654
+  },
+  "32041": {
+    "id": 32041,
+    "name": "Wooden hull parts",
+    "totalHighVolume": 20,
+    "totalLowVolume": 60
+  }
+}
