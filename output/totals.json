@@ -2,8 +2,16 @@
   "5104": {
     "id": 5104,
     "name": "Jangerberry seed",
-    "totalHighVolume": 28,
-    "totalLowVolume": 1166
+    "totalHighVolume": 31,
+    "totalLowVolume": 1172,
+    "averageHighPrice": 2,
+    "averageLowPrice": 2,
+    "samples": 1,
+    "lastHighPrice": 2,
+    "lastLowPrice": 2,
+    "limit": 200,
+    "value": 60,
+    "minimalPrice": 6
   },
   "48": {
     "id": 48,
