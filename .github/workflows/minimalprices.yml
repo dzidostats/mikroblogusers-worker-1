@@ -2,6 +2,8 @@ name: OSRS Undervalued Items Filter
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "*/10 * * * *" # co 10 minut
 
 jobs:
   filter:
@@ -43,10 +45,10 @@ jobs:
                 | ($price.lowPriceVolume) as $lowVolume
                 | (.value * 0.1) as $minPrice
 
-                # FILTR: cena rynkowa poniżej 10% wartości itemu
+                # FILTR
                 | select($avgHigh < $minPrice)
                 | select($avgLow < $minPrice)
-                
+
                 # output
                 | {
                     id,
@@ -58,15 +60,50 @@ jobs:
                     minimalPrice: $minPrice,
                     highPriceVolume: $highVolume,
                     lowPriceVolume: $lowVolume
-                    
-                    
                   }
               )
           ' > result.json
 
-      - name: Save result
+      - name: Create totals file if missing
         run: |
           mkdir -p output
+
+          if [ ! -f output/totals.json ]; then
+            echo '{}' > output/totals.json
+          fi
+
+      - name: Update cumulative totals
+        run: |
+          jq -n \
+            --slurpfile current result.json \
+            --slurpfile totals output/totals.json '
+
+            reduce $current[0][] as $item
+              ($totals[0];
+
+                .[$item.id|tostring] = {
+                  id: $item.id,
+                  name: $item.name,
+
+                  totalHighVolume:
+                    (
+                      (.[$item.id|tostring].totalHighVolume // 0)
+                      + $item.highPriceVolume
+                    ),
+
+                  totalLowVolume:
+                    (
+                      (.[$item.id|tostring].totalLowVolume // 0)
+                      + $item.lowPriceVolume
+                    )
+                }
+              )
+          ' > output/totals_new.json
+
+          mv output/totals_new.json output/totals.json
+
+      - name: Save latest result
+        run: |
           mv result.json output/result.json
 
       - name: Commit results
@@ -75,6 +112,7 @@ jobs:
           git config user.email "github-actions@github.com"
 
           git add output/
+
           git diff --cached --quiet || (
             git commit -m "OSRS undervalued items update"
             git push
