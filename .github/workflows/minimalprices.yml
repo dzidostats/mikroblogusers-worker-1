@@ -3,7 +3,7 @@ name: OSRS Undervalued Items Filter
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/10 * * * *" # co 10 minut
+    - cron: "*/60 * * * *" # co 60 minut
 
 jobs:
   filter:
@@ -14,7 +14,7 @@ jobs:
 
       - name: Download data
         run: |
-          curl -s -o prices.json https://prices.runescape.wiki/api/v1/osrs/5m
+          curl -s -o prices.json https://prices.runescape.wiki/api/v1/osrs/1h
           curl -s -o mapping.json https://prices.runescape.wiki/api/v1/osrs/mapping
 
       - name: Filter undervalued items
