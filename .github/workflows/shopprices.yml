@@ -137,7 +137,7 @@ jobs:
 
       - name: Save latest result
         run: |
-          mv result.json output/shopresults.json
+          mv shopresults.json output/shopresults.json
 
       - name: Commit results
         run: |
