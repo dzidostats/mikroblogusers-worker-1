@@ -7,8 +7,8 @@
     "avgHighPrice": 9,
     "avgLowPrice": 8,
     "minimalPrice": 10,
-    "highPriceVolume": 46,
-    "lowPriceVolume": 79
+    "highPriceVolume": 43,
+    "lowPriceVolume": 2
   },
   {
     "id": 5533,
@@ -18,62 +18,62 @@
     "avgHighPrice": 5,
     "avgLowPrice": 5,
     "minimalPrice": 10,
-    "highPriceVolume": 42,
-    "lowPriceVolume": 40
+    "highPriceVolume": 40,
+    "lowPriceVolume": 2
+  },
+  {
+    "id": 6472,
+    "name": "Compost potion(3)",
+    "limit": 50,
+    "value": 90,
+    "avgHighPrice": 1,
+    "avgLowPrice": 1,
+    "minimalPrice": 9,
+    "highPriceVolume": 950,
+    "lowPriceVolume": 100
+  },
+  {
+    "id": 4525,
+    "name": "Empty oil lamp",
+    "limit": 10000,
+    "value": 25,
+    "avgHighPrice": 2,
+    "avgLowPrice": 2,
+    "minimalPrice": 2.5,
+    "highPriceVolume": 50,
+    "lowPriceVolume": 448
   },
   {
     "id": 1131,
     "name": "Hardleather body",
     "limit": 125,
     "value": 170,
-    "avgHighPrice": 10,
-    "avgLowPrice": 6,
+    "avgHighPrice": 11,
+    "avgLowPrice": 8,
     "minimalPrice": 17,
-    "highPriceVolume": 3432,
-    "lowPriceVolume": 2
+    "highPriceVolume": 133,
+    "lowPriceVolume": 111
   },
   {
     "id": 1335,
     "name": "Iron warhammer",
     "limit": 125,
     "value": 173,
-    "avgHighPrice": 15,
+    "avgHighPrice": 13,
     "avgLowPrice": 14,
     "minimalPrice": 17.3,
-    "highPriceVolume": 22,
-    "lowPriceVolume": 149
-  },
-  {
-    "id": 48,
-    "name": "Longbow (u)",
-    "limit": 10000,
-    "value": 60,
-    "avgHighPrice": 3,
-    "avgLowPrice": 3,
-    "minimalPrice": 6,
-    "highPriceVolume": 24,
-    "lowPriceVolume": 166
-  },
-  {
-    "id": 5529,
-    "name": "Mind tiara",
-    "limit": 40,
-    "value": 100,
-    "avgHighPrice": 5,
-    "avgLowPrice": 2,
-    "minimalPrice": 10,
-    "highPriceVolume": 167,
-    "lowPriceVolume": 518
+    "highPriceVolume": 3,
+    "lowPriceVolume": 1
   },
   {
     "id": 1424,
     "name": "Steel mace",
     "limit": 125,
     "value": 225,
-    "avgHighPrice": 11,
-    "avgLowPrice": 11,
+    "avgHighPrice": 20,
+    "avgLowPrice": 20,
     "minimalPrice": 22.5,
-    "highPriceVolume": 474,
-    "lowPriceVolume": 125
+    "highPriceVolume": 17,
+    "lowPriceVolume": 227
   }
 ]
