@@ -1,25 +1,58 @@
 [
   {
+    "id": 5527,
+    "name": "Air tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 9,
+    "avgLowPrice": 8,
+    "minimalPrice": 10,
+    "highPriceVolume": 46,
+    "lowPriceVolume": 79
+  },
+  {
+    "id": 5533,
+    "name": "Body tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 5,
+    "avgLowPrice": 5,
+    "minimalPrice": 10,
+    "highPriceVolume": 42,
+    "lowPriceVolume": 40
+  },
+  {
     "id": 1131,
     "name": "Hardleather body",
     "limit": 125,
     "value": 170,
-    "avgHighPrice": 11,
-    "avgLowPrice": 11,
+    "avgHighPrice": 10,
+    "avgLowPrice": 6,
     "minimalPrice": 17,
-    "highPriceVolume": 1083,
-    "lowPriceVolume": 1806
+    "highPriceVolume": 3432,
+    "lowPriceVolume": 2
   },
   {
-    "id": 5104,
-    "name": "Jangerberry seed",
-    "limit": 200,
+    "id": 1335,
+    "name": "Iron warhammer",
+    "limit": 125,
+    "value": 173,
+    "avgHighPrice": 15,
+    "avgLowPrice": 14,
+    "minimalPrice": 17.3,
+    "highPriceVolume": 22,
+    "lowPriceVolume": 149
+  },
+  {
+    "id": 48,
+    "name": "Longbow (u)",
+    "limit": 10000,
     "value": 60,
-    "avgHighPrice": 5,
-    "avgLowPrice": 4,
+    "avgHighPrice": 3,
+    "avgLowPrice": 3,
     "minimalPrice": 6,
-    "highPriceVolume": 100,
-    "lowPriceVolume": 94
+    "highPriceVolume": 24,
+    "lowPriceVolume": 166
   },
   {
     "id": 5529,
@@ -27,42 +60,20 @@
     "limit": 40,
     "value": 100,
     "avgHighPrice": 5,
-    "avgLowPrice": 4,
+    "avgLowPrice": 2,
     "minimalPrice": 10,
-    "highPriceVolume": 37,
-    "lowPriceVolume": 1
-  },
-  {
-    "id": 3097,
-    "name": "Steel claws",
-    "limit": 125,
-    "value": 175,
-    "avgHighPrice": 1,
-    "avgLowPrice": 1,
-    "minimalPrice": 17.5,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 1
+    "highPriceVolume": 167,
+    "lowPriceVolume": 518
   },
   {
     "id": 1424,
     "name": "Steel mace",
     "limit": 125,
     "value": 225,
-    "avgHighPrice": 16,
-    "avgLowPrice": 4,
+    "avgHighPrice": 11,
+    "avgLowPrice": 11,
     "minimalPrice": 22.5,
-    "highPriceVolume": 5,
-    "lowPriceVolume": 11
-  },
-  {
-    "id": 5105,
-    "name": "Whiteberry seed",
-    "limit": 200,
-    "value": 133,
-    "avgHighPrice": 6,
-    "avgLowPrice": 10,
-    "minimalPrice": 13.3,
-    "highPriceVolume": 99,
-    "lowPriceVolume": 151
+    "highPriceVolume": 474,
+    "lowPriceVolume": 125
   }
 ]
