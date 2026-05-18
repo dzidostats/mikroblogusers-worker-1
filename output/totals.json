@@ -5234,5 +5234,61 @@
     "limit": 150,
     "value": 500,
     "minimalPrice": 500
+  },
+  "5527": {
+    "id": 5527,
+    "name": "Air tiara",
+    "totalHighVolume": 180,
+    "totalLowVolume": 6,
+    "averageHighPrice": 9,
+    "averageLowPrice": 7,
+    "samples": 1,
+    "lastHighPrice": 9,
+    "lastLowPrice": 7,
+    "limit": 40,
+    "value": 100,
+    "minimalPrice": 10
+  },
+  "4525": {
+    "id": 4525,
+    "name": "Empty oil lamp",
+    "totalHighVolume": 115,
+    "totalLowVolume": 127,
+    "averageHighPrice": 2,
+    "averageLowPrice": 2,
+    "samples": 1,
+    "lastHighPrice": 2,
+    "lastLowPrice": 2,
+    "limit": 10000,
+    "value": 25,
+    "minimalPrice": 2.5
+  },
+  "1335": {
+    "id": 1335,
+    "name": "Iron warhammer",
+    "totalHighVolume": 18,
+    "totalLowVolume": 131,
+    "averageHighPrice": 10,
+    "averageLowPrice": 5,
+    "samples": 1,
+    "lastHighPrice": 10,
+    "lastLowPrice": 5,
+    "limit": 125,
+    "value": 173,
+    "minimalPrice": 17.3
+  },
+  "1424": {
+    "id": 1424,
+    "name": "Steel mace",
+    "totalHighVolume": 12,
+    "totalLowVolume": 1,
+    "averageHighPrice": 20,
+    "averageLowPrice": 4,
+    "samples": 1,
+    "lastHighPrice": 20,
+    "lastLowPrice": 4,
+    "limit": 125,
+    "value": 225,
+    "minimalPrice": 22.5
   }
 }
