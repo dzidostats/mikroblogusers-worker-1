@@ -1,47 +1,91 @@
 [
   {
-    "id": 1169,
-    "name": "Coif",
-    "limit": 125,
-    "value": 200,
-    "avgHighPrice": 19,
-    "avgLowPrice": 13,
-    "minimalPrice": 20,
-    "highPriceVolume": 331,
-    "lowPriceVolume": 105
+    "id": 5527,
+    "name": "Air tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 9,
+    "avgLowPrice": 9,
+    "minimalPrice": 10,
+    "highPriceVolume": 8,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 5533,
+    "name": "Body tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 5,
+    "avgLowPrice": 5,
+    "minimalPrice": 10,
+    "highPriceVolume": 3,
+    "lowPriceVolume": 2
+  },
+  {
+    "id": 6472,
+    "name": "Compost potion(3)",
+    "limit": 50,
+    "value": 90,
+    "avgHighPrice": 1,
+    "avgLowPrice": 1,
+    "minimalPrice": 9,
+    "highPriceVolume": 950,
+    "lowPriceVolume": 150
   },
   {
     "id": 6470,
     "name": "Compost potion(4)",
     "limit": 50,
     "value": 120,
-    "avgHighPrice": 1,
-    "avgLowPrice": 10,
+    "avgHighPrice": 3,
+    "avgLowPrice": 4,
     "minimalPrice": 12,
-    "highPriceVolume": 277,
-    "lowPriceVolume": 50
+    "highPriceVolume": 4,
+    "lowPriceVolume": 1
   },
   {
     "id": 5537,
     "name": "Fire tiara",
     "limit": 40,
     "value": 100,
-    "avgHighPrice": 7,
+    "avgHighPrice": 4,
     "avgLowPrice": 6,
     "minimalPrice": 10,
-    "highPriceVolume": 59,
-    "lowPriceVolume": 1
+    "highPriceVolume": 154,
+    "lowPriceVolume": 109
   },
   {
     "id": 1131,
     "name": "Hardleather body",
     "limit": 125,
     "value": 170,
-    "avgHighPrice": 10,
-    "avgLowPrice": 8,
+    "avgHighPrice": 11,
+    "avgLowPrice": 10,
     "minimalPrice": 17,
-    "highPriceVolume": 14,
-    "lowPriceVolume": 9
+    "highPriceVolume": 391,
+    "lowPriceVolume": 158
+  },
+  {
+    "id": 1175,
+    "name": "Iron sq shield",
+    "limit": 125,
+    "value": 168,
+    "avgHighPrice": 14,
+    "avgLowPrice": 14,
+    "minimalPrice": 16.8,
+    "highPriceVolume": 12,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 1335,
+    "name": "Iron warhammer",
+    "limit": 125,
+    "value": 173,
+    "avgHighPrice": 16,
+    "avgLowPrice": 15,
+    "minimalPrice": 17.3,
+    "highPriceVolume": 99,
+    "lowPriceVolume": 209
   },
   {
     "id": 5529,
@@ -49,42 +93,42 @@
     "limit": 40,
     "value": 100,
     "avgHighPrice": 3,
-    "avgLowPrice": 2,
+    "avgLowPrice": 5,
     "minimalPrice": 10,
-    "highPriceVolume": 111,
-    "lowPriceVolume": 52
-  },
-  {
-    "id": 5106,
-    "name": "Poison ivy seed",
-    "limit": 200,
-    "value": 166,
-    "avgHighPrice": 13,
-    "avgLowPrice": 12,
-    "minimalPrice": 16.6,
-    "highPriceVolume": 70,
-    "lowPriceVolume": 1187
+    "highPriceVolume": 14,
+    "lowPriceVolume": 2
   },
   {
     "id": 22873,
     "name": "Potato cactus seed",
     "limit": 200,
     "value": 140,
-    "avgHighPrice": 12,
-    "avgLowPrice": 12,
+    "avgHighPrice": 6,
+    "avgLowPrice": 10,
     "minimalPrice": 14,
-    "highPriceVolume": 9,
-    "lowPriceVolume": 58
+    "highPriceVolume": 4,
+    "lowPriceVolume": 1140
   },
   {
-    "id": 1831,
-    "name": "Waterskin(0)",
-    "limit": 10000,
-    "value": 15,
-    "avgHighPrice": 1,
-    "avgLowPrice": 1,
-    "minimalPrice": 1.5,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 25
+    "id": 5531,
+    "name": "Water tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 5,
+    "avgLowPrice": 4,
+    "minimalPrice": 10,
+    "highPriceVolume": 14,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 5105,
+    "name": "Whiteberry seed",
+    "limit": 200,
+    "value": 133,
+    "avgHighPrice": 2,
+    "avgLowPrice": 6,
+    "minimalPrice": 13.3,
+    "highPriceVolume": 413,
+    "lowPriceVolume": 2172
   }
 ]
