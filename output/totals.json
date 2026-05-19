@@ -4594,12 +4594,12 @@
   "5527": {
     "id": 5527,
     "name": "Air tiara",
-    "totalHighVolume": 44,
-    "totalLowVolume": 1,
-    "averageHighPrice": 9,
+    "totalHighVolume": 46,
+    "totalLowVolume": 2,
+    "averageHighPrice": 8,
     "averageLowPrice": 5,
-    "samples": 1,
-    "lastHighPrice": 9,
+    "samples": 2,
+    "lastHighPrice": 7,
     "lastLowPrice": 5,
     "limit": 40,
     "value": 100,
@@ -4632,5 +4632,19 @@
     "limit": 40,
     "value": 100,
     "minimalPrice": 10
+  },
+  "48": {
+    "id": 48,
+    "name": "Longbow (u)",
+    "totalHighVolume": 4,
+    "totalLowVolume": 706,
+    "averageHighPrice": 3,
+    "averageLowPrice": 3,
+    "samples": 1,
+    "lastHighPrice": 3,
+    "lastLowPrice": 3,
+    "limit": 10000,
+    "value": 60,
+    "minimalPrice": 6
   }
 }
