@@ -4590,5 +4590,47 @@
     "limit": 150,
     "value": 5,
     "minimalPrice": 5
+  },
+  "5527": {
+    "id": 5527,
+    "name": "Air tiara",
+    "totalHighVolume": 44,
+    "totalLowVolume": 1,
+    "averageHighPrice": 9,
+    "averageLowPrice": 5,
+    "samples": 1,
+    "lastHighPrice": 9,
+    "lastLowPrice": 5,
+    "limit": 40,
+    "value": 100,
+    "minimalPrice": 10
+  },
+  "1335": {
+    "id": 1335,
+    "name": "Iron warhammer",
+    "totalHighVolume": 5,
+    "totalLowVolume": 6,
+    "averageHighPrice": 15,
+    "averageLowPrice": 14,
+    "samples": 1,
+    "lastHighPrice": 15,
+    "lastLowPrice": 14,
+    "limit": 125,
+    "value": 173,
+    "minimalPrice": 17.3
+  },
+  "5529": {
+    "id": 5529,
+    "name": "Mind tiara",
+    "totalHighVolume": 5,
+    "totalLowVolume": 6,
+    "averageHighPrice": 8,
+    "averageLowPrice": 5,
+    "samples": 1,
+    "lastHighPrice": 8,
+    "lastLowPrice": 5,
+    "limit": 40,
+    "value": 100,
+    "minimalPrice": 10
   }
 }
